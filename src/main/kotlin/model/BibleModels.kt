@@ -1,5 +1,8 @@
 package model
 
+import kotlinx.serialization.Serializable
+
+@Serializable
 data class Verse(
     val chapter: Int,
     val verse: Int,
@@ -19,11 +22,13 @@ data class VerseCollector(
     var notes: String? = null
 )
 
+@Serializable
 data class Chapter(
     val chapter: Int,
-    val verses: Set<Verse>
+    val verses: List<Verse>
 )
 
+@Serializable
 data class Chapters(
-    val chapters: Set<Chapter>
+    val chapters: List<Chapter>
 )
