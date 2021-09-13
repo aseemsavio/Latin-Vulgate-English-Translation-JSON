@@ -1,0 +1,2504 @@
+[
+    {
+        "chapter": 1,
+        "verses": [
+            {
+                "chapter": 1,
+                "verse": 1,
+                "textEn": "And so Arphaxad, king of the Medes, subjugated many nations under his authority, and he built a very powerful city, which he called Ecbatana.",
+                "textLa": "Arphaxad itaque, rex Medorum, subiugaverat multas gentes imperio suo, et ipse ædificavit civitatem potentissimam, quam appellavit Ecbatanis,",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 2,
+                "textEn": "From stones, cut and squared, he made its walls: seventy cubits in height and thirty cubits in breadth. And, in truth, he set its towers one hundred cubits in height.",
+                "textLa": "ex lapidibus quadratis et sectis: fecit muros eius in altitudinem cubitorum septuaginta, et in latitudinem cubitorum triginta, turres vero eius posuit in altitudinem cubitorum centum.",
+                "notes": "Some translations have the 70 cubits as its width, but this is clearly not what the Latin text says. The text does not specify width, as this would be irrelevant to the strength of the wall. Only the height and thickness of the wall is relevant to its strength. The width would be whatever was necessary to encompass the area."
+            },
+            {
+                "chapter": 1,
+                "verse": 3,
+                "textEn": "In fact, at its corners, each side was extended for the space of twenty feet. And he set its gates according to the height of the towers.",
+                "textLa": "Per quadrum vero earum latus utrumque vicenorum pedum spatio tendebatur, posuitque portas eius in altitudinem turrium:",
+                "notes": "Although in Biblical times they did not have the English unit of measure called a foot (12 inches), this passage calls the distance twenty ‘foot,’ meaning literally twenty times the length of a man’s foot."
+            },
+            {
+                "chapter": 1,
+                "verse": 4,
+                "textEn": "And he glorified it, in its power, with the force of his army and with the glory of his chariots.",
+                "textLa": "et gloriabatur quasi potens in potentia exercitus sui, et in gloria quadrigarum suarum.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 5,
+                "textEn": "Thereafter, in the twelfth year of his reign, Nebuchadnezzar, king of the Assyrians, who reigned in Nineveh the great city, fought against Arphaxad and prevailed over him:",
+                "textLa": "Anno igitur duodecimo regni sui: Nabuchodonosor rex Assyriorum, qui regnabat in Ninive civitate magna, pugnavit contra Arphaxad, et obtinuit eum",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 6,
+                "textEn": "in the great plain, which is called Ragae, near the Euphrates, and the Tigris, and the Hydaspes, at the encampment of Arioch, king of the Elymaeans.",
+                "textLa": "in campo magno, qui appellatur Ragau, circa Euphraten, et Tigrin, et Iadason, in campo Erioch regis Elicorum.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 7,
+                "textEn": "Then the kingdom of Nebuchadnezzar was exalted, and his heart was elevated. And he sent to all who dwelt in Cilicia, and Damascus, and Lebanon,",
+                "textLa": "Tunc exaltatum est regnum Nabuchodonosor, et cor eius elevatum est: et misit ad omnes, qui habitabant in Cilicia, et Damasco, et Libano,",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 8,
+                "textEn": "and to the nations that are in Carmel and Kedar, and to the inhabitants of Galilee, in the great plain of Esdrelon,",
+                "textLa": "et ad gentes quæ sunt in Carmelo, et Cedar, et inhabitantes Galilæam in campo magno Esdrelon,",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 9,
+                "textEn": "and to all who were in Samaria and across the river Jordan, even to Jerusalem and to all the land of Jesse, until one passes through to the borders of Ethiopia.",
+                "textLa": "et ad omnes qui erant in Samaria, et trans flumen Iordanem usque ad Ierusalem, et omnem terram Iesse quousque perveniatur ad terminos Æthiopiæ.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 10,
+                "textEn": "To all these, Nebuchadnezzar, king of the Assyrians, sent messengers:",
+                "textLa": "Ad hos omnes misit nuncios Nabuchodonosor rex Assyriorum:",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 11,
+                "textEn": "whom they all with one mind contradicted, and they sent them back empty, and they rejected them without honor.",
+                "textLa": "qui omnes uno animo contradixerunt, et remiserunt eos vacuos, et sine honore abiecerunt.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 12,
+                "textEn": "Then king Nebuchadnezzar, being indignant against all that land, swore by his throne and his kingdom that he would defend himself against all those regions.",
+                "textLa": "Tunc indignatus Nabuchodonosor rex adversus omnem terram illam, iuravit per thronum et regnum suum quod defenderet se de omnibus regionibus his.",
+                "notes": "The word ‘defenderet’ does not refer to revenge; the king thought of this offense against his messengers as an attack against his honor, which he would then defend against."
+            }
+        ]
+    },
+    {
+        "chapter": 2,
+        "verses": [
+            {
+                "chapter": 2,
+                "verse": 1,
+                "textEn": "In the thirteenth year of the reign of Nebuchadnezzar, on the twenty-second day of the first month, the word went forth from the house of Nebuchadnezzar, king of the Assyrians, that he would defend himself.",
+                "textLa": "Anno tertiodecimo Nabuchodonosor regis, vigesima et secunda die mensis primi, factum est verbum in domo Nabuchodonosor regis Assyriorum ut defenderet se.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 2,
+                "textEn": "And he called all the native leaders, and all the commanders, and his officers of war, and he met with them in his secret council.",
+                "textLa": "Vocavitque omnes maiores natu, omnesque duces, et bellatores suos, et habuit cum eis mysterium consilii sui:",
+                "notes": "The term ‘majores natu’ refers to those leaders who were not of Nebuchadnezzar’s kingdom, but who were allowed to have authority among their own people as long as they subjected themselves to him as king. The term refers to the native-born leaders."
+            },
+            {
+                "chapter": 2,
+                "verse": 3,
+                "textEn": "And he said to them that his thoughts were to subjugate all the earth to his authority.",
+                "textLa": "dixitque cogitationem suam in eo esse, ut omnem terram suo subiugaret imperio.",
+                "notes": "The story of Nebuchadnezzar is a foreshadowing of the Antichrist’s reign, when he will try to subjugate the whole world to his authority. His defeat of the kind of the Medes is a foreshadowing of the Antichrist’s defeat of the Christian king of the South, just prior to taking over the whole world. Nebuchadnezzar’s defeat of the other regions, and they subsequent willing submission to him represents the Antichrist’s defeat of two more kings after the king of the South and then the willing submission of the other world leaders to him thereafter."
+            },
+            {
+                "chapter": 2,
+                "verse": 4,
+                "textEn": "And when this saying pleased them all, king Nebuchadnezzar called Holofernes, the leader of his military.",
+                "textLa": "Quod dictum cum placuisset omnibus, vocavit Nabuchodonosor rex Holofernem principem militiæ suæ,",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 5,
+                "textEn": "And he said to him: “Go out against all the kingdoms of the west, and against those in particular who showed contempt for my authority.",
+                "textLa": "et dixit ei: Egredere adversus omne regnum Occidentis, et contra eos præcipue, qui contempserunt imperium eum.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 6,
+                "textEn": "Your eye must not spare any kingdom, and all the fortified cities you will subjugate to me.”",
+                "textLa": "Non parcet oculus tuus ulli regno, omnemque urbem munitam subiugabis mihi.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 7,
+                "textEn": "Then Holofernes called the commanders and the magistrates of the army of the Assyrians. And he numbered men for the expedition, just as the king had instructed him: one hundred and twenty thousand foot-soldiers, and twelve thousand archers on horseback.",
+                "textLa": "Tunc Holofernes vocavit duces, et magistratus virtutis Assyriorum: et dinumeravit viros in expeditionem, sicut præcepit ei rex, centum viginti millia peditum pugnatorum, et equitum sagittariorum duodecim millia.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 8,
+                "textEn": "And he caused his entire expeditionary force to go ahead with an innumerable multitude of camels, with whatever was needed in abundance for the armies, and with herds of cattle, and flocks of sheep, which could not be numbered.",
+                "textLa": "Omnemque expeditionem suam fecit præire in multitudine innumerabilium camelorum, cum his quæ exercitibus sufficerent copiose, boum quoque armenta, gregesque ovium, quorum non erat numerus.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 9,
+                "textEn": "He appointed grain to be prepared from all of Syria, as he passed through it.",
+                "textLa": "Frumentum ex omni Syria in transitu suo parari constituit.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 10,
+                "textEn": "In fact, he took up gold and silver from the house of the king in great abundance.",
+                "textLa": "Aurum vero, et argentum de domo regis assumpsit multum nimis.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 11,
+                "textEn": "And he set out, he and all the army, with the four-horse chariots, and horsemen, and archers. And they covered the face of the earth like locusts.",
+                "textLa": "Et profectus est ipse, et omnis exercitus cum quadrigis, et equitibus, et sagittariis, qui cooperuerunt faciem terræ, sicut locustæ.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 12,
+                "textEn": "And when he had crossed over the borders of the Assyrians, he came to the great mountains of Ange, which are on the left of Cilicia. And he ascended to all their castles, and he prevailed over all the fortifications.",
+                "textLa": "Cumque pertransisset fines Assyriorum, venit ad magnos montes Ange, qui sunt a sinistro Ciliciæ, ascenditque omnia castella eorum, et obtinuit omnem munitionem.",
+                "notes": "The word ‘ange’ in Latin refers to a ‘choke point,’ which, in military terms, is a place that is dangerous to pass through because it is narrow and easily defended. So, ‘Ange’ is not so much a name as a description."
+            },
+            {
+                "chapter": 2,
+                "verse": 13,
+                "textEn": "Moreover, he broke open the renowned city of Melothus, and he pillaged all the sons of Tarshish, and the sons of Ishmael, who were opposite the face of the desert and to the south of the land of Cellon.",
+                "textLa": "Effregit autem civitatem opinatissimam Melothi, prædavitque omnes filios Tharsis, et filios Ismael, qui erant contra faciem deserti, et ad austrum terræ Cellon.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 14,
+                "textEn": "And he crossed over the Euphrates and came into Mesopotamia. And he crushed all the lofty cities that were there, from the torrent of Mambre, even until one passes through to the sea.",
+                "textLa": "Et transivit Euphraten, et venit in Mesopotamiam: et fregit omnes civitates excelsas, quæ erant ibi, a torrente Mambre usquequo perveniatur ad mare:",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 15,
+                "textEn": "And he occupied its furthest regions, from Cilicia all the way to the coastlines of Japheth, which are towards the south.",
+                "textLa": "et occupavit terminos eius, a Cilicia usque ad fines Iapheth, qui sunt ad austrum.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 16,
+                "textEn": "And he carried away all the sons of Midian, and he plundered them in all their wealthy regions. And all who resisted him, he slew with the edge of the sword.",
+                "textLa": "Abduxitque omnes filios Madian, et prædavit omnem locupletationem eorum, omnesque resistentes sibi occidit in ore gladii.",
+                "notes": "The edge of the sword, or, more literally, the mouth of the sword."
+            },
+            {
+                "chapter": 2,
+                "verse": 17,
+                "textEn": "And after these things, he descended to the plains of Damascus, in the days of the harvest, and he set fire to all the crops, and he caused all the trees and the vineyards to be cut down.",
+                "textLa": "Et post hæc descendit in campos Damasci in diebus messis, et succendit omnia sata, omnesque arbores, et vineas fecit incidi:",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 18,
+                "textEn": "And the fear of them fell upon all the inhabitants of the land.",
+                "textLa": "et cecidit timor illius super omnes inhabitantes terram.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 3,
+        "verses": [
+            {
+                "chapter": 3,
+                "verse": 1,
+                "textEn": "Then the kings as well as the princes of the provinces sent their emissaries from all of the cities: from Syria, particularly Mesopotamia, and Syria Sobal, and Libya as well as Cilicia. These, upon coming to Holofernes, said:",
+                "textLa": "Tunc miserunt legatos suos universarum urbium, ac provinciarum reges ac principes, Syriæ scilicet Mesopotamiæ, et Syriæ Sobal, et Libyæ, atque Ciliciæ, qui venientes ad Holofernem, dixerunt:",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 2,
+                "textEn": "“Let your indignation concerning us cease. For it is better for us to live in service to Nebuchadnezzar, the great king, and to become subject to you, rather than to die, even though we may have to suffer our condemnation into the annihilation of slavery.",
+                "textLa": "Desinat indignatio tua circa nos: Melius est enim ut viventes serviamus Nabuchodonosor regi magno, et subditi simus tibi, quam morientes cum interitu nostro ipsi servitutis nostræ damna patiamur.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 3,
+                "textEn": "All our cities and all our possessions, all mountains, and hills, and fields, and herds of cattle, and flocks of sheep, and goats, and horses, and camels, and all our resources and families are in your sight.",
+                "textLa": "Omnis civitas nostra, omnisque possessio, omnes montes, et colles, et campi, et armenta boum, gregesque ovium, et caprarum, equorumque et camelorum, et universæ facultates nostræ, atque familiæ in conspectu tuo sunt:",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 4,
+                "textEn": "Let all that we have be subject to your law.",
+                "textLa": "sint omnia nostra sub lege tua.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 5,
+                "textEn": "We, and our sons, are your servants.",
+                "textLa": "Nos, et filii nostri, servi tui sumus.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 6,
+                "textEn": "Come to us as a peaceful lord, and use our service, just as it pleases you.”",
+                "textLa": "Veni nobis pacificus dominus, et utere servitio nostro, sicut placuerit tibi.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 7,
+                "textEn": "Then he descended from the mountains with horsemen, in great power, and he took charge of every city and of every inhabitant of the land.",
+                "textLa": "Tunc descendit de montibus cum equitibus in virtute magna, et obtinuit omnem civitatem, et omnem inhabitantem terram.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 8,
+                "textEn": "And, from all the cities, he took for himself auxiliaries: strong men and well-chosen for war.",
+                "textLa": "De universis autem urbibus assumpsit sibi auxiliarios viros fortes, et electos ad bellum.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 9,
+                "textEn": "And such a dread lay upon those provinces, that the leading and honored inhabitants of all the cities, together with the people, went out to meet him at his arrival.",
+                "textLa": "Tantusque metus provinciis illis incubuit, ut universarum urbium habitatores principes, et honorati simul cum populis exirent obviam venienti,",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 10,
+                "textEn": "They received him with garlands and lamps; they were led by choirs with timbrels and flutes.",
+                "textLa": "excipientes eum cum coronis, et lampadibus, ducentes choros in tympanis, et tibiis.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 11,
+                "textEn": "Yet, not even by doing these things were they able to mitigate the ferocity of his chest.",
+                "textLa": "Nec ista tamen facientes, ferocitatem eius pectoris mitigare potuerunt:",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 12,
+                "textEn": "For he both destroyed their cities and cut down their sacred groves.",
+                "textLa": "nam et civitates eorum destruxit, et lucos eorum excidit.",
+                "notes": "The word ‘lucos,’ or ‘groves,’ in this context refers to ‘sacred groves’ used in pagan worship."
+            },
+            {
+                "chapter": 3,
+                "verse": 13,
+                "textEn": "For king Nebuchadnezzar had instructed him to exterminate all the gods of the earth, evidently so that he alone might be called ‘god’ by those nations which were able to be subjugated by the power of Holofernes.",
+                "textLa": "Præceperat enim illi Nabuchodonosor rex, ut omnes deos terræ exterminaret, videlicet ut ipse solus diceretur deus ab his nationibus, quæ potuissent Holofernis potentia subiugari.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 14,
+                "textEn": "But when he had passed through Syria Sobal, and all of Apamea, and all Mesopotamia, he came to the Idumeans in the land of Gibeah.",
+                "textLa": "Pertransiens autem Syriam Sobal, et omnem Apameam, omnemque Mesopotamiam, venit ad Idumæos in terram Gabaa,",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 15,
+                "textEn": "And he took their cities, and he sat there for thirty days, during which days he instructed all the troops of his army to regroup.",
+                "textLa": "accepitque civitates eorum, et sedit ibi per triginta dies, in quibus diebus adunari præcepit universum exercitum virtutis suæ.",
+                "notes": "The word ‘adunari’ literally means to come together as one, but in this context it refers to the regrouping of the troops."
+            }
+        ]
+    },
+    {
+        "chapter": 4,
+        "verses": [
+            {
+                "chapter": 4,
+                "verse": 1,
+                "textEn": "Then, upon hearing these things, the sons of Israel, who dwelt in the land of Judah, were very afraid before his face.",
+                "textLa": "Tunc audientes hæc filii Israel, qui habitabant in terra Iuda, timuerunt valde a facie eius.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 2,
+                "textEn": "Trembling and horror invaded their senses, lest he should do the same thing to Jerusalem and to the temple of the Lord that he had done to other cities and their temples.",
+                "textLa": "Tremor, et horror invasit sensus eorum, ne hoc faceret Ierusalem et templo Domini, quod fecerat ceteris civitatibus et templis earum.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 3,
+                "textEn": "And they sent into all of Samaria, and by an indirect route even to Jericho, and they seized in advance all the tops of the mountains.",
+                "textLa": "Et miserunt in omnem Samariam per circuitum usque Iericho, et præoccupaverunt omnes vertices montium:",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 4,
+                "textEn": "And they surrounded their villages with walls, and they gathered together grain in preparation for the fight.",
+                "textLa": "et muris circumdederunt vicos suos, et congregaverunt frumenta in præparationem pugnæ.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 5,
+                "textEn": "And then Eliachim the priest wrote to all who were opposite Esdrelon, which is opposite the face of the great plain near Dothain, and to all whom he would be able to reach through a passable way:",
+                "textLa": "Sacerdos etiam Eliachim scripsit ad universos qui erant contra Esdrelon, quæ est contra faciem campi magni iuxta Dothain, et universos, per quos viæ transitus esse poterat,",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 6,
+                "textEn": "that they should hold the ascents of the mountains, through which there might be any passage able to reach Jerusalem, and that they should keep watch where the passage was narrow, wherever possible, between the mountains.",
+                "textLa": "ut obtinerent ascensus montium, per quos via esse poterat ad Ierusalem, et illic custodirent ubi angustum iter esse poterat inter montes.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 7,
+                "textEn": "And the sons of Israel did just as Eliachim, the priest of the Lord, had appointed them.",
+                "textLa": "Et fecerunt filii Israel secundum quod constituerat eis sacerdos Domini Eliachim.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 8,
+                "textEn": "And all the people cried out to the Lord with great urgency, and they humbled their souls with fastings, and prayers, both they and their wives.",
+                "textLa": "Et clamavit omnis populus ad Dominum instantia magna, et humiliaverunt animas suas in ieiuniis, et orationibus, ipsi et mulieres eorum.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 9,
+                "textEn": "And the priests clothed themselves with haircloths, and they prostrated the little children opposite the face of the temple of the Lord, and they covered the altar of the Lord with haircloth.",
+                "textLa": "Et induerunt se Sacerdotes ciliciis, et infantes prostraverunt contra faciem templi Domini, et altare Domini operuerunt cilicio:",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 10,
+                "textEn": "And they cried out to the Lord God of Israel with one accord, lest their children should be given over as prey, and their wives into distribution, and their cities into extermination, and their holy things into defilement, and so that they might not become the disgrace of the Gentiles.",
+                "textLa": "et clamaverunt ad Dominum Deum Israel unanimiter ne darentur in prædam infantes eorum, et uxores eorum in divisionem, et civitates eorum in exterminium, et sancta eorum in pollutionem, et fierent opprobrium Gentibus.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 11,
+                "textEn": "Then Eliachim, the high priest of the Lord, traveled all around Israel, and he was talking to them,",
+                "textLa": "Tunc Eliachim, sacerdos Domini magnus, circuivit omnem Israel, allocutusque est eos,",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 12,
+                "textEn": "saying: “Know that the Lord will heed your prayers, if you continue to persevere in fastings and prayers in the sight of the Lord.",
+                "textLa": "dicens: Scitote quoniam exaudiet Dominus preces vestras, si manentes permanseritis in ieiuniis, et orationibus in conspectu Domini.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 13,
+                "textEn": "Recall that Moses, the servant of the Lord, overcame Amalek, who trusted in his own strength, and in his power, and in his army, and in his bronze shields, and in his swift chariots, and in his horsemen. He overcame him, not by fighting with iron, but by pleading with holy prayers.",
+                "textLa": "Memores estote Moysi servi Domini, qui Amalec confidentem in virtute sua, et in potentia sua, et in exercitu suo, et in clypeis suis, et in curribus suis, et in equitibus suis, non ferro pugnando, sed precibus sanctis orando deiecit:",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 14,
+                "textEn": "So will it be with all the enemies of Israel, if you persevere in this work that you have begun.”",
+                "textLa": "sic erunt universi hostes Israel: si perseveraveritis in hoc opere, quod cœpistis.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 15,
+                "textEn": "Therefore, by this exhortation and his prayer to the Lord, they continued in the sight of the Lord,",
+                "textLa": "Ad hanc igitur exhortationem eius deprecantes Dominum, permanebant in conspectu Domini,",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 16,
+                "textEn": "so that even those who offered holocausts to the Lord, offered the sacrifices to the Lord girded with haircloths, and there were ashes upon their heads.",
+                "textLa": "ita ut etiam hi, qui offerebant Domino holocausta, præcincti ciliciis offerrent sacrificia Domino, et erat cinis super capita eorum.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 17,
+                "textEn": "And they all begged God with their whole heart, that he would visit his people Israel.",
+                "textLa": "Et ex toto corde suo omnes orabant Deum, ut visitaret populum suum Israel.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 5,
+        "verses": [
+            {
+                "chapter": 5,
+                "verse": 1,
+                "textEn": "And it was reported to Holofernes, the leader of the military of the Assyrians, that the sons of Israel were preparing themselves to resist, and also that they had closed the mountain passes.",
+                "textLa": "Nunciatumque est Holoferni principi militiæ Assyriorum, quod filii Israel præpararent se ad resistendum, ac montium itinera conclusissent,",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 2,
+                "textEn": "And he was enraged with extreme fury and great indignation, and he called together all the leaders of Moab and the leaders of Ammon.",
+                "textLa": "et furore nimio exarsit in iracundia magna, vocavitque omnes principes Moab et duces Ammon,",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 3,
+                "textEn": "And he said to them: “Tell me who this people may be, who obstruct the mountains. And which are their cities, and of what kind, and how many? And then, what may be their power, and what may be their number, and who is king over their military?",
+                "textLa": "et dixit eis: Dicite mihi quis sit populus iste, qui montana obsidet: aut quæ, et quales, et quantæ sint civitates eorum: quæ etiam sit virtus eorum, aut quæ sit multitudo eorum: vel quis rex militiæ illorum:",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 4,
+                "textEn": "And why have these, more than all who dwell in the east, shown contempt for us, and have not gone out to meet us, so that they might receive us with peace?”",
+                "textLa": "et quare præ omnibus, qui habitant in Oriente, isti contempserunt nos, et non exierunt obviam nobis ut susciperent nos cum pace?",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 5,
+                "textEn": "Then Achior, commander of all the sons of Ammon, responding, said: “If you would deign to listen, my lord, I will tell the truth in your sight about this people, who dwell in the mountains, and not a false word will go forth from my mouth.",
+                "textLa": "Tunc Achior dux omnium filiorum Ammon respondens, ait: Si digneris audire domine mi, dicam veritatem in conspectu tuo de populo isto, qui in montanis habitat, et non egredietur verbum falsum ex ore meo.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 6,
+                "textEn": "This people is from the progeny of the Chaldeans.",
+                "textLa": "Populus iste ex progenie Chaldæorum est.",
+                "notes": "Compare what is said in the Book of Daniel about the Chaldeans. They were considered by some to have greater powers of understanding and knowledge, or even mystical powers."
+            },
+            {
+                "chapter": 5,
+                "verse": 7,
+                "textEn": "These dwelt at first in Mesopotamia, because they were not willing to follow the gods of their fathers, who were in the land of the Chaldeans.",
+                "textLa": "Hic primum in Mesopotamia habitavit, quoniam noluerunt sequi deos patrum suorum, qui erant in terra Chaldæorum.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 8,
+                "textEn": "And so, forsaking the ceremonies of their fathers, which were with a multitude of gods,",
+                "textLa": "Deserentes itaque ceremonias patrum suorum, quæ in multitudine deorum erant,",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 9,
+                "textEn": "they worshipped one God of heaven, who also instructed them to go forth from that place and to dwell in Canaan. And when a famine covered the whole land, they went down into Egypt, and there, through four hundred years, they were so multiplied, that the army of them could not be numbered.",
+                "textLa": "unum Deum cæli coluerunt, qui et præcepit eis ut exirent inde, et habitarent in Charan. Cumque operuisset omnem terram fames, descenderunt in Ægyptum, illicque per quadringentos annos sic multiplicati sunt, ut dinumerari eorum non posset exercitus.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 10,
+                "textEn": "And when the king of Egypt oppressed them, and also subjugated them to labor with clay and brick in the building of his cities, they cried out to their Lord, and he struck the entire land of Egypt with various plagues.",
+                "textLa": "Cumque gravaret eos rex Ægypti, atque in ædificationibus urbium suarum in luto et latere subiugasset eos, clamaverunt ad Dominum suum, et percussit totam terram Ægypti plagis variis.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 11,
+                "textEn": "And when the Egyptians had cast them away from them, and the plague had ceased from them, and they were willing to seize them again and recall them to their servitude:",
+                "textLa": "Cumque eiecissent eos Ægyptii a se, et cessasset plaga ab eis, et iterum eos vellent capere, et ad suum servitium revocare,",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 12,
+                "textEn": "the God of heaven opened the sea to these as they fled, so that the waters were made to stand firm like a wall on either side, and these walked across the bottom of the sea and passed through with dry feet.",
+                "textLa": "fugientibus his Deus cæli mare aperuit, ita ut hinc inde aquæ quasi murus solidarentur, et isti pede sicco fundum maris perambulando transirent.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 13,
+                "textEn": "In that place, when an innumerable army of the Egyptians pursued after them, they were so overwhelmed with the waters, that not even one remained to report to posterity what had happened.",
+                "textLa": "In quo loco dum innumerabilis exercitus Ægyptiorum eos persequeretur, ita aquis coopertus est, ut non remaneret vel unus, qui factum posteris nunciaret.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 14,
+                "textEn": "In truth, going forth from the Red Sea, they occupied the deserts of mount Sinai, in which man could never dwell, nor a son of man take rest.",
+                "textLa": "Egressi vero Mare Rubrum, deserta Sina montis occupaverunt, in quibus numquam homo habitare potuit, vel filius hominis requievit.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 15,
+                "textEn": "In that place, bitter fountains became sweet for them to drink, and, through forty years, they continued to receive provisions from heaven.",
+                "textLa": "Illic fontes amari obdulcati sunt eis ad bibendum, et per annos quadraginta annonam de cælo consecuti sunt.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 16,
+                "textEn": "And, although they had entered without bow and arrow, and without shield and sword, their God fought on their behalf and was victorious.",
+                "textLa": "Ubicumque ingressi sunt sine arcu et sagitta, et absque scuto et gladio, Deus eorum pugnavit pro eis, et vicit.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 17,
+                "textEn": "And there was no one who could attack this people, except when they withdrew from the worship of the Lord their God.",
+                "textLa": "Et non fuit qui insultaret populo isti, nisi quando recessit a cultu Domini Dei sui.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 18,
+                "textEn": "But as often as they worshipped any other, except their own God, they were delivered to plunder, and to the sword, and into reproach.",
+                "textLa": "Quotiescumque autem præter ipsum Deum suum, alterum coluerunt, dati sunt in prædam, et in gladium, et in opprobrium.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 19,
+                "textEn": "But as often as they were repentant for having withdrawn from the worship of their God, the God of heaven gave them the power to resist.",
+                "textLa": "Quotiescumque autem pœnituerunt se recessisse a cultura Dei sui, dedit eis Deus cæli virtutem resistendi.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 20,
+                "textEn": "And, indeed, they overthrew the king of the Canaanites, and of the Jebusites, and of the Perizzites, and of the Hethites, and of the Hevites, and of the Amorrhites, and all the powerful ones in Hesebon, and these same possessed their lands and their cities.",
+                "textLa": "Denique Chananæum regem, et Iebusæum, et Pherezæum, et Hethæum, et Hevæum, et Amorrhæum, et omnes potentes in Hesebon prostraverunt, et terras eorum, et civitates eorum ipsi possederunt:",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 21,
+                "textEn": "And, as long as they did not sin in the sight of their God, it was well with them. For their God hates iniquity.",
+                "textLa": "et usque dum non peccarent in conspectu Dei sui, erant cum illis bona: Deus enim illorum odit iniquitatem.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 22,
+                "textEn": "And even some years ago, when they had withdrawn from the way that their God had given them to walk, they were destroyed in battles by many nations and very many of them were led away captive into a land not their own.",
+                "textLa": "Nam et ante hos annos cum recessissent a via, quam dederat illis Deus, ut ambularent in ea, exterminati sunt præliis a multis nationibus, et plurimi eorum captivi abducti sunt in terram non suam.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 23,
+                "textEn": "But, more recently, returning to the Lord their God, from the dispersion in which they had been scattered, they have united and have ascended into all these mountains, and they again possess Jerusalem, where their holy things are.",
+                "textLa": "Nuper autem reversi ad Dominum Deum suum, ex dispersione qua dispersi fuerant, adunati sunt, et ascenderunt montana hæc omnia, et iterum possident Ierusalem, ubi sunt sancta eorum.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 24,
+                "textEn": "Therefore, now my lord, inquire if there may be any iniquity of theirs in the sight of their God. If so, let us ascend to them, because their God will surely deliver them to you, and they will be subjugated under the yoke of your power.",
+                "textLa": "Nunc ergo mi domine, perquire si est aliqua iniquitas eorum in conspectu Dei eorum: ascendamus ad illos, quoniam tradens tradet illos Deus eorum tibi, et subiugati erunt sub iugo potentiæ tuæ.",
+                "notes": "The repetition of the verb ‘tradens tradet’ intensifies the meaning. It is difficult to capture this in English."
+            },
+            {
+                "chapter": 5,
+                "verse": 25,
+                "textEn": "But if, in truth, there may be no offense of this people before their God, we will not be able to resist them, because their God will defend them, and we will become a disgrace to the whole earth.”",
+                "textLa": "Si vero non est offensio populi huius coram Deo suo, non poterimus resistere illis: quoniam Deus eorum defendet illos: et erimus in opprobrium universæ terræ.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 26,
+                "textEn": "And it happened, when Achior had ceased to speak these words, all the great men of Holofernes were angry, and they intended to execute him, saying to each other:",
+                "textLa": "Et factum est, cum cessasset loqui Achior verba hæc, irati sunt omnes magnates Holofernis, et cogitabant interficere eum, dicentes ad alterutrum:",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 27,
+                "textEn": "“Who is this, that says the sons of Israel are able to resist king Nebuchadnezzar and his armies: unarmed men, and without strength, and without skill in the art of fighting?",
+                "textLa": "Quis est iste, qui filios Israel posse dicat resistere regi Nabuchodonosor, et exercitibus eius, homines inermes, et sine virtute, et sine peritia artis pugnæ?",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 28,
+                "textEn": "Therefore, so that Achior may know that he has failed us, let us ascend to the mountains. And, when the most powerful among them have been taken, then, with them, he will be impaled with the sword.",
+                "textLa": "Ut ergo agnoscat Achior quoniam fallit nos, ascendamus in montana: et cum capti fuerint potentes eorum, tunc cum eisdem gladio transverberabitur:",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 29,
+                "textEn": "So may every people know that Nebuchadnezzar is god of the earth, and there is no other, except him.”",
+                "textLa": "ut sciat omnis gens quoniam Nabuchodonosor deus terræ est, et præter ipsum alius non est.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 6,
+        "verses": [
+            {
+                "chapter": 6,
+                "verse": 1,
+                "textEn": "But when they had ceased speaking, it happened that Holofernes, being very indignant, said to Achior:",
+                "textLa": "Factum est autem cum cessassent loqui, indignatus Holofernes vehementer, dixit ad Achior:",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 2,
+                "textEn": "“Because you have prophesied to us, saying that the people of Israel may be defended by their God, and so as to reveal to you that there is no God, except Nebuchadnezzar:",
+                "textLa": "Quoniam prophetasti nobis dicens, quod gens Israel defendatur a Deo suo, ut ostendam tibi quoniam non est Deus, nisi Nabuchodonosor:",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 3,
+                "textEn": "when we will have struck them all as one man, then you also will pass away with them by the sword of the Assyrians, and all Israel will perish into perdition with you.",
+                "textLa": "cum percusserimus eos omnes, sicut hominem unum, tunc et ipse cum illis Assyriorum gladio interibis, et omnis Israel tecum perditione disperiet:",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 4,
+                "textEn": "And you will be shown that Nebuchadnezzar is the lord of the whole earth. And then, the sword of my army will pass through your sides, and, being stabbed, you will fall among the wounded of Israel, and you will breathe no longer, when you have been destroyed with them.",
+                "textLa": "et probabis quoniam Nabuchodonosor dominus sit universæ terræ: tuncque gladius militiæ meæ transiet per latera tua, et confixus cades inter vulneratos Israel, et non respirabis ultra, donec extermineris cum illis.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 5,
+                "textEn": "And furthermore, if you consider your prophecy to be true, do not let your countenance fall, and let the paleness that has taken hold of your face depart from you, if you claim that these my words cannot be fulfilled.",
+                "textLa": "Porro autem si prophetiam tuam veram existimas, non concidat vultus tuus, et pallor, qui faciem tuam obtinet, abscedat a te, si verba mea hæc putas impleri non posse.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 6,
+                "textEn": "But so that you may know that you will experience these things together with them, behold, from this hour you will be associated with their people, so that, when they receive the punishment that they deserve from my sword, you will fall under the same vengeance.”",
+                "textLa": "Ut autem noveris quia simul cum illis hæc experieris, ecce ex hac hora illorum populo sociaberis, ut, dum dignas mei gladii pœnas exceperint, ipse simul ultioni subiaceas.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 7,
+                "textEn": "Then Holofernes instructed his servants to apprehend Achior, and to lead him through to Bethulia, and to deliver him into the hands of the sons of Israel.",
+                "textLa": "Tunc Holofernes præcepit servis suis ut comprehenderent Achior, et perducerent eum in Bethuliam, et traderent eum in manus filiorum Israel.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 8,
+                "textEn": "And, taking him, the servants of Holofernes traveled through the plains. But when they approached close to the mountains, the slingers of stones went forth against them.",
+                "textLa": "Et accipientes eum servi Holofernis, profecti sunt per campestria: sed cum appropinquassent ad montana, exierunt contra eos fundibularii.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 9,
+                "textEn": "Then, diverting by the side of the mountain, they tied Achior, hands and feet, to a tree, and so they abandoned him, bound with ropes, and they returned to their lord.",
+                "textLa": "Illi autem divertentes a latere montis, ligaverunt Achior ad arborem manibus et pedibus, et sic vinctum restibus dimiserunt eum, et reversi sunt ad dominum suum.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 10,
+                "textEn": "Thereafter, the sons of Israel, descending from Bethulia, came to him. Releasing him, they brought him to Bethulia. And so, standing him in the midst of the people, they interrogated him as to what event caused the Assyrians to abandon him, bound.",
+                "textLa": "Porro filii Israel descendentes de Bethulia, venerunt ad eum: quem solventes, duxerunt ad Bethuliam, atque in medium populi illum statuentes, percunctati sunt quid rerum esset quod illum vinctum Assyrii reliquissent.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 11,
+                "textEn": "In those days, the rulers of that place were Uzziah, the son of Micah of the tribe of Simeon, and Chabris, also called Gothoniel.",
+                "textLa": "In diebus illis erant illic principes, Ozias filius Micha de tribu Simeon, et Charmi, qui et Gothoniel.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 12,
+                "textEn": "And so, in the midst of the elders and in the sight of everyone, Achior explained all that he had said in reply to the questioning of Holofernes, and in what manner the people of Holofernes wanted to have him killed because of this word,",
+                "textLa": "In medio itaque seniorum, et in conspectu omnium, Achior dixit omnia quæ locutus ipse fuerat ab Holoferne interrogatus: et qualiter populus Holofernis voluisset propter hoc verbum interficere eum,",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 13,
+                "textEn": "and how Holofernes himself, being angry, had ordered him to be handed over to the Israelites, for this reason: so that when he would prevail over the sons of Israel, then he would also command Achior himself to be executed by diverse torments, because he had said that the God of heaven is their defender.",
+                "textLa": "et quemadmodum ipse Holofernes iratus iusserit eum Israelitis hac de causa tradi: ut, dum vicerit filios Israel, tunc et ipsum Achior diversis iubeat interire suppliciis, propter hoc quod dixisset: Deus cæli defensor eorum est.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 14,
+                "textEn": "And when Achior had declared all these things, all the people fell on their faces, adoring the Lord, and, communing together with mourning and weeping, they poured out their prayers with one mind to the Lord,",
+                "textLa": "Cumque Achior universa hæc exposuisset, omnis populus cecidit in faciem, adorantes Dominum, et communi lamentatione et fletu unanimes preces suas Domino effuderunt,",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 15,
+                "textEn": "saying: “O Lord, God of heaven and earth, behold their arrogance, and gaze upon our humility, and attend to the face of your holy ones, and reveal that you do not abandon those who rely on you, and that those who rely on themselves and who glory in their own strength, you humble.”",
+                "textLa": "dicentes: Domine Deus cæli et terræ, intuere superbiam eorum, et respice ad nostram humilitatem, et faciem sanctorum tuorum attende, et ostende quoniam non derelinquis præsumentes de te: et præsumentes de se, et de sua virtute gloriantes, humilias.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 16,
+                "textEn": "And so, when their weeping was ended, and the prayer of the people throughout the entire day was completed, they consoled Achior,",
+                "textLa": "Finito itaque fletu, et per totam diem oratione populorum completa, consolati sunt Achior,",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 17,
+                "textEn": "saying: “The God of our fathers, whose power you have predicted, will give to you this in return: that you, instead, will see the destruction of them.",
+                "textLa": "dicentes: Deus patrum nostrorum, cuius tu virtutem prædicasti, ipse tibi hanc dabit vicissitudinem, ut eorum magis tu interitum videas.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 18,
+                "textEn": "Truly, when the Lord our God will give this freedom to his servants, may God also be with you in our midst, so that, just as it pleases you, everyone who is with you may keep company with us.”",
+                "textLa": "Cum vero Dominus Deus noster dederit hanc libertatem servis suis, sit et tecum Deus in medio nostri: ut sicut placuerit tibi, ita cum tuis omnibus converseris nobiscum.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 19,
+                "textEn": "Then Uzziah, after the council was ended, received him into his own house, and he made him a great supper.",
+                "textLa": "Tunc Ozias, finito consilio, suscepit eum in domum suam, et fecit ei cœnam magnam.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 20,
+                "textEn": "And all the elders were invited; together they refreshed themselves at the completion of their fast.",
+                "textLa": "Et vocatis omnibus presbyteris, simul expleto ieiunio refecerunt.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 21,
+                "textEn": "In truth, after this, all the people were called together, and they prayed throughout the entire night within the assembly, petitioning help from the God of Israel.",
+                "textLa": "Postea vero convocatus est omnis populus, et per totam noctem intra ecclesiam oraverunt petentes auxilium a Deo Israel.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 7,
+        "verses": [
+            {
+                "chapter": 7,
+                "verse": 1,
+                "textEn": "But Holofernes, on another day, instructed his army to ascend against Bethulia.",
+                "textLa": "Holofernes autem altera die præcepit exercitibus suis ut ascenderent contra Bethuliam.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 2,
+                "textEn": "Moreover, there were one hundred and twenty thousand foot-soldiers, and twenty-two thousand horsemen, besides the contingents of those men who had been taken captive, and all the youths who had been abducted from the provinces and the cities.",
+                "textLa": "Erant autem pedites bellatorum centum viginti millia, et equites viginti duo millia, præter præparationes virorum illorum, quos occupaverat captivitas, et abducti fuerant de provinciis et urbibus universæ iuventutis.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 3,
+                "textEn": "All these prepared themselves together to fight against the sons of Israel, and they came through the foothills of the mountain, even to the apex, which looks down upon Dothain, from the place which is called Belma, up to Chelmon, which is opposite Esdrelon.",
+                "textLa": "Omnes paraverunt se pariter ad pugnam contra filios Israel, et venerunt per crepidinem montis usque ad apicem, qui respicit super Dothain, a loco qui dicitur Belma usque ad Chelmon, qui est contra Esdrelon.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 4,
+                "textEn": "But the sons of Israel, when they saw the multitude of them, prostrated themselves upon the ground, scattering ashes over their heads, praying with one accord that the God of Israel would show his mercy upon his people.",
+                "textLa": "Filii autem Israel, ut viderunt multitudinem illorum, prostraverunt se super terram, mittentes cinerem super capita sua, unanimes orantes ut Deus Israel misericordiam suam ostenderet super populum suum.",
+                "notes": "The word ‘unanimes’ literally means ‘with one mind.’ It is the source of the English word ‘unanimously.’"
+            },
+            {
+                "chapter": 7,
+                "verse": 5,
+                "textEn": "And, taking up their arms of war, they set up positions at the places that lead along a narrow footpath between the mountains, and they guarded them all day and night.",
+                "textLa": "Et assumentes arma sua bellica, sederunt per loca, quæ ad angusti itineris tramitem dirigunt inter montosa, et erant custodientes ea tota die et nocte.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 6,
+                "textEn": "Now Holofernes, while circling around, discovered that the fountain that flowed in to them, led directly through an aqueduct on the south side, beyond the city. And he instructed their aqueduct to be cut off.",
+                "textLa": "Porro Holofernes, dum circuit per gyrum, reperit quod fons, qui influebat, aquæductum illorum a parte australi extra civitatem dirigeret: et incidi præcepit aquæductum illorum.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 7,
+                "textEn": "Even so, there were springs not far from the walls, from which they were seen to draw water secretly, to refresh themselves a little rather than to drink their fill.",
+                "textLa": "Erant tamen non longe a muris fontes, ex quibus furtim videbantur haurire aquam ad refocillandum potius quam ad potandum.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 8,
+                "textEn": "But the sons of Ammon and Moab approached Holofernes, saying: “The sons of Israel do not trust in their lances, nor in their arrows, but the mountains are their defense, and the steep hills and precipices constitute their fortifications.",
+                "textLa": "Sed filii Ammon, et Moab accesserunt ad Holofernem, dicentes: Filii Israel non in lancea, nec in sagitta confidunt, sed montes defendunt illos, et muniunt illos colles in præcipitio constituti.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 9,
+                "textEn": "Therefore, so that you may be able to overcome them without joining battle, set guards at the springs so that they may not draw water from them, and you will put them to death without the sword, or at least, being weary, they will hand over their city, which they suppose to be, by its position in the mountains, unable to be conquered.”",
+                "textLa": "Ut ergo sine congressione pugnæ possis superare eos, pone custodes fontium, ut non hauriant aquam ex eis, et sine gladio interficies eos, vel certe fatigati tradent civitatem suam, quam putant in montibus positam superari non posse.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 10,
+                "textEn": "And these words were pleasing before Holofernes and before his attendants, and so he stationed a hundred men around every spring.",
+                "textLa": "Et placuerunt verba hæc coram Holoferne, et coram satellitibus eius, et constituit per gyrum centenarios per singulos fontes.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 11,
+                "textEn": "And when they had kept this watch through twenty full days, the cisterns and collections of waters failed among all the inhabitants of Bethulia, so that there was within the city not enough to satisfy them for even one day, because water was given out to the people daily by measure.",
+                "textLa": "Cumque ista custodia per dies viginti fuisset expleta, defecerunt cisternæ, et collectiones aquarum omnibus habitantibus Bethuliam, ita ut non esset intra civitatem unde satiarentur vel una die, quoniam ad mensuram dabatur populis aqua quotidie.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 12,
+                "textEn": "Then, all the men and women, youths and little ones, gathering together before Uzziah, all with one voice together,",
+                "textLa": "Tunc ad Oziam congregati omnes viri, feminæque, iuvenes, et parvuli, omnes simul una voce",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 13,
+                "textEn": "said: “May God be judge between us and you, for you have done evil with us, in not being willing to speak peacefully with the Assyrians, and because of this, God has sold us into their hands.",
+                "textLa": "dixerunt: Iudicet Deus inter nos et te, quoniam fecisti in nos mala, nolens loqui pacifice cum Assyriis, et propter hoc vendidit nos Deus in manibus eorum.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 14,
+                "textEn": "And therefore, there is no one to help us, while we are prostrated before their eyes with thirst and great destruction.",
+                "textLa": "Et ideo non est qui adiuvet, cum prosternamur ante oculos eorum in siti, et perditione magna.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 15,
+                "textEn": "And now, gather together all who are in the city, so that we may willingly deliver every one of us to the people of Holofernes.",
+                "textLa": "Et nunc congregate universos, qui in civitate sunt, ut sponte tradamus nos omnes populo Holofernis.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 16,
+                "textEn": "For it is better that as captives, being alive, we should bless the Lord, than that we should die and become a disgrace to all flesh, after we have seen our wives and our children die before our eyes.",
+                "textLa": "Melius est enim ut captivi benedicamus Dominum, viventes, quam moriamur, et simus opprobrium omni carni, cum viderimus uxores nostras, et infantes nostros mori ante oculos nostros.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 17,
+                "textEn": "We call to witness this day heaven and earth, and the God of our fathers, who takes vengeance upon us according to our sins, so that now you may deliver the city into the hand of the military of Holofernes. And may our end be brief, by the edge of the sword, that would be made longer by the dryness of thirst.”",
+                "textLa": "Contestamur hodie cælum et terram, et Deum patrum nostrorum, qui ulciscitur nos secundum peccata nostra, ut iam tradatis civitatem in manu militiæ Holofernis, et sit finis noster brevis in ore gladii, qui longior efficitur in ariditate sitis.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 18,
+                "textEn": "And when they had said these things, there happened a great weeping and a loud lamentation within the assembly. From everyone and for many hours, with one voice, they cried out to God, saying:",
+                "textLa": "Et cum hæc dixissent, factus est fletus et ululatus magnus in ecclesia ab omnibus, et per multas horas una voce clamaverunt ad Deum, dicentes:",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 19,
+                "textEn": "“We have sinned like our fathers, we have acted unjustly, we have committed iniquity.",
+                "textLa": "Peccavimus cum patribus nostris, iniuste egimus, iniquitatem fecimus.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 20,
+                "textEn": "May you have mercy on us, for you are pious, or with your own scourges avenge our iniquities, but do not be willing to deliver those trusting in you to a people who are ignorant of you,",
+                "textLa": "Tu, quia pius es, miserere nostri, aut in tuo flagello vindica iniquitates nostras, et noli tradere confitentes te populo, qui ignorat te,",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 21,
+                "textEn": "so that they may not say among the Gentiles, ‘Where is their God?’ ”",
+                "textLa": "ut non dicant inter Gentes: Ubi est Deus eorum?",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 22,
+                "textEn": "And when, being weary from these outcries, and tired from these weepings, they became silent,",
+                "textLa": "Et cum fatigati ex his clamoribus, et his fletibus lassati siluissent,",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 23,
+                "textEn": "Uzziah, rising up covered in tears, said: “Be steadfast in soul, brothers, and let us wait these five days for mercy from the Lord.",
+                "textLa": "exurgens Ozias infusus lacrymis, dixit: Æquo animo estote fratres, et hos quinque dies expectemus a Domino misericordiam.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 24,
+                "textEn": "For perhaps he will break off his indignation and give glory to his own name.",
+                "textLa": "Forsitan enim indignationem suam abscindet, et dabit gloriam nomini suo.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 25,
+                "textEn": "But if, with five days passing, help does not arrive, we will accomplish the words that you have spoken.”",
+                "textLa": "Si autem transactis quinque diebus non venerit adiutorium, faciemus hæc verba, quæ locuti estis.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 8,
+        "verses": [
+            {
+                "chapter": 8,
+                "verse": 1,
+                "textEn": "And it happened that these words were heard by Judith, a widow who was the daughter of Merari, the son of Idox, the son of Joseph, the son of Oziel, the son of Elai, the son of Jamnor, the son of Gideon, the son of Raphaim, the son of Ahitub, the son of Melchiel, the son of Enan, the son of Nathaniel, the son of Salathiel, the son of Simeon, the son of Ruben.",
+                "textLa": "Et factum est, cum audisset hæc verba Iudith vidua, quæ erat filia Merari, filii Idox, filii Ioseph, filii Oziæ, filii Elai, filii Iamnor, filii Gedeon, filii Raphaim, filii Achitob, filii Melchiæ, filii Enan, filii Nathaniæ, filii Salathiel, filii Simeon, filii Ruben:",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 2,
+                "textEn": "And her husband was Manasseh, who died in the days of the barley harvest.",
+                "textLa": "et vir eius fuit Manasses, qui mortuus est in diebus messis hordeaceæ:",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 3,
+                "textEn": "For he was standing over those who bound sheaves in the field, and the heat overcame his head, and he died in Bethulia, his own city, and he was buried there with his fathers.",
+                "textLa": "instabat enim super alligantes manipulos in campo, et venit æstus super caput eius, et mortuus est in Bethulia civitate sua, et sepultus est illic cum patribus suis.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 4,
+                "textEn": "But Judith, his bereaved, was a widow now for three years and six months.",
+                "textLa": "Erat autem Iudith relicta eius vidua iam annis tribus, et mensibus sex.",
+                "notes": "This time of 3.5 years of widowhood is a foreshadowing of the last half of the Antichrist’s reign of nearly seven years, when the Church will experience its greatest sufferings."
+            },
+            {
+                "chapter": 8,
+                "verse": 5,
+                "textEn": "And she made herself a private chamber in the upper part of her house, in which she stayed enclosed with her handmaids.",
+                "textLa": "Et in superioribus domus suæ fecit sibi secretum cubiculum, in quo cum puellis suis clausa morabatur,",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 6,
+                "textEn": "And she had haircloth around her waist, and she fasted all the days of her life, except Sabbaths, and new moons, and the feasts of the house of Israel.",
+                "textLa": "et habens super lumbos suos cilicium, ieiunabat omnibus diebus vitæ suæ, præter Sabbata, et neomenias, et festa domus Israel.",
+                "notes": "The term ‘lumbos’ can refer to the lower back, or to the groin area, or to the waistline (which in past times was just above the level of the navel)."
+            },
+            {
+                "chapter": 8,
+                "verse": 7,
+                "textEn": "Moreover, she was exceedingly elegant in appearance, and her husband left her many riches, and an abundant household, as well as the ownership of plentiful herds of oxen and flocks of sheep.",
+                "textLa": "Erat autem eleganti aspectu nimis, cui vir suus reliquerat divitias multas, et familiam copiosam, ac possessiones armentis boum, et gregibus ovium plenas.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 8,
+                "textEn": "And she was greatly renowned among all, because she feared the Lord very much, nor was there anyone who spoke an ill word about her.",
+                "textLa": "Et erat hæc in omnibus famosissima, quoniam timebat Dominum valde, nec erat qui loqueretur de illa verbum malum.",
+                "notes": "The text literally says ‘this one’ (haec) was greatly renowned...."
+            },
+            {
+                "chapter": 8,
+                "verse": 9,
+                "textEn": "And so, when she heard that Uzziah had promised that he would hand over the city with the passing of five days, she sent to the elders Chabris and Charmis.",
+                "textLa": "Hæc itaque cum audisset quoniam Ozias promisisset quod transacto quinto die traderet civitatem, misit ad presbyteros Chabri, et Charmi.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 10,
+                "textEn": "And they came to her, and she said to them: “What is this word, by which Uzziah has consented to hand over the city to the Assyrians, if within five days no help arrives for us?",
+                "textLa": "Et venerunt ad illam, et dixit illis: Quod est hoc verbum, in quo consensit Ozias, ut tradat civitatem Assyriis si intra quinque dies non venerit vobis adiutorium?",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 11,
+                "textEn": "And who are you to test the Lord?",
+                "textLa": "Et qui estis vos, qui tentatis Dominum?",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 12,
+                "textEn": "This is not a word that will provoke mercy, but rather one that may excite wrath and enkindle fury.",
+                "textLa": "Non est iste sermo, qui misericordiam provocet, sed potius qui iram excitet, et furorem accendat.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 13,
+                "textEn": "You have set a time limit for the mercy of the Lord, and you have established a day for him, according to your choice.",
+                "textLa": "Posuistis vos tempus miserationis Domini, et in arbitrium vestrum, diem constituistis ei.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 14,
+                "textEn": "But, since the Lord is patient, let us be repentant about this same matter, and let us beg his indulgence with many tears.",
+                "textLa": "Sed quia patiens Dominus est, in hoc ipso pœniteamus, et indulgentiam eius fusis lacrymis postulemus:",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 15,
+                "textEn": "For God will not threaten like man, nor will he be inflamed to anger like a son of man.",
+                "textLa": "non enim quasi homo, sic Deus comminabitur, neque sicut filius hominis ad iracundiam inflammabitur.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 16,
+                "textEn": "And, for this reason, let us humble our souls before him, and, continuing to serve him in a spirit of humility,",
+                "textLa": "Et ideo humiliemus illi animas nostras, et in spiritu constituti humiliato, servientes illi,",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 17,
+                "textEn": "let us speak to the Lord with tears, so that he may act according to his will in his mercy toward us. So then, just as our heart is disturbed by their arrogance, so also may we glory in our humility.",
+                "textLa": "dicamus flentes Domino, ut secundum voluntatem suam sic faciat nobiscum misericordiam suam: ut sicut conturbatum est cor nostrum in superbia eorum, ita etiam de nostra humilitate gloriemur:",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 18,
+                "textEn": "For we have not followed the sins of our fathers, who abandoned their God in order to worship strange gods.",
+                "textLa": "quoniam non sumus secuti peccata patrum nostrorum, qui dereliquerunt Deum suum, et adoraverunt deos alienos,",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 19,
+                "textEn": "Because of this crime, they were given over to their enemies: to the sword, and to pillaging, and to confusion. But we know no other God except him.",
+                "textLa": "pro quo scelere dati sunt in gladium, et in rapinam, et in confusionem inimicis suis: nos autem alterum Deum nescimus præter ipsum.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 20,
+                "textEn": "Let us wait with humility for his consolation, and the Lord our God will requite our blood by the afflictions of our enemies, and he will humble all the nations that will rise up against us, and he will cause them to be without honor.",
+                "textLa": "Expectemus humiles consolationem eius, et exquiret sanguinem nostrum de afflictionibus inimicorum nostrorum, et humiliabit omnes gentes, quæcumque insurgunt contra nos, et faciet illas sine honore Dominus Deus noster.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 21,
+                "textEn": "And now, brothers, because you are the elders among the people of God, and their very soul hangs upon you, rescue their hearts by your eloquence, so that they may remember that our fathers were tested in order to prove whether or not they truly worshiped their God.",
+                "textLa": "Et nunc fratres, quoniam vos estis presbyteri in populo Dei, et ex vobis pendet anima illorum, ad eloquium vestrum corda eorum erigite, ut memores sint, quia tentati sunt patres nostri ut probarentur, si vere colerent Deum suum.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 22,
+                "textEn": "They are obliged to remember how our father Abraham was tested, and being proved by many tribulations, he was made the friend of God.",
+                "textLa": "Memores esse debent, quomodo pater noster Abraham tentatus est, et per multas tribulationes probatus, Dei amicus effectus est.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 23,
+                "textEn": "So Isaac, so Jacob, so Moses, and all that have pleased God, passed through many tribulations, remaining faithful.",
+                "textLa": "Sic Isaac, sic Iacob, sic Moyses, et omnes qui placuerunt Deo, per multas tribulationes transierunt fideles.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 24,
+                "textEn": "But those who did not accept the trials with the fear of the Lord, and who brought forward their impatience and the disgrace of their murmuring against the Lord,",
+                "textLa": "Illi autem, qui tentationes non susceperunt cum timore Domini, et impatientiam suam et improperium murmurationis suæ contra Dominum protulerunt,",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 25,
+                "textEn": "were exterminated by the exterminator, and they perished by serpents.",
+                "textLa": "exterminati sunt ab exterminatore, et a serpentibus perierunt.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 26,
+                "textEn": "And as for us, therefore, let us not revenge ourselves for these things that we suffer.",
+                "textLa": "Et nos ergo non ulciscamur nos pro his, quæ patimur,",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 27,
+                "textEn": "But, in considering these same sufferings to be less than our sins deserve, let us believe that the scourges of the Lord, by which we are corrected like servants, have occurred for our improvement and not for our destruction.”",
+                "textLa": "sed reputantes peccatis nostris hæc ipsa supplicia minora esse flagella Domini, quibus quasi servi corripimur ad emendationem, et non ad perditionem nostram evenisse credamus.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 28,
+                "textEn": "And Uzziah and the elders said to her: “All the things that you have spoken are true, and there is nothing reprehensible in your words.",
+                "textLa": "Et dixerunt illi Ozias, et presbyteri: Omnia, quæ locuta es, vera sunt, et non est in sermonibus tuis ulla reprehensio.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 29,
+                "textEn": "Now, therefore, pray for us, because you are a holy woman, and one fearing God.”",
+                "textLa": "Nunc ergo ora pro nobis, quoniam mulier sancta es, et timens Deum.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 30,
+                "textEn": "And Judith said to them: “You know that what I have been able to say is of God.",
+                "textLa": "Et dixit illis Iudith: Sicut quod potui loqui, Dei esse cognoscitis:",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 31,
+                "textEn": "So, concerning that which I propose to do, examine whether or not it is from God, and pray that God may act to strengthen my plan.",
+                "textLa": "ita quod facere disposui, probate si ex Deo est, et orate ut firmum faciat Deus consilium meum.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 32,
+                "textEn": "You will stand at the gate this night, and I will go forth with my handmaid. And pray that, just as you have said, within five days the Lord may look kindly on his people Israel.",
+                "textLa": "Stabitis vos ad portam nocte ista, et ego exeam cum abra mea: et orate, ut sicut dixistis, in diebus quinque respiciat Dominus populum suum Israel.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 33,
+                "textEn": "But I am not willing to have you examine my actions, and, until I report to you, let nothing else be done, except to pray for me to the Lord our God.”",
+                "textLa": "Vos autem nolo ut scrutemini actum meum, et usque dum renunciem vobis, nihil aliud fiat, nisi oratio pro me ad Dominum Deum nostrum.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 34,
+                "textEn": "And Uzziah, the leader of Judah, said to her, “Go in peace, and may the Lord be with you to take revenge among our enemies.” So, turning back, they departed.",
+                "textLa": "Et dixit ad eam Ozias princeps Iuda: Vade in pace, et Dominus sit tecum in ultionem inimicorum nostrorum. Et revertentes abierunt.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 9,
+        "verses": [
+            {
+                "chapter": 9,
+                "verse": 1,
+                "textEn": "And when they were gone, Judith entered her place of prayer. And clothing herself with haircloth, she placed ashes on her head. And prostrating herself to the Lord, she cried out to the Lord, saying:",
+                "textLa": "Quibus ascendentibus, Iudith ingressa est oratorium suum: et induens se cilicio, posuit cinerem super caput suum: et prosternens se Domino, clamabat ad Dominum, dicens:",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 2,
+                "textEn": "“O Lord, God of my father Simeon, you gave him a sword to defend against foreigners, who stood out as violators by their defilement, and who uncovered the thigh of the virgin unto shame.",
+                "textLa": "Domine Deus patris mei Simeon, qui dedisti illi gladium in defensionem alienigenarum, qui violatores extiterunt in coinquinatione sua, et denudaverunt femur virginis in confusionem:",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 3,
+                "textEn": "And you gave their wives into plunder, and their daughters into captivity, and all their spoils to be divided to the servants, who were zealous with your zeal. Bring help, I ask you, O Lord my God, to me, a widow.",
+                "textLa": "et dedisti mulieres illorum in prædam, et filias illorum in captivitatem: et omnem prædam in divisionem servis tuis, qui zelaverunt zelum tuum: subveni quæso te Domine Deus meus mihi viduæ.",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 4,
+                "textEn": "For you have acted in the past, and you have decided one thing after another. And what you have willed, this too has happened.",
+                "textLa": "Tu enim fecisti priora, et illa post illa cogitasti: et hoc factum est quod ipse voluisti.",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 5,
+                "textEn": "For all your ways have been prepared, and you have placed your judgments within your providence.",
+                "textLa": "Omnes enim viæ tuæ paratæ sunt, et tua iudicia in tua providentia posuisti.",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 6,
+                "textEn": "Look upon the camp of the Assyrians now, just as you deigned to look upon the camp of the Egyptians, when their weapons rushed after your servants, trusting in their four-horse chariots, and in their horsemen, and in a multitude of warriors.",
+                "textLa": "Respice castra Assyriorum nunc, sicut tunc castra Ægyptiorum videre dignatus es, quando post servos tuos armati currebant, confidentes in quadrigis, et in equitatu suo, et in multitudine bellatorum.",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 7,
+                "textEn": "But you gazed upon their camp, and darkness wearied them.",
+                "textLa": "Sed aspexisti super castra eorum, et tenebræ fatigaverunt eos.",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 8,
+                "textEn": "The abyss took hold of their feet, and the waters covered them.",
+                "textLa": "Tenuit pedes eorum abyssus, et aquæ operuerunt eos.",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 9,
+                "textEn": "So may it be with these also, O Lord, who trust in their multitude, and in their swift chariots, and in their pikes, and in their shields, and in their arrows, and the glory in their lances.",
+                "textLa": "Sic fiant et isti, Domine, qui confidunt in multitudine sua, et in curribus suis, et in contis, et in scutis, et in sagittis suis, et in lanceis gloriantur,",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 10,
+                "textEn": "And they do not know that you are our God, who crushes wars from the beginning, and the Lord is your name.",
+                "textLa": "et nesciunt quia tu ipse es Deus noster, qui conteris bella ab initio, et Dominus nomen est tibi.",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 11,
+                "textEn": "Raise up your arm, just as from the beginning, and throw down their power by your power. Let their power fall, in their anger, for they promise themselves to violate your sanctuary, and to pollute the tabernacle of your name, and to cut down by their sword the horn of your altar.",
+                "textLa": "Erige brachium tuum sicut ab initio, et allide virtutem illorum in virtute tua: cadat virtus eorum in iracundia tua, qui promittunt se violare sancta tua, et polluere tabernaculum nominis tui, et deiicere gladio suo cornu altaris tui.",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 12,
+                "textEn": "Act, O Lord, so that his arrogance may be cut off with his own sword.",
+                "textLa": "Fac Domine, ut gladio proprio eius superbia amputetur:",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 13,
+                "textEn": "Let him be seized by the snare of his own eyes in my regard, and may you strike him by the attraction of my lips.",
+                "textLa": "capiatur laqueo oculorum suorum in me, et percuties eum ex labiis caritatis meæ.",
+                "notes": "This last phrase is unusual. It literally says ‘from my lips of love (or affection).’ The meaning is that her lips are attractive, both in appearance and by charming words. She intends to trip him up by his attraction for her."
+            },
+            {
+                "chapter": 9,
+                "verse": 14,
+                "textEn": "Give me constancy in my soul, so that I may hold him in contempt, and give me virtue, so that I may overthrow him.",
+                "textLa": "Da mihi in animo constantiam, ut contemnam illum: et virtutem, ut evertam illum.",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 15,
+                "textEn": "For this will be a memorial to your name, when he will be overthrown by the hand of a woman.",
+                "textLa": "Erit enim hoc memoriale nominis tui, cum manus feminæ deiecerit eum.",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 16,
+                "textEn": "For your power, O Lord, is not in numbers, nor is your will with the strength of horses, nor from the beginning have the arrogant been pleasing to you. But the pleas of the humble and the meek have always pleased you.",
+                "textLa": "Non enim in multitudine est virtus tua Domine, neque in equorum viribus voluntas tua est, nec superbi ab initio placuerunt tibi: sed humilium et mansuetorum semper tibi placuit deprecatio.",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 17,
+                "textEn": "O God of the heavens, Creator of the waters, and Lord of all creation, heed me, a miserable thing, pleading you and depending on your mercy.",
+                "textLa": "Deus cælorum, Creator aquarum, et Dominus totius creaturæ, exaudi me miseram deprecantem, et de tua misericordia præsumentem.",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 18,
+                "textEn": "Remember, O Lord, your covenant, and put your words in my mouth, and reinforce the plan in my heart, so that your house may continue with your sanctification,",
+                "textLa": "Memento Domine testamenti tui, et da verbum in ore meo, et in corde meo consilium corrobora, ut domus tua in sanctificatione tua permaneat:",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 19,
+                "textEn": "and so that all the nations may acknowledge that you are God, and there is no other beside you.”",
+                "textLa": "et omnes gentes agnoscant quia tu es Deus, et non est alius præter te.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 10,
+        "verses": [
+            {
+                "chapter": 10,
+                "verse": 1,
+                "textEn": "And it happened that, when she had ceased to cry out to the Lord, she arose from the place where she lay prostrate before the Lord.",
+                "textLa": "Factum est autem, cum cessasset clamare ad Dominum, surrexit de loco, in quo iacuerat prostrata ad Dominum.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 2,
+                "textEn": "And she called her handmaid, and descending into her house, she took away from herself the haircloth, and she put away from herself the garments of her widowhood,",
+                "textLa": "Vocavitque abram suam, et descendens in domum suam, abstulit a se cilicium, et exuit se vestimentis viduitatis suæ,",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 3,
+                "textEn": "and she washed her body, and she anointed herself with the best ointment, and she plaited the hair of her head, and she put a headdress on her head, and she clothed herself with the garments of her elegance, and she put sandals on her feet, and she put on her little bracelets, and lilies, and earrings, and rings, and she adorned herself with all her ornaments.",
+                "textLa": "et lavit corpus suum, et unxit se myro optimo, et discriminavit crinem capitis sui, et imposuit mitram super caput suum, et induit se vestimentis iucunditatis suæ, induitque sandalia pedibus suis, assumpsitque dextraliola, et lilia, et inaures, et annulos, et omnibus ornamentis suis ornavit se.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 4,
+                "textEn": "And also, the Lord conferred upon her a splendor. For all this dressing up did not proceed from sensuality, but from virtue. And therefore, the Lord increased this, her beauty, so that she appeared with incomparable honor before the eyes of all.",
+                "textLa": "Cui etiam Dominus contulit splendorem: quoniam omnis ista compositio non ex libidine, sed ex virtute pendebat: et ideo Dominus hanc in illam pulchritudinem ampliavit, ut incomparabili decore omnium oculis appareret.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 5,
+                "textEn": "And so, she appointed to her handmaid a wineskin, and a vessel of oil, and parched grain, and dried figs, and bread, and cheese, and they departed.",
+                "textLa": "Imposuit itaque abræ suæ ascoperam vini, et vas olei, et polentam, et palathas, et panes, et caseum, et profecta est.",
+                "notes": "I cannot find any reference for the meaning of the word ‘palathas,’ except the Douay translation as ‘dried figs,’ which is the same in Challoner as in the original Douay-Rheims, and also is the same in the Wycliffe version."
+            },
+            {
+                "chapter": 10,
+                "verse": 6,
+                "textEn": "And when they came to the gate of the city, they found Uzziah and the elders of the city waiting.",
+                "textLa": "Cumque venissent ad portam civitatis, invenerunt expectantem Oziam et presbyteros civitatis.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 7,
+                "textEn": "And when they saw her, being astounded, they wondered at her surpassing beauty.",
+                "textLa": "Qui cum vidissent eam, stupentes mirati sunt nimis pulchritudinem eius.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 8,
+                "textEn": "So, not questioning her at all, they dismissed her to go forth, saying: “May the God of our fathers give you grace, and may he strengthen all the advice of your heart with his virtue, so that Jerusalem may glory over you, and your name may be counted among the holy and the just.”",
+                "textLa": "Nihil tamen interrogantes eam, dimiserunt transire, dicentes: Deus patrum nostrorum det tibi gratiam, et omne consilium tui cordis sua virtute corroboret, ut glorietur super te Ierusalem, et sit nomen tuum in numero sanctorum et iustorum.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 9,
+                "textEn": "And those who were there, all with one voice, said: “Amen. Amen.”",
+                "textLa": "Et dixerunt hi qui illic erant, omnes una voce: Fiat, fiat.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 10,
+                "textEn": "In truth, Judith was praying to the Lord as she crossed through the gates, she and her handmaid.",
+                "textLa": "Iudith vero orans Dominum, transivit per portas ipsa et abra eius.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 11,
+                "textEn": "But it happened that, when she descended the mountain at about the break of day, the scouts of the Assyrians met her, and they stopped her, saying, “Where are you coming from? And where are you going?”",
+                "textLa": "Factum est autem, cum descenderet montem, circa ortum diei, occurrerunt ei exploratores Assyriorum, et tenuerunt eam, dicentes: Unde venis? aut quo vadis?",
+                "notes": "Here is a good example where the word ‘aut,’ usually thought of as meaning ‘or,’ actually means something closer to the word ‘and.’ The scouts who intercepted Judith were not asking her two questions of which she could answer either. They wanted the answer to one questions ‘and’ the other. Also, in the translation of the first question, the participle ‘from’ is left dangling because that is the way that persons commonly speak in English, and the translation is that of dialogue."
+            },
+            {
+                "chapter": 10,
+                "verse": 12,
+                "textEn": "And she answered: “I am a daughter of the Hebrews. This is why I have fled from their face: because I realized that in the future they would be given over to you with pillaging, for they hold you in contempt, and they would never be willing to surrender themselves, so that they might find mercy in your sight.",
+                "textLa": "Quæ respondit: Filia sum Hebræorum, ideo ego fugi a facie eorum, quoniam futurum agnovi, quod dentur vobis in deprædationem, pro eo quod contemnentes vos, noluerunt ultro tradere seipsos ut invenirent misericordiam in conspectu vestro.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 13,
+                "textEn": "For this reason, I thought to myself, saying: I will go to the face of the leader Holofernes, so that I may reveal to him their secrets, and show him by what means he may be able to prevail over them, without one man of his army being slain.”",
+                "textLa": "Hac de causa cogitavi mecum, dicens: Vadam ad faciem principis Holofernis, ut indicem illi secreta illorum, et ostendam illi quo aditu possit obtinere eos, ita ut non cadat vir unus de exercitu eius.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 14,
+                "textEn": "And when the men had heard her words, they beheld her face, and their eyes were astounded, because they wondered exceedingly at her beauty.",
+                "textLa": "Et cum audissent viri illi verba eius, considerabant faciem eius, et erat in oculis eorum stupor, quoniam pulchritudinem eius mirabantur nimis.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 15,
+                "textEn": "And they said to her: “You have preserved your life by following such an excellent plan, to descend to our lord.",
+                "textLa": "Et dixerunt ad eam: Conservasti animam tuam eo quod tale reperisti consilium, ut descenderes ad dominum nostrum.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 16,
+                "textEn": "But know this, that when you will stand in his sight, he will treat you well, and you will be very pleasing to his heart.” And they led her to the tabernacle of Holofernes, announcing her.",
+                "textLa": "Hoc autem scias, quoniam cum steteris in conspectu eius, bene tibi faciet, et eris gratissima in corde eius. Duxeruntque illam ad tabernaculum Holofernis, annunciantes eam.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 17,
+                "textEn": "And when she had entered before his face, immediately Holofernes was captivated by his eyes.",
+                "textLa": "Cumque intrasset ante faciem eius, statim captus est in suis oculis Holofernes.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 18,
+                "textEn": "And his attendants said to him, “Who can hold the people of the Hebrews in contempt, who have such beautiful women? So, we ought to think it not worthwhile, for their sakes, to fight against them.”",
+                "textLa": "Dixeruntque ad eum satellites eius: Quis contemnat populum Hebræorum, qui tam decoras mulieres habent, ut non pro his merito pugnare contra eos debeamus?",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 19,
+                "textEn": "And so, Judith looked upon Holofernes, sitting under a canopy, which was woven from purple and gold, with emeralds and precious stones.",
+                "textLa": "Videns itaque Iudith Holofernem sedentem in conopeo, quod erat ex purpura, et auro, et smaragdo, et lapidibus pretiosis intextum:",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 20,
+                "textEn": "And, after she had gazed into his face, she showed reverence for him, prostrating herself to the ground. And the servants of Holofernes lifted her up, at the command of their lord.",
+                "textLa": "et cum in faciem eius intendisset, adoravit eum, prosternens se super terram. Et elevaverunt eam servi Holofernis, iubente domino suo.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 11,
+        "verses": [
+            {
+                "chapter": 11,
+                "verse": 1,
+                "textEn": "Then Holofernes said to her: “Be steadfast in soul, and do not be terrified in your heart. For I have never harmed a man who was willing to serve king Nebuchadnezzar.",
+                "textLa": "Tunc Holofernes dixit ei: Æquo animo esto, et noli pavere in corde tuo: quoniam ego numquam nocui viro, qui voluit servire Nabuchodonosor regi.",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 2,
+                "textEn": "But if your people had not despised me, I would not have lifted up my lance over them.",
+                "textLa": "Populus autem tuus, si non contempsisset me, non levassem lanceam meam super eum.",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 3,
+                "textEn": "But now, tell me, for what reason have you withdrawn from them, and why has it pleased you to come to us?”",
+                "textLa": "Nunc autem dic mihi, qua ex causa recessisti ab illis, et placuit tibi ut venires ad nos?",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 4,
+                "textEn": "And Judith said to him: “Receive the words of your maidservant. For, if you will follow the words of your maidservant, the Lord will accomplish an excellent thing by you.",
+                "textLa": "Et dixit illi Iudith: Sume verba ancillæ tuæ, quoniam si secutus fueris verba ancillæ tuæ, perfectam rem faciet Dominus tecum.",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 5,
+                "textEn": "For, as Nebuchadnezzar the king of the earth lives, and as his power lives, which is with you for the chastising of all straying souls: not only men serve him through you, but also the beasts of the field are submissive to him.",
+                "textLa": "Vivit enim Nabuchodonosor rex terræ, et vivit virtus eius, quæ est in te ad correptionem omnium animarum errantium: quoniam non solum homines serviunt illi per te, sed et bestiæ agri obtemperant illi.",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 6,
+                "textEn": "For the diligence of your mind is being reported to all nations, and it has been revealed to all of this age that you alone are good and powerful in all his kingdom, and your discipline is being announced beforehand in all the provinces.",
+                "textLa": "Nunciatur enim animi tui industria universis gentibus, et indicatum est omni sæculo, quoniam tu solus bonus, et potens es in omni regno eius, et disciplina tua omnibus provinciis prædicatur.",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 7,
+                "textEn": "This is not hidden, what Achior has said, nor are we ignorant of what you have ordered to befall him.",
+                "textLa": "Nec hoc latet, quod locutus est Achior, nec illud ignoratur, quod ei iusseris evenire.",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 8,
+                "textEn": "For it is agreed that our God is so offended with sins that he has commanded, through his prophets to the people, that he will deliver them up for their sins.",
+                "textLa": "Constat enim, Deum nostrum sic peccatis offensum, ut mandaverit per prophetas suos ad populum, quod tradat eum pro peccatis suis.",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 9,
+                "textEn": "And since the sons of Israel know that they have offended their God, your trembling is upon them.",
+                "textLa": "Et quoniam sciunt se offendisse Deum suum filii Israel, tremor tuus super ipsos est.",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 10,
+                "textEn": "Moreover, now also a famine has assailed them, and, by drought of water, they are already counted among the dead.",
+                "textLa": "Insuper etiam fames invasit eos, et ab ariditate aquæ iam inter mortuos computantur.",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 11,
+                "textEn": "And finally, they have a plan to put to death their herds, and to drink their blood.",
+                "textLa": "Denique hoc ordinant, ut interficient pecora sua, et bibant sanguinem eorum:",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 12,
+                "textEn": "And the sacred things of the Lord their God, which God instructed them not to touch, among the grain, wine, and oil, these they have decided to expend, and they are willing to consume the things that they ought not to touch with their hands. Therefore, because they do these things, it is certain that they will be given over to perdition.",
+                "textLa": "et sancta Domini Dei sui quæ præcepit Deus non contingi, in frumento, vino, et oleo, hæc cogitaverunt impendere, et volunt consumere quæ nec manibus deberent contingere: ergo quoniam hæc faciunt, certum est quod in perditionem dabuntur.",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 13,
+                "textEn": "And I, your maidservant, knowing this, have fled from them, and the Lord has sent me to report to you these same things.",
+                "textLa": "Quod ego ancilla tua cognoscens, fugi ab illis, et misit me Dominus hæc ipsa nunciare tibi.",
+                "notes": "Notice the different word for female servant used here (ancilla), when Judith describes herself, compared to the female servant who accompanies her (abra)."
+            },
+            {
+                "chapter": 11,
+                "verse": 14,
+                "textEn": "For I, your maidservant, worship God even now that I am with you, and your maidservant will go out, and I will pray to God.",
+                "textLa": "Ego enim ancilla tua Deum colo, etiam nunc apud te: et exiet ancilla tua, et orabo Deum,",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 15,
+                "textEn": "And he will tell me when he will repay them for their sins, and I will return and announce it to you, so that I may bring you through the midst of Jerusalem, and you will hold all the people of Israel, like sheep that have no shepherd, and there will not be so much as one dog that barks against you.",
+                "textLa": "et dicet mihi quando eis reddat peccatum suum, et veniens nunciabo tibi, ita ut ego adducam te per mediam Ierusalem, et habebis omnem populum Israel, sicut oves, quibus non est pastor, et non latrabit vel unus canis contra te:",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 16,
+                "textEn": "For these things have been told to me through the providence of God.",
+                "textLa": "quoniam hæc mihi dicta sunt per providentiam Dei.",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 17,
+                "textEn": "And because God has been angry with them, I have been sent to report these same things to you.”",
+                "textLa": "Et quoniam iratus est illis Deus, hæc ipsa missa sum nunciare tibi.",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 18,
+                "textEn": "And so, all these words were pleasing before Holofernes, and before his servants, and they wondered at her wisdom, and they said to one another:",
+                "textLa": "Placuerunt autem omnia verba hæc coram Holoferne, et coram pueris eius, et mirabantur sapientiam eius, et dicebant alter ad alterum:",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 19,
+                "textEn": "“There is not another woman so great upon the earth: in appearance, in beauty, and in charming words.”",
+                "textLa": "Non est talis mulier super terram in aspectu, in pulchritudine, et in sensu verborum.",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 20,
+                "textEn": "And Holofernes said to her: “God has done well, who sent you ahead of the people, so that you may give them into our hands.",
+                "textLa": "Et dixit ad illam Holofernes: Benefecit Deus, qui misit te ante populum, ut des illum tu in manibus nostris:",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 21,
+                "textEn": "And if your promise is good, if your God will do this for me, he will also be my God, and you will be great in the house of Nebuchadnezzar, and your name will be renowned through all the earth.”",
+                "textLa": "et quoniam bona est promissio tua, si fecerit mihi hoc Deus tuus, erit et Deus meus, et tu in domo Nabuchodonosor magna eris, et nomen tuum nominabitur in universa terra.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 12,
+        "verses": [
+            {
+                "chapter": 12,
+                "verse": 1,
+                "textEn": "Then he ordered her to enter where his valuables were stored, and he ordered her to wait there, and he appointed what should be given to her from his own feast.",
+                "textLa": "Tunc iussit eam introire ubi repositi erant thesauri eius, et iussit illic manere eam, et constituit quid daretur illi de convivio suo.",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 2,
+                "textEn": "And Judith responded to him, and she said: “Now, I am not able to eat from these things which you instructed to be allotted to me, lest an offense come upon me. But I will eat from that which I have brought.”",
+                "textLa": "Cui respondit Iudith, et dixit: Nunc non potero manducare ex his, quæ mihi præcipis tribui, ne veniat super me offensio: ex his autem, quæ mihi detuli, manducabo.",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 3,
+                "textEn": "And Holofernes said to her, “If these things that you have brought with you should fail you, what shall we do for you?”",
+                "textLa": "Cui Holofernes ait: Si defecerint tibi ista, quæ tecum detulisti, quid faciemus tibi?",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 4,
+                "textEn": "And Judith said, “As your soul lives, my lord, your maidservant will not expend all these things, until God accomplishes by my hand what I have in mind.” And his servants led her into the tabernacle, as he instructed.",
+                "textLa": "Et dixit Iudith: Vivit anima tua domine meus, quoniam non expendet omnia hæc ancilla tua, donec faciat Deus in manu mea hæc, quæ cogitavi. Et induxerunt illam servi eius in tabernaculum, quod præceperat.",
+                "notes": "Notice that the word ‘quoniam’ does not receive a corresponding word in English. ‘As your soul lives, my lord, (it is the case) that ‘quoniam’ .... It is sufficient that the meaning of the word is implied."
+            },
+            {
+                "chapter": 12,
+                "verse": 5,
+                "textEn": "And, as she was entering, she requested that it be permitted to her to go outside at night, before daylight, in order to pray and to petition the Lord.",
+                "textLa": "Et petiit dum introiret, ut daretur ei copia nocte et ante lucem egrediendi foras ad orationem, et deprecandi Dominum.",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 6,
+                "textEn": "And he instructed his chamberlains that she may exit and enter, just as it may please her, to adore her God, for three days.",
+                "textLa": "Et præcepit cubiculariis suis ut sicut placeret illi, exiret et introiret ad adorandum Deum suum, per triduum:",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 7,
+                "textEn": "And she went out in the nights into the valley of Bethulia, and she washed herself in a fountain of water.",
+                "textLa": "et exibat noctibus in vallem Bethuliæ, et baptizabat se in fonte aquæ.",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 8,
+                "textEn": "And, as she climbed up, she prayed to the Lord God of Israel that he would direct her way, to the liberation of his people.",
+                "textLa": "Et ut ascendebat, orabat Dominum Deum Israel, ut dirigeret viam eius ad liberationem populi sui.",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 9,
+                "textEn": "And entering, she remained pure in the tabernacle, until she received her own food in the evening.",
+                "textLa": "Et introiens, munda manebat in tabernaculo usque dum acciperet escam suam in vespere.",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 10,
+                "textEn": "And it happened on the fourth day that Holofernes made a supper for his servants, and he said to Vagao his eunuch: “Go, and persuade that Hebrew woman to willingly consent to live with me.",
+                "textLa": "Et factum est, in quarto die Holofernes fecit cœnam servis suis, et dixit ad Vagao eunuchum suum: Vade, et suade Hebræam illam ut sponte consentiat habitare mecum.",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 11,
+                "textEn": "For it is disgraceful among the Assyrians, if a woman mocks a man, acting so as to pass through with immunity from him.”",
+                "textLa": "Fœdum est enim apud Assyrios, si femina irrideat virum agendo ut immunis ab eo transeat.",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 12,
+                "textEn": "Then Vagao entered toward Judith, and he said, “May she not dread, my good young woman, to enter to my lord, so that she may be honored before his face, so that she may eat with him and drink wine with cheerfulness.”",
+                "textLa": "Tunc introivit Vagao ad Iudith, et dixit: Non vereatur bona puella introire ad dominum meum, ut honorificetur ante faciem eius, ut manducet cum eo, et bibat vinum in iucunditate.",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 13,
+                "textEn": "Judith answered him: “Who am I, that I should contradict my lord?",
+                "textLa": "Cui Iudith respondit: Quæ ego sum, ut contradicam domino meo?",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 14,
+                "textEn": "All that will be good and best before his eyes, I will do. Moreover, whatever will please him, to me, that will be what is best, all the days of my life.”",
+                "textLa": "Omne quod erit ante oculos eius bonum et optimum faciam. Quidquid autem illi placuerit, hoc mihi erit optimum omnibus diebus vitæ meæ.",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 15,
+                "textEn": "And she arose and dressed herself with her garments, and entering, she stood before his face.",
+                "textLa": "Et surrexit, et ornavit se vestimento suo, et ingressa stetit ante faciem eius.",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 16,
+                "textEn": "But the heart of Holofernes was struck. For he was burning with desire for her.",
+                "textLa": "Cor autem Holofernes concussum est: erat enim ardens in concupiscentia eius.",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 17,
+                "textEn": "And Holofernes said to her, “Drink now, and recline with cheerfulness, for you have found favor before me.”",
+                "textLa": "Et dixit ad eam Holofernes: Bibe nunc, et accumbe in iucunditate, quoniam invenisti gratiam coram me.",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 18,
+                "textEn": "And Judith said, “I will drink, my lord, because my soul has been magnified this day, beyond all my days.”",
+                "textLa": "Et dixit Iudith: Bibam domine, quoniam magnificata est anima mea hodie præ omnibus diebus meis.",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 19,
+                "textEn": "And she accepted and ate and drank in his sight what her handmaid had prepared for her.",
+                "textLa": "Et accepit, et manducavit, et bibit coram ipso ea, quæ paraverat illi ancilla eius.",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 20,
+                "textEn": "And Holofernes became pleased with her, and he drank very much wine, more than he had ever drunk in his life.",
+                "textLa": "Et iucundus factus est Holofernes ad eam, bibitque vinum multum nimis, quantum numquam biberat in vita sua.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 13,
+        "verses": [
+            {
+                "chapter": 13,
+                "verse": 1,
+                "textEn": "So then, when it had become late, his servants hurried to their lodgings, and Vagao closed the chamber doors, and he went away.",
+                "textLa": "Ut autem sero factum est, festinaverunt servi illius ad hospitia sua, et conclusit Vagao ostia cubiculi, et abiit.",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 2,
+                "textEn": "But they were all drowsy from the wine.",
+                "textLa": "Erant autem omnes fatigati a vino:",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 3,
+                "textEn": "And Judith was alone in the chamber.",
+                "textLa": "eratque Iudith sola in cubiculo.",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 4,
+                "textEn": "Moreover, Holofernes, being very inebriated, was fast asleep, reclining on his bed.",
+                "textLa": "Porro Holofernes iacebat in lecto, nimia ebrietate sopitus.",
+                "notes": "The word ‘sopitus’ does not indicate normal sleep, but rather sleep due to some external force, such as alcohol, or a soporific remedy (ancient version of sleeping pills), or a blow to the head."
+            },
+            {
+                "chapter": 13,
+                "verse": 5,
+                "textEn": "And Judith told her handmaid to stand outside before the chamber, and to watch.",
+                "textLa": "Dixitque Iudith puellæ suæ ut staret foris ante cubiculum, et observaret.",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 6,
+                "textEn": "And Judith stood in front of the bed, praying with tears, and her lips moved in silence,",
+                "textLa": "Stetitque Iudith ante lectum, orans cum lacrymis, et labiorum motu in silentio,",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 7,
+                "textEn": "saying: “Confirm me, O Lord God of Israel, and in this hour look kindly upon the works of my hands, so that, just as you promised, you may raise up Jerusalem, your city, and so that, believing through you that this plan is able to be accomplished, I may succeed.”",
+                "textLa": "dicens: Confirma me Domine Deus Israel, et respice in hac hora ad opera manuum mearum, ut, sicut promisisti, Ierusalem civitatem tuam erigas: et hoc quod credens per te posse fieri cogitavit, perficiam.",
+                "notes": "Notice that this phrase is translated somewhat more loosely ‘et hoc quod credens per te posse fieri cogitavit,’ so that the verb ‘cogitavit’ is even translated as a noun ‘plan,’ rather than ‘what was planned.’ In translation, sometime the better rendering changes the tense of the verb, or the case of a noun, or even, in this unusual case, changes a verb into a noun."
+            },
+            {
+                "chapter": 13,
+                "verse": 8,
+                "textEn": "And when she had said this, she approached the pillar, which was at the head of the bed, and she released his blade, which was hanging tied to it.",
+                "textLa": "Et cum hæc dixisset, accessit ad columnam, quæ erat ad caput lectuli eius, et pugionem eius, qui in ea ligatus pendebat, exolvit.",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 9,
+                "textEn": "And when she had unsheathed it, she grabbed him by the hair of his head, and she said, “Confirm me, O Lord God, in this hour.”",
+                "textLa": "Cumque evaginasset illum, apprehendit comam capitis eius, et ait: Confirma me Domine Deus in hac hora.",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 10,
+                "textEn": "And she struck him twice on his neck, and she cut off his head, and she took off his canopy from the pillars, and she rolled away the trunk of his body.",
+                "textLa": "Et percussit bis in cervicem eius, et abscidit caput eius, et abstulit conopœum eius a columnis, et evolvit corpus eius truncum.",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 11,
+                "textEn": "And after a little while, she went out, and she delivered the head of Holofernes to her handmaid, and she ordered her to put it in her bag.",
+                "textLa": "Et post pusillum exivit, et tradidit caput Holofernis ancillæ suæ, et iussit ut mitteret illud in peram suam.",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 12,
+                "textEn": "And the two went out, according to their custom, as if to prayer, and they passed through the camp, and having circled around the valley, they came to the gate of the city.",
+                "textLa": "Et exierunt duæ, secundum consuetudinem suam, quasi ad orationem, et transierunt castra, et gyrantes vallem, venerunt ad portam civitatis.",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 13,
+                "textEn": "And Judith, from a distance, spoke to the watchmen on the walls, “Open the gates, for God is with us, and he has acted with his power in Israel.”",
+                "textLa": "Et dixit Iudith a longe custodibus murorum: Aperite portas, quoniam nobiscum est Deus, qui fecit virtutem in Israel.",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 14,
+                "textEn": "And it happened that, when the men had heard her voice, they called the elders of the city.",
+                "textLa": "Et factum est, cum audissent viri vocem eius, vocaverunt presbyteros civitatis.",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 15,
+                "textEn": "And all rushed toward her, from the least to the greatest. For, until then, they held no hope that she would return.",
+                "textLa": "Et concurrerunt ad eam omnes, a minimo usque ad maximum: quoniam sperabant eam iam non esse venturam.",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 16,
+                "textEn": "And, enflaming the lights, they gathered all around her. But she climbed up to a higher place, and she ordered them to be made silent. And when all had quieted down,",
+                "textLa": "Et accendentes luminaria congyraverunt circa eam universi: illa autem ascendens in eminentiorem locum, iussit fieri silentium. Cumque omnes tacuissent,",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 17,
+                "textEn": "Judith said: “Praise the Lord our God, who has not abandoned those who hope in him.",
+                "textLa": "dixit Iudith: Laudate Dominum Deum nostrum, qui non deseruit sperantes in se:",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 18,
+                "textEn": "And by me, his handmaid, he has fulfilled his mercy, which he promised to the house of Israel. And he has killed the enemy of his people, by my hand this night.”",
+                "textLa": "et in me ancilla sua adimplevit misericordiam suam, quam promisit domui Israel: et interfecit in manu mea hostem populi sui hac nocte.",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 19,
+                "textEn": "Then, taking the head of Holofernes from the bag, she displayed it to them, saying: “Behold, the head of Holofernes the leader of the military of the Assyrians, and behold his canopy, under which he reclined in his drunkenness, where the Lord our God struck him by the hand of a woman.",
+                "textLa": "Et proferens de pera caput Holofernis, ostendit illis, dicens: Ecce caput Holofernis principis militiæ Assyriorum, et ecce conopœum illius, in quo recumbebat in ebrietate sua, ubi per manum feminæ percussit illum Dominus Deus noster.",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 20,
+                "textEn": "But, as the Lord himself lives, his angel has been my guardian both from my departure, and while staying there, and when returning from there. And the Lord has not permitted me, his handmaid, to be defiled, but he has called me back to you without the pollution of sin, rejoicing in his victory, in my escape, and in your liberation.",
+                "textLa": "Vivit autem ipse Dominus, quoniam custodivit me Angelus eius et hinc euntem, et ibi commorantem, et inde huc revertentem, et non permisit me Dominus ancillam suam coinquinari, sed sine pollutione peccati revocavit me vobis gaudentem in victoria sua, in evasione mea, et in liberatione vestra.",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 21,
+                "textEn": "Confess everything to him, for he is good, for his mercy is with every generation.”",
+                "textLa": "Confitemini illi omnes, quoniam bonus, quoniam in sæculum misericordia eius.",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 22,
+                "textEn": "Then everyone adored the Lord, and they said to her, “The Lord has blessed you by his power, because, through you, he has reduced our enemies to nothing.”",
+                "textLa": "Universi autem adorantes Dominum, dixerunt ad eam: Benedixit te Dominus in virtute sua, quia per te ad nihilum redegit inimicos nostros.",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 23,
+                "textEn": "Furthermore, Uzziah, the leader of the people of Israel, said to her: “O daughter, you have been blessed by the Lord, the most high God, above all the women on earth.",
+                "textLa": "Porro Ozias princeps populi Israel, dixit ad eam: Benedicta es tu filia a Domino Deo excelso præ omnibus mulieribus super terram.",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 24,
+                "textEn": "Blessed is the Lord, who made heaven and earth, who has guided you in harming the head of the leader of our enemies.",
+                "textLa": "Benedictus Dominus, qui creavit cælum et terram, qui te direxit in vulnera capitis principis inimicorum nostrorum:",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 25,
+                "textEn": "For he has so magnified your name this day, that your praise will not retire from the mouth of men, who will be mindful of the power of the Lord forever, because you have risked your life for the sake of the distress and tribulation of your people, and you have prevented our ruin before the sight of our God.”",
+                "textLa": "quia hodie nomen tuum ita magnificavit, ut non recedat laus tua de ore hominum, qui memores fuerint virtutis Domini in æternum, pro quibus non pepercisti animæ tuæ propter angustias et tribulationem generis tui, sed subvenisti ruinæ ante conspectum Dei nostri.",
+                "notes": "The phrase ‘non peperisti’ literally means ‘you have not spared,’ but this is more succinctly expressed as ‘you have risked....’"
+            },
+            {
+                "chapter": 13,
+                "verse": 26,
+                "textEn": "And all the people said: “Amen. Amen.”",
+                "textLa": "Et dixit omnis populus: Fiat, fiat.",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 27,
+                "textEn": "And so, Achior was called, and he drew near, and Judith said to him: “The God of Israel, to whom you gave testimony, has avenged himself on his enemies. He has cut down the head of all unbelievers, by my hand this night.",
+                "textLa": "Porro Achior vocatus venit, et dixit ei Iudith: Deus Israel, cui tu testimonium dedisti quod ulciscatur se de inimicis suis, ipse caput omnium incredulorum incidit hac nocte in manu mea.",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 28,
+                "textEn": "And, so that you may determine that this is so, behold, the head of Holofernes, who, in the contempt of his pride, despised the God of Israel and threatened Israel with ruin, saying, ‘When the people of Israel have been captured, I will instruct your sides to be pierced through with a sword.’ ”",
+                "textLa": "Et ut probes quia ita est, ecce caput Holofernis, qui in contemptu superbiæ suæ Deum Israel contempsit, et tibi interitum minabatur, dicens: Cum captus fuerit populus Israel, gladio perforari præcipiam latera tua.",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 29,
+                "textEn": "Then Achior, seeing the head of Holofernes, and being distressed by fear, fell upon his face on the ground, and his soul became agitated.",
+                "textLa": "Videns autem Achior caput Holofernis, angustiatus præ pavore, cecidit in faciem suam super terram, et æstuavit anima eius.",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 30,
+                "textEn": "In truth, after this, when he had recovered his breath, he fell down before her feet, and he showed reverence for her, and he said:",
+                "textLa": "Postea vero quam resumpto spiritu recreatus est, procidit ad pedes eius, et adoravit eam, et dixit:",
+                "notes": null
+            },
+            {
+                "chapter": 13,
+                "verse": 31,
+                "textEn": "“Blessed are you by your God, in every tabernacle of Jacob, for in every nation that will hear of your name, the God of Israel will be magnified over you.”",
+                "textLa": "Benedicta tu a Deo tuo in omni tabernaculo Iacob, quoniam in omni gente, quæ audierit nomen tuum, magnificabitur super te Deus Israel.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 14,
+        "verses": [
+            {
+                "chapter": 14,
+                "verse": 1,
+                "textEn": "Then Judith said to all the people: “Hear me, brothers. Suspend this head over our walls.",
+                "textLa": "Dixit autem Iudith ad omnem populum: Audite me fratres, suspendite caput hoc super muros nostros:",
+                "notes": null
+            },
+            {
+                "chapter": 14,
+                "verse": 2,
+                "textEn": "And, as soon as the sun rises, let everyone take up his weapons and go out to attack, not going down all the way, but only to seem as if making an assault.",
+                "textLa": "Et erit, cum exierit Sol, accipiat unusquisque arma sua, et exite cum impetu, non ut descendatis deorsum, sed quasi impetum facientes.",
+                "notes": null
+            },
+            {
+                "chapter": 14,
+                "verse": 3,
+                "textEn": "Then the scouts will have to hurry to awaken their leader for the fight.",
+                "textLa": "Tunc exploratores necesse erit ut fugiant ad principem suum excitandum ad pugnam.",
+                "notes": null
+            },
+            {
+                "chapter": 14,
+                "verse": 4,
+                "textEn": "And when their commanders rush into the tabernacle of Holofernes, and they find his headless body wallowing in his blood, fear will fall over them.",
+                "textLa": "Cumque duces eorum cucurrerint ad tabernaculum Holofernis, et invenerint eum truncum in suo sanguine volutatum, decidet super eos timor.",
+                "notes": null
+            },
+            {
+                "chapter": 14,
+                "verse": 5,
+                "textEn": "And when you realize that they are fleeing, go after them in security, for the Lord will crush them under your feet.”",
+                "textLa": "Cumque cognoveritis fugere eos, ite post illos securi, quoniam Dominus conteret eos sub pedibus vestris.",
+                "notes": null
+            },
+            {
+                "chapter": 14,
+                "verse": 6,
+                "textEn": "Then Achior, seeing the power that the God of Israel had wrought, left behind the rituals of the Gentiles. He believed in God, and he circumcised the flesh of his foreskin, and he was placed among the people of Israel, and so were all the succession of his kindred, even until this present day.",
+                "textLa": "Tunc Achior videns virtutem, quam fecit Deus Israel, relicto gentilitatis ritu, credidit Deo, et circumcidit carnem præputii sui, et appositus est ad populum Israel, et omnis successio generis eius usque in hodiernum diem.",
+                "notes": null
+            },
+            {
+                "chapter": 14,
+                "verse": 7,
+                "textEn": "And soon, at the rising of day, they suspended the head of Holofernes above the walls, and every man took up his weapons, and they went out with a great uproar and howling.",
+                "textLa": "Mox autem ut ortus est dies, suspenderunt super muros caput Holofernis, accepitque unusquisque vir arma sua, et egressi sunt cum grandi strepitu et ululatu.",
+                "notes": null
+            },
+            {
+                "chapter": 14,
+                "verse": 8,
+                "textEn": "When the scouts saw this, they rushed to the tent of Holofernes.",
+                "textLa": "Quod videntes exploratores, ad tabernaculum Holofernis cucurrerunt.",
+                "notes": null
+            },
+            {
+                "chapter": 14,
+                "verse": 9,
+                "textEn": "Moreover, those who were in the tent came and made a loud noise before the entrance to the bedchamber, hoping to awaken him by an attempt at skillful noise-making, not by intruding on him, so that Holofernes might be roused from sleep.",
+                "textLa": "Porro hi, qui in tabernaculo erant, venientes, et ante ingressum cubiculi perstrepentes, excitandi gratia, inquietudinem arte moliebantur, ut non ab excitantibus, sed a sonantibus Holofernes evigilaret.",
+                "notes": null
+            },
+            {
+                "chapter": 14,
+                "verse": 10,
+                "textEn": "For no one dared to knock, or to open and enter, the bedchamber of the powerful leader of the Assyrians.",
+                "textLa": "Nullus enim audebat cubiculum virtutis Assyriorum pulsando aut intrando aperire.",
+                "notes": null
+            },
+            {
+                "chapter": 14,
+                "verse": 11,
+                "textEn": "But when his commanders and tribunes had arrived, with all the chiefs of the army of the king of the Assyrians, they said to the chamberlains:",
+                "textLa": "Sed cum venissent eius duces ac tribuni, et universi maiores exercitus regis Assyriorum, dixerunt cubiculariis:",
+                "notes": null
+            },
+            {
+                "chapter": 14,
+                "verse": 12,
+                "textEn": "“Enter and awaken him, for the mice have come out of their holes, intending to challenge us to fight.”",
+                "textLa": "Intrate, et excitate illum, quoniam egressi mures de cavernis suis, ausi sunt provocare nos ad prælium.",
+                "notes": null
+            },
+            {
+                "chapter": 14,
+                "verse": 13,
+                "textEn": "Then Vagao, entering his bedchamber, stood before the curtain, and he made a clapping noise with his hands. For he suspected that he was sleeping with Judith.",
+                "textLa": "Tunc ingressus Vagao cubiculum eius, stetit ante cortinam, et plausum fecit manibus suis: suspicabatur enim illum cum Iudith dormire.",
+                "notes": null
+            },
+            {
+                "chapter": 14,
+                "verse": 14,
+                "textEn": "But when, with attentiveness, he perceived no motion of anyone reclining, he approached the curtain. And lifting it up, he saw the dead body of Holofernes, without a head, lying on the ground, soaked in his own blood. He cried out with a loud voice and weeping, and he tore his garments.",
+                "textLa": "Sed cum nullum motum iacentis sensu aurium caperet, accessit proximans ad cortinam, et elevans eam, vidensque cadaver absque capite Holofernis in suo sanguine tabefactum iacere super terram, exclamavit voce magna cum fletu, et scidit vestimenta sua.",
+                "notes": null
+            },
+            {
+                "chapter": 14,
+                "verse": 15,
+                "textEn": "And he entered the tent of Judith and did not find her. And he ran out to the people,",
+                "textLa": "Et ingressus tabernaculum Iudith, non invenit eam, et exiliit foras ad populum,",
+                "notes": null
+            },
+            {
+                "chapter": 14,
+                "verse": 16,
+                "textEn": "and he said: “One Hebrew woman has caused confusion in the house of Nebuchadnezzar the king. For behold, Holofernes lies on the ground, and his head is not with him.”",
+                "textLa": "et dixit: Una mulier Hebræa fecit confusionem in domo regis Nabuchodonosor: ecce enim Holofernes iacet in terra, et caput eius non est in illo.",
+                "notes": null
+            },
+            {
+                "chapter": 14,
+                "verse": 17,
+                "textEn": "Now when the leaders of the army of the Assyrians had heard this, they all tore their garments, and an intolerable fear and trembling fell over them, and their minds were greatly disturbed.",
+                "textLa": "Quod cum audissent principes virtutis Assyriorum, sciderunt omnes vestimenta sua, et intolerabilis timor et tremor cecidit super eos, et turbati sunt animi eorum valde.",
+                "notes": null
+            },
+            {
+                "chapter": 14,
+                "verse": 18,
+                "textEn": "And there was an unprecedented outcry in the midst of their camp.",
+                "textLa": "Et factus est clamor incomparabilis in medio castrorum eorum.",
+                "notes": "The outcry was ‘incomparable’ or ‘unprecedented.’"
+            }
+        ]
+    },
+    {
+        "chapter": 15,
+        "verses": [
+            {
+                "chapter": 15,
+                "verse": 1,
+                "textEn": "And when the entire army had heard that Holofernes was beheaded, reason and resolution fled from them, and, being moved by trembling and fear alone, they thought only to flee to safety.",
+                "textLa": "Cumque omnis exercitus decollatum Holofernem audisset, fugit mens et consilium ab eis, et solo tremore et metu agitati, fugæ præsidium sumunt,",
+                "notes": null
+            },
+            {
+                "chapter": 15,
+                "verse": 2,
+                "textEn": "So then, no one spoke with his neighbor, but hanging their heads and leaving everything behind, they hurried to escape from the Hebrews, who, as they had heard, were advancing against them well-armed. And they fled through the ways of the fields and the paths of the hills.",
+                "textLa": "ita ut nullus loqueretur cum proximo suo, sed inclinato capite, relictis omnibus, evadere festinabant Hebræos, quos armatos super se venire audiebant, fugientes per vias camporum et semitas collium.",
+                "notes": null
+            },
+            {
+                "chapter": 15,
+                "verse": 3,
+                "textEn": "And so, the sons of Israel, seeing them fleeing, pursued them. And they went down after them, sounding the trumpets and howling.",
+                "textLa": "Videntes itaque filii Israel fugientes, secuti sunt illos. Descenderuntque clangentes tubis, et ululantes post ipsos.",
+                "notes": null
+            },
+            {
+                "chapter": 15,
+                "verse": 4,
+                "textEn": "And, since the Assyrians were not united, they rushed headlong in their flight. But the sons of Israel, pursuing like one unit, struck down all they were able to find.",
+                "textLa": "Et quoniam Assyrii non adunati, in fugam ibant præcipites: filii autem Israel uno agmine persequentes, debilitabant omnes, quos invenire potuissent.",
+                "notes": null
+            },
+            {
+                "chapter": 15,
+                "verse": 5,
+                "textEn": "And so, Uzziah sent messengers through all the cities and regions of Israel.",
+                "textLa": "Misit itaque Ozias nuncios per omnes civitates et regiones Israel.",
+                "notes": null
+            },
+            {
+                "chapter": 15,
+                "verse": 6,
+                "textEn": "And then, every region and every city sent their chosen young men with weapons after them, and they pursued them with the edge of the sword, until they passed through to the extremities of their borders.",
+                "textLa": "Omnis itaque regio, omnisque urbs electam iuventutem armatam misit post eos, et persecuti sunt eos in ore gladii, quousque pervenirent ad extremitatem finium suorum.",
+                "notes": null
+            },
+            {
+                "chapter": 15,
+                "verse": 7,
+                "textEn": "But the remainder, who were in Bethulia, entered the camp of the Assyrians and took away the plunder that the Assyrians, in their flight, had left behind, and they were exceedingly burdened.",
+                "textLa": "Reliqui autem, qui erant in Bethulia, ingressi sunt castra Assyriorum, et prædam, quam fugientes Assyrii reliquerant, abstulerunt, et onustati sunt valde.",
+                "notes": null
+            },
+            {
+                "chapter": 15,
+                "verse": 8,
+                "textEn": "In truth, those who returned victorious to Bethulia brought with them everything that was theirs. So there was no numbering their cattle, and beasts, and everything they could carry, so much so that, from the least to the greatest, all were made rich by their spoils.",
+                "textLa": "Hi vero, qui victores reversi sunt ad Bethuliam, omnia quæ erant illorum attulerunt secum, ita ut non esset numerus in pecoribus, et iumentis, et universis mobilibus eorum, ut a minimo usque ad maximum omnes divites fierent de prædationibus eorum.",
+                "notes": "The phrase ‘universis mobilibus eorum’ could also be translated as ‘all their movables’ or ‘all their transportable items.’"
+            },
+            {
+                "chapter": 15,
+                "verse": 9,
+                "textEn": "But Joachim, the high priest, came from Jerusalem to Bethulia with all his elders to see Judith.",
+                "textLa": "Ioacim autem summus pontifex de Ierusalem venit in Bethuliam cum universis presbyteris suis ut videret Iudith.",
+                "notes": null
+            },
+            {
+                "chapter": 15,
+                "verse": 10,
+                "textEn": "And when she had gone out to him, they all blessed her with one voice, saying: “You are the glory of Jerusalem, you are the joy of Israel, you are the honor of our people.",
+                "textLa": "Quæ cum exisset ad illum, benedixerunt eam omnes una voce, dicentes: Tu gloria Ierusalem, tu lætitia Israel, tu honorificentia populi nostri:",
+                "notes": null
+            },
+            {
+                "chapter": 15,
+                "verse": 11,
+                "textEn": "For you have acted manfully, and your heart has been strengthened. For you loved chastity, and, after your husband, you have not known any other. Therefore, also the hand of the Lord has strengthened you, and, therefore, you will be blessed for all eternity.”",
+                "textLa": "quia fecisti viriliter, et confortatum est cor tuum, eo quod castitatem amaveris, et post virum tuum, alterum nescieris: ideo et manus Domini confortavit te, et ideo eris benedicta in æternum.",
+                "notes": "The praise given to Judith in the Scriptures is really praise for the Virgin Mary. For Judith is a mere foreshadowing of Mary. It may seem as if Judith is praised excessively, but the full meaning is praise for the Mother of God."
+            },
+            {
+                "chapter": 15,
+                "verse": 12,
+                "textEn": "And all the people said: “Amen. Amen.”",
+                "textLa": "Et dixit omnis populus: Fiat, fiat.",
+                "notes": null
+            },
+            {
+                "chapter": 15,
+                "verse": 13,
+                "textEn": "But all of thirty days were scarcely enough for the people of Israel to collect the spoils of the Assyrians.",
+                "textLa": "Per dies autem triginta, vix collecta sunt spolia Assyriorum a populo Israel.",
+                "notes": null
+            },
+            {
+                "chapter": 15,
+                "verse": 14,
+                "textEn": "But moreover, all of those things that were clearly the particular possessions of Holofernes they gave to Judith: with gold, and silver, and garments, and gems, and furniture. And these were all delivered to her by the people.",
+                "textLa": "Porro autem universa, quæ Holofernis peculiaria fuisse probata sunt, dederunt Iudith in auro, et argento, et vestibus, et gemmis, et omni supellectili, et tradita sunt omnia illi a populo.",
+                "notes": null
+            },
+            {
+                "chapter": 15,
+                "verse": 15,
+                "textEn": "And all the people rejoiced, with the women, and the virgins, and the young men, playing on wind instruments and stringed instruments.",
+                "textLa": "Et omnes populi gaudebant cum mulieribus, et virginibus, et iuvenibus, in organis, et citharis.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 16,
+        "verses": [
+            {
+                "chapter": 16,
+                "verse": 1,
+                "textEn": "Then Judith sang this canticle to the Lord, saying:",
+                "textLa": "Tunc cantavit canticum hoc Domino Iudith, dicens:",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 2,
+                "textEn": "“Call to the Lord with drums, sing to the Lord with cymbals, play for him a new psalm, exalt and invoke his name.",
+                "textLa": "Incipite Domino in tympanis, cantate Domino in cymbalis, modulamini illi psalmum novum, exaltate, et invocate nomen eius.",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 3,
+                "textEn": "The Lord crushes wars; the Lord is his name.",
+                "textLa": "Dominus conterens bella, Dominus nomen est illi.",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 4,
+                "textEn": "He has set up his camp in the midst of his people, to rescue us from the hand of all our enemies.",
+                "textLa": "Qui posuit castra sua in medio populi sui, ut eriperet nos de manu omnium inimicorum nostrorum.",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 5,
+                "textEn": "Assur came from the mountains, from the North, with the multitude of his strength. His multitude blockaded the torrents, and their horses covered the valleys.",
+                "textLa": "Venit Assur ex montibus ab Aquilone in multitudine fortitudinis suæ: cuius multitudo obturavit torrentes, et equi eorum cooperuerunt valles.",
+                "notes": "The name Assur refers to a false god of the Assyrians. As such, it is also used by Scripture to refer to the Antichrist, who will be a false god from the area of the world formerly held by the Assyrians. He will hide the fact that he is from the Middle East (the kingdom of the South) and he will become the king of the North (Europe). He comes to the kingdom of the South with a vast army and their vehicles (‘horses’) and he blockades the sources of water and the passages for travel."
+            },
+            {
+                "chapter": 16,
+                "verse": 6,
+                "textEn": "He told himself that he would set fire to my borders, and kill my young men with the sword, to give my children into plunder and my virgins into captivity.",
+                "textLa": "Dixit se incensurum fines meos, et iuvenes meos occisurum gladio, infantes meos dare in prædam, et virgines in captivitatem.",
+                "notes": "Even thought the word ‘infantes’ is the source of the English word ‘infant,’ it has a broader meaning in Latin. It can refer to infants, but, in other contexts, it refers more generally to children."
+            },
+            {
+                "chapter": 16,
+                "verse": 7,
+                "textEn": "But the almighty Lord has harmed him, and he has delivered him into the hands of a woman, and he has pierced him through.",
+                "textLa": "Dominus autem omnipotens nocuit eum, et tradidit eum in manus feminæ, et confodit eum.",
+                "notes": "This verse gives credit to Judith, as the one to whom the enemy was handed over by God. However, the one who ‘confodit eum’ (runs him through), is the same one who ‘tradidit’ (same ending, same sentence construction), i.e. the Lord.\n The Book of Judith is actually about the Virgin Mary. Christ the Lord defeats the Antichrist, but he does so by means of the Virgin Mary. It is actually the Lord who defeats him, or runs him through, but the Virgin Mary – devotion to her, prayers of her Rosary, etc., and her ultimate return with Christ at the end of the Antichrist’s reign – are the means by which he is defeated."
+            },
+            {
+                "chapter": 16,
+                "verse": 8,
+                "textEn": "For their powerful one did not fall by young men, nor did the sons of Titan strike him, nor did lofty giants set themselves against him, but Judith, the daughter of Merari, dissolved him with the splendor of her face.",
+                "textLa": "Non enim cecidit potens eorum a iuvenibus, nec filii Titan percusserunt eum, nec excelsi gigantes opposuerunt se illi, sed Iudith filia Merari in specie faciei suæ dissolvit eum.",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 9,
+                "textEn": "For she put away from herself the garments of widowhood, and she clothed herself with the garments of rejoicing, for the sake of the exultation of the sons of Israel.",
+                "textLa": "Exuit enim se vestimento viduitatis, et induit se vestimento lætitiæ in exultatione filiorum Israel.",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 10,
+                "textEn": "She anointed her face with ointment, and she gathered the locks of her hair with a headdress; she accepted a new dress in order to deceive him.",
+                "textLa": "Unxit faciem suam unguento, et colligavit cincinnos suos mitra, accepit stolam novem ad decipiendum illum.",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 11,
+                "textEn": "Her sandals ravished his eyes; her beauty made his soul her captive; with a blade, she cut off his head.",
+                "textLa": "Sandalia eius rapuerunt oculos eius, pulchritudo eius captivam fecit animam eius, amputavit pugione cervicem eius.",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 12,
+                "textEn": "The Persians were horrified at her constancy, and the Medes at her boldness.",
+                "textLa": "Horruerunt Persæ constantiam eius, et Medi audaciam eius.",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 13,
+                "textEn": "Then the camp of the Assyrians howled, when my humble ones appeared, parched with thirst.",
+                "textLa": "Tunc ululaverunt castra Assyriorum, quando apparuerunt humiles mei, arescentes in siti.",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 14,
+                "textEn": "The sons of the servant girls have pierced them through, and, like fleeing servants, they have killed them. They perished in battle before the face of the Lord, my God.",
+                "textLa": "Filii puellarum compunxerunt eos, et sicut pueros fugientes occiderunt eos: perierunt in prælio a facie Domini Dei mei.",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 15,
+                "textEn": "Let us sing a canticle to the Lord; let us sing a new hymn to our God.",
+                "textLa": "Hymnum cantemus Domino, hymnum novum cantemus Deo nostro.",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 16,
+                "textEn": "O Adonai, O Lord, you are great, and splendor is in your virtue, and no one is able to overcome you.",
+                "textLa": "Adonai Domine magnus es tu, et præclarus in virtute tua, et quem superare nemo potest.",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 17,
+                "textEn": "Let all your creatures serve you. For you spoke, and they became. You sent forth your Spirit, and they were created. And there is no one who can withstand your voice.",
+                "textLa": "Tibi serviat omnis creatura tua: quia dixisti, et facta sunt: misisti Spiritum tuum, et creata sunt, et non est qui resistat voci tuæ.",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 18,
+                "textEn": "The mountains will be moved from the foundations by the waters. The rocks, like wax, will liquefy before your face.",
+                "textLa": "Montes a fundamentis movebuntur cum aquis: petræ, sicut cera, liquescent ante faciem tuam.",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 19,
+                "textEn": "But those who fear you will be great with you, throughout all things.",
+                "textLa": "Qui autem timent te, magni erunt apud te per omnia.",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 20,
+                "textEn": "Woe to the people that rises up against my people. For the Lord almighty will be vindicated against them; in the day of judgment, he will visit them.",
+                "textLa": "Væ genti insurgenti super genus meum: Dominus enim omnipotens vindicabit in eis, in die iudicii visitabit illos.",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 21,
+                "textEn": "For he will bestow fire and worms on their flesh, so that they may burn and have sensations without ceasing.”",
+                "textLa": "Dabit enim ignem, et vermes in carnes eorum, ut urantur, et sentiant usque in sempiternum.",
+                "notes": "Here is a description of Hell, which clearly indicates that Hellfire includes physical torments of various kinds and that it is never-ending."
+            },
+            {
+                "chapter": 16,
+                "verse": 22,
+                "textEn": "And it happened that, after these things, all the people came to Jerusalem after the victory, to adore the Lord. And as soon as they were purified, they all offered holocausts, and vows, and their promises.",
+                "textLa": "Et factum est post hæc, omnis populus post victoriam venit in Ierusalem adorare Dominum: et mox ut purificati sunt, obtulerunt omnes holocausta, et vota, et repromissiones suas.",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 23,
+                "textEn": "Moreover, Judith offered all the implements of war from Holofernes, which the people gave to her, and the canopy that she had taken away from his chamber, as an anathema unto oblivion.",
+                "textLa": "Porro Iudith universa vasa bellica Holofernis, quæ dedit illi populus, et conopœum, quod ipsa sustulerat de cubili ipsius, obtulit in anathema oblivionis.",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 24,
+                "textEn": "But the people were cheerful before the face of the sanctuary, and for three months the gladness of this victory was celebrated with Judith.",
+                "textLa": "Erat autem populus iucundus secundum faciem sanctorum, et per tres menses gaudium huius victoriæ celebratum est cum Iudith.",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 25,
+                "textEn": "And after those days, each one returned to his own house, and Judith became great in Bethulia, and she had great splendor in all the land of Israel.",
+                "textLa": "Post dies autem illos unusquisque rediit in domum suam, et Iudith magna facta est in Bethulia, et præclarior erat universæ terræ Israel.",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 26,
+                "textEn": "For chastity was one with her virtue, so that she did not know man all the days of her life, after the passing away of her husband, Manasseh.",
+                "textLa": "Erat enim virtuti castitas adiuncta, ita ut non cognosceret virum omnibus diebus vitæ suæ, ex quo defunctus est Manasses vir eius.",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 27,
+                "textEn": "And then, on feast days, she came forth with great glory.",
+                "textLa": "Erat autem diebus festis procedens cum magna gloria.",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 28,
+                "textEn": "But she remained in her husband’s house for one hundred and five years, and she set her handmaid free. And she passed away and was buried with her husband in Bethulia.",
+                "textLa": "Mansit autem in domo viri sui annos centum quinque, et dimisit abram suam liberam, et defuncta est ac sepulta cum viro suo in Bethulia.",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 29,
+                "textEn": "And all the people mourned her, for seven days.",
+                "textLa": "Luxitque illam omnis populus diebus septem.",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 30,
+                "textEn": "And, during all the time of her life, there was no one who disturbed Israel, nor for many years after her death.",
+                "textLa": "In omni autem spatio vitæ eius non fuit qui perturbaret Israel, et post mortem eius annis multis.",
+                "notes": null
+            },
+            {
+                "chapter": 16,
+                "verse": 31,
+                "textEn": "Moreover, the day of the festivity of this victory was accepted by the Hebrews in the numbering of holy days, and it was religiously observed by the Jews, from that time, even to the present day.",
+                "textLa": "Dies autem victoriæ huius festivitatis, ab Hebræis in numero sanctorum dierum accipitur, et colitur a Iudæis ex illo tempore usque in præsentem diem.",
+                "notes": null
+            }
+        ]
+    }
+]

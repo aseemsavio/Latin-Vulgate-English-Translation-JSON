@@ -1,0 +1,823 @@
+[
+    {
+        "chapter": 1,
+        "verses": [
+            {
+                "chapter": 1,
+                "verse": 1,
+                "textEn": "Paul, an Apostle of Jesus Christ by the authority of God our Savior and Christ Jesus our hope,",
+                "textLa": "Paulus Apostolus Iesu Christi secundum imperium Dei Salvatoris nostri, et Christi Iesu spei nostræ:",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 2,
+                "textEn": "to Timothy, beloved son in the faith. Grace, mercy, and peace, from God the Father and from Christ Jesus our Lord.",
+                "textLa": "Timotheo dilecto filio in fide. Gratia, misericordia, et pax a Deo Patre, et Christo Iesu Domino nostro.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 3,
+                "textEn": "Now I asked you to remain at Ephesus, while I went into Macedonia, so that you would speak strongly against certain ones who have been teaching a different way,",
+                "textLa": "Sicut rogavi te ut remaneres Ephesi cum irem in Macedoniam, ut denunciares quibusdam ne aliter docerent,",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 4,
+                "textEn": "against those who have been paying attention to fables and endless genealogies. These things present questions as if they were greater than the edification that is of God, which is in faith.",
+                "textLa": "neque intenderent fabulis, et genealogiis interminatis: quæ quæstiones præstant magis quam ædificationem Dei, quæ est in fide.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 5,
+                "textEn": "Now the goal of instruction is charity from a pure heart, and a good conscience, and an unfeigned faith.",
+                "textLa": "Finis autem præcepti est charitas de corde puro, et conscientia bona, et fide non ficta.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 6,
+                "textEn": "Certain persons, wandering away from these things, have been turned aside to empty babbling,",
+                "textLa": "A quibus quidam aberrantes, conversi sunt in vaniloquium,",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 7,
+                "textEn": "desiring to be teachers of the law, but understanding neither the things that they themselves are saying, nor what they are affirming about these things.",
+                "textLa": "volentes esse legis doctores, non intelligentes neque quæ loquuntur, neque de quibus affirmant.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 8,
+                "textEn": "But we know that the law is good, if one makes use of it properly.",
+                "textLa": "Scimus autem quia bona est lex, si quis ea legitime utatur:",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 9,
+                "textEn": "Knowing this, that the law was not set in place for the just, but for the unjust and the insubordinate, for the impious and sinners, for the wicked and the defiled, for those who commit patricide, matricide, or homicide,",
+                "textLa": "sciens hoc quia lex iusto non est posita, sed iniustis, et non subditis, impiis, et peccatoribus, sceleratis, et contaminatis, parricidis, et matricidis, homicidis,",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 10,
+                "textEn": "for fornicators, for males who sleep with males, for kidnappers, for liars, for perjurers, and whatever else is contrary to sound doctrine,",
+                "textLa": "fornicariis, masculorum concubitoribus, plagiariis, mendacibus, et periuris, et si quid aliud sanæ doctrinæ adversatur,",
+                "notes": "The phrase ‘masculorum concubitoribus’ refers to homosexuality; the word ‘concubitoribus’ is masculine plural, and the word ‘masculorum’ refers to males generally. Since Paul adds ‘whatever else is contrary to sound doctrine’ female homosexuality is also condemned."
+            },
+            {
+                "chapter": 1,
+                "verse": 11,
+                "textEn": "which is in accord with the Gospel of the glory of the blessed God, the Gospel which has been entrusted to me.",
+                "textLa": "quæ est secundum Evangelium gloriæ beati Dei, quod creditum est mihi.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 12,
+                "textEn": "I give thanks to him who has strengthened me, Christ Jesus our Lord, because he has considered me faithful, placing me in the ministry,",
+                "textLa": "Gratias ago ei, qui me confortavit, Christo Iesu Domino nostro, quia fidelem me existimavit, ponens in ministerio:",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 13,
+                "textEn": "though previously I was a blasphemer, and a persecutor, and contemptuous. But then I obtained the mercy of God. For I had been acting ignorantly, in unbelief.",
+                "textLa": "qui prius blasphemus fui, et persecutor, et contumeliosus: sed misericordiam Dei consecutus sum, quia ignorans feci in incredulitate.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 14,
+                "textEn": "And so the grace of our Lord has abounded greatly, with the faith and love that is in Christ Jesus.",
+                "textLa": "Superabundavit autem gratia Domini nostri cum fide, et dilectione, quæ est in Christo Iesu.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 15,
+                "textEn": "It is a faithful saying, and worthy of acceptance by everyone, that Christ Jesus came into this world to bring salvation to sinners, among whom I am first.",
+                "textLa": "Fidelis sermo, et omni acceptione dignus: quod Christus Iesus venit in hunc mundum peccatores salvos facere, quorum primus ego sum:",
+                "notes": "Paul is not saying that he is literally the worst sinner of all, but merely that he was among the worst sinners; ‘first’ is used as a superlative in the general sense of ‘very much so,’ and not in the absolute sense of ‘more so than any other.’"
+            },
+            {
+                "chapter": 1,
+                "verse": 16,
+                "textEn": "But it was for this reason that I obtained mercy, so that in me as first, Christ Jesus would display all patience, for the instruction of those who would believe in him unto eternal life.",
+                "textLa": "Sed ideo misericordiam consecutus sum: ut in me primo ostenderet Christus Iesus omnem patientiam ad informationem eorum, qui credituri sunt illi, in vitam æternam.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 17,
+                "textEn": "So then, to the King of ages, to the immortal, invisible, solitary God, be honor and glory forever and ever. Amen.",
+                "textLa": "Regi autem sæculorum immortali, invisibili, soli Deo honor, et gloria in sæcula sæculorum. Amen.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 18,
+                "textEn": "This precept I commend to you, my son Timothy, in accord with the prophets who preceded you: that you serve among them like a soldier in a good war,",
+                "textLa": "Hoc præceptum commendo tibi fili Timothee, secundum præcedentes in te prophetias, ut milites in illis bonam militiam,",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 19,
+                "textEn": "holding to faith and good conscience, against those who, by rejecting these things, have made a shipwreck of the faith.",
+                "textLa": "habens fidem, et bonam conscientiam, quam quidam repellentes, circa fidem naufragaverunt:",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 20,
+                "textEn": "Among these are Hymenaeus and Alexander, whom I have handed over to Satan, so that they may learn not to blaspheme.",
+                "textLa": "ex quibus est Hymenæus, et Alexander: quos tradidi Satanæ, ut discant non blasphemare.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 2,
+        "verses": [
+            {
+                "chapter": 2,
+                "verse": 1,
+                "textEn": "And so I beg you, first of all, to make supplications, prayers, petitions, and thanksgivings for all men,",
+                "textLa": "Obsecro igitur primum omnium fieri obsecrationes, orationes, postulationes, gratiarum actiones pro omnibus hominibus:",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 2,
+                "textEn": "for kings, and for all who are in high places, so that we may lead a quiet and tranquil life in all piety and chastity.",
+                "textLa": "pro regibus, et omnibus, qui in sublimitate sunt, ut quietam et tranquillam vitam agamus in omni pietate, et castitate.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 3,
+                "textEn": "For this is good and acceptable in the sight of God our Savior,",
+                "textLa": "Hoc enim bonum est, et acceptum coram Salvatore nostro Deo,",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 4,
+                "textEn": "who wants all men to be saved and to arrive at an acknowledgment of the truth.",
+                "textLa": "qui omnes homines vult salvos fieri, et ad agnitionem veritatis venire.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 5,
+                "textEn": "For there is one God, and one mediator of God and of men, the man Christ Jesus,",
+                "textLa": "Unus enim Deus, unus et mediator Dei et hominum homo Christus Iesus:",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 6,
+                "textEn": "who gave himself as a redemption for all, as a testimony in its proper time.",
+                "textLa": "qui dedit redemptionem semetipsum pro omnibus, testimonium temporibus suis:",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 7,
+                "textEn": "Of this testimony, I have been appointed a preacher and an Apostle, (I speak the truth, I do not lie) as a teacher of the Gentiles, in faith and in truth.",
+                "textLa": "in quo positus sum ego prædicator, et Apostolus (veritatem dico, non mentior) doctor Gentium in fide, et veritate.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 8,
+                "textEn": "Therefore, I want men to pray in every place, lifting up pure hands, without anger or dissension.",
+                "textLa": "Volo ergo viros orare in omni loco, levantes puras manus sine ira, et disceptatione.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 9,
+                "textEn": "Similarly also, women should be dressed fittingly, adorning themselves with compunction and restraint, and not with plaited hair, nor gold, nor pearls, nor costly attire,",
+                "textLa": "Similiter et mulieres in habitu ornato, cum verecundia, et sobrietate ornantes se, et non in tortis crinibus, aut auro, aut margaritas, vel veste pretiosa:",
+                "notes": "The word ‘verecundia’ does not simply mean ‘modesty.’ It often means shame, but in this context, it is more of the meaning of recoiling from anything that would be shameful. Compunction expresses this meaning in English fairly well, referring to an exercise of conscience occasioned by the prospect of wrongdoing. The word ‘sobrietate’ in this context does not refer to restraint in drinking, nor in thinking, but to restraint in the manner of dressing and grooming."
+            },
+            {
+                "chapter": 2,
+                "verse": 10,
+                "textEn": "but in a manner proper for women who are professing piety by means of good works.",
+                "textLa": "sed quod decet mulieres, promittentes pietatem per opera bona.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 11,
+                "textEn": "Let a woman learn in silence with all subjection.",
+                "textLa": "Mulier in silentio discat cum omni subiectione.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 12,
+                "textEn": "For I do not permit a woman to teach, nor to be in authority over a man, but to be in silence.",
+                "textLa": "Docere autem mulieri non permitto, neque dominari in virum: sed esse in silentio.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 13,
+                "textEn": "For Adam was formed first, then Eve.",
+                "textLa": "Adam enim primus formatus est: deinde Heva.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 14,
+                "textEn": "And Adam was not seduced, but the woman, having been seduced, was in transgression.",
+                "textLa": "Et Adam non est seductus: mulier autem seducta in prævaricatione fuit.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 15,
+                "textEn": "Yet she will be saved by bearing children, if she has continued in faith and love, and in sanctification accompanied by self-restraint.",
+                "textLa": "Salvabitur autem per filiorum generationem, si permanserit in fide, et dilectione, et sanctificatione cum sobrietate.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 3,
+        "verses": [
+            {
+                "chapter": 3,
+                "verse": 1,
+                "textEn": "It is a faithful saying: if a man desires the episcopate, he desires a good work.",
+                "textLa": "Fidelis sermo: si quis episcopatum desiderat, bonum opus desiderat.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 2,
+                "textEn": "Therefore, it is necessary for a bishop to be beyond reproach, the husband of one wife, sober, prudent, gracious, chaste, hospitable, a teacher,",
+                "textLa": "Oportet ergo episcopum irreprehensibilem esse, unius uxoris virum, sobrium, prudentem, ornatum, pudicum, hospitalem, doctorem,",
+                "notes": "The expression ‘husband of one wife’ has an idiomatic meaning, that he be a devoted husband; the literal meaning also applies, he should not be a man who has married more than once. In the early Church, many Church leaders had converted during their adult life, so many were already married; thus, it was necessary to permit a married man to be a Bishop. Very soon in the history of the Church, the Holy Spirit wisely guided the faithful to prefer celibate men for the Episcopate."
+            },
+            {
+                "chapter": 3,
+                "verse": 3,
+                "textEn": "not a drunkard, not combative but restrained, not quarrelsome, not covetous;",
+                "textLa": "non vinolentum, non percussorem, sed modestum: non litigiosum, non cupidum,",
+                "notes": "The word ‘modestum’ in Latin has a broader range of meaning than the word ‘modesty’ in English. Often, the word ‘modestum’ does mean modesty, but in the context of this phrase (‘non percussorem, sed modestum’), it has the broader meaning of self-restraint in general."
+            },
+            {
+                "chapter": 3,
+                "verse": 4,
+                "textEn": "but a man who leads his own house well, having children who are subordinate with all chastity.",
+                "textLa": "sed suæ domui bene præpositum: filios habentem subditos cum omni castitate.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 5,
+                "textEn": "For if a man does not know how to lead his own house, how will he take care of the Church of God?",
+                "textLa": "Si quis autem domui suæ præesse nescit, quomodo Ecclesiæ Dei diligentiam habebit?",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 6,
+                "textEn": "He must not be a new convert, lest, being elated by pride, he may fall under the sentence of the devil.",
+                "textLa": "Non neophytum: ne in superbiam elatus, in iudicium incidat diaboli.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 7,
+                "textEn": "And it is necessary for him also to have good testimony from those who are outside, so that he may not fall into disrepute and the snare of the devil.",
+                "textLa": "Oportet autem illum et testimonium habere bonum ab iis, qui foris sunt, ut non in opprobrium incidat, et in laqueum diaboli.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 8,
+                "textEn": "Similarly, deacons must be chaste, not double-tongued, not given to much wine, not pursuing tainted profit,",
+                "textLa": "Diaconos similiter pudicos, non bilingues, non multo vino deditos, non turpe lucrum sectantes:",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 9,
+                "textEn": "holding to the mystery of the faith with a pure conscience.",
+                "textLa": "habentes mysterium fidei in conscientia pura.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 10,
+                "textEn": "And these things should be proven first, and then they may minister, being without offense.",
+                "textLa": "Et hi autem probentur primum: et sic ministrent, nullum crimen habentes.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 11,
+                "textEn": "Similarly, the women must be chaste, not slanderers, sober, faithful in all things.",
+                "textLa": "Mulieres similiter pudicas, non detrahentes, sobrias, fideles in omnibus.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 12,
+                "textEn": "Deacons should be the husband of one wife, men who lead their own children and their own houses well.",
+                "textLa": "Diaconi sint unius uxoris viri: qui filiis suis bene præsint, et suis domibus.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 13,
+                "textEn": "For those who have ministered well will acquire for themselves a good position, and much confidence in the faith which is in Christ Jesus.",
+                "textLa": "Qui enim bene ministraverint, gradum bonum sibi acquirent, et multam fiduciam in fide, quæ est in Christo Iesu.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 14,
+                "textEn": "I am writing these things to you, with the hope that I will come to you soon.",
+                "textLa": "Hæc tibi scribo, sperans me ad te venire cito.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 15,
+                "textEn": "But, if I am delayed, you should know the manner in which it is necessary to conduct yourself in the house of God, which is the Church of the living God, the pillar and the foundation of truth.",
+                "textLa": "Si autem tardavero, ut scias quomodo oporteat te in domo Dei conversari, quæ est Ecclesia Dei vivi, columna et firmamentum veritatis.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 16,
+                "textEn": "And it is clearly great, this mystery of piety, which was manifested in the flesh, which was justified in the Spirit, which has appeared to Angels, which has been preached to the Gentiles, which is believed in the world, which has been taken up in glory.",
+                "textLa": "Et manifeste magnum est pietatis sacramentum, quod manifestatum est in carne, iustificatum est in spiritu, apparuit Angelis, prædicatum est Gentibus, creditum est in mundo, assumptum est in gloria.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 4,
+        "verses": [
+            {
+                "chapter": 4,
+                "verse": 1,
+                "textEn": "Now the Spirit has clearly said that, in the end times, some persons will depart from the faith, paying attention to spirits of error and the doctrines of devils,",
+                "textLa": "Spiritus autem manifeste dicit, quia in novissimis temporibus discedent quidam a fide, attendentes spiritibus erroris, et doctrinis dæmoniorum,",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 2,
+                "textEn": "speaking lies in hypocrisy, and having their consciences seared,",
+                "textLa": "in hypocrisi loquentium mendacium, et cauteriatam habentium suam conscientiam,",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 3,
+                "textEn": "prohibiting marriage, abstaining from foods, which God has created to be accepted with thanksgiving by the faithful and by those who have understood the truth.",
+                "textLa": "prohibentium nubere, abstinere a cibis, quod Deus creavit ad percipiendum cum gratiarum actione fidelibus, et iis, qui cognoverunt veritatem.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 4,
+                "textEn": "For every creature of God is good, and nothing is to be rejected which is received with thanksgiving;",
+                "textLa": "Quia omnis creatura Dei bona est, et nihil reiiciendum quod cum gratiarum actione percipitur:",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 5,
+                "textEn": "for it has been sanctified by the Word of God and by prayer.",
+                "textLa": "sanctificatur enim per Verbum Dei, et orationem.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 6,
+                "textEn": "By proposing these things to the brothers, you will be a good minister of Christ Jesus, nourished by words of faith, and by the good doctrine that you have secured.",
+                "textLa": "Hæc proponens fratribus, bonus eris minister Christi Iesu enutritus verbis fidei, et bonæ doctrinæ, quam assecutus es.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 7,
+                "textEn": "But avoid the silly fables of old women. And exercise yourself so as to advance in piety.",
+                "textLa": "Ineptas autem, et aniles fabulas devita: exerce autem teipsum ad pietatem.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 8,
+                "textEn": "For the exercise of the body is somewhat useful. But piety is useful in all things, holding the promise of life, in the present and in the future.",
+                "textLa": "Nam corporalis exercitatio, ad modicum utilis est: pietas autem ad omnia utilis est, promissionem habens vitæ, quæ nunc est, et futuræ.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 9,
+                "textEn": "This is a faithful saying and worthy of full acceptance.",
+                "textLa": "Fidelis sermo, et omni acceptione dignus.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 10,
+                "textEn": "For this reason we labor and are maligned: because we hope in the living God, who is the Savior of all men, most especially of the faithful.",
+                "textLa": "In hoc enim laboramus, et maledicimur, quia speramus in Deum vivum, qui est Salvator omnium hominum, maxime fidelium.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 11,
+                "textEn": "Instruct and teach these things.",
+                "textLa": "Præcipe hæc, et doce.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 12,
+                "textEn": "Let no one despise your youth, but be an example among the faithful in word, in behavior, in charity, in faith, in chastity.",
+                "textLa": "Nemo adolescentiam tuam contemnat: sed exemplum esto fidelium in verbo, in conversatione, in charitate, in fide, in castitate.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 13,
+                "textEn": "Until I arrive, attend to reading, to exhortation, and to doctrine.",
+                "textLa": "Dum venio, attende lectioni, exhortationi, et doctrinæ.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 14,
+                "textEn": "Do not be willing to neglect the grace that is within you, which was given to you through prophecy, with the imposition of the hands of the priesthood.",
+                "textLa": "Noli negligere gratiam, quæ in te est, quæ data est tibi per prophetiam, cum impositione manuum presbyterii.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 15,
+                "textEn": "Meditate on these things, so that your progress may be manifest to all.",
+                "textLa": "Hæc meditare, in his esto: ut profectus tuus manifestus sit omnibus.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 16,
+                "textEn": "Pay attention to yourself and to doctrine. Pursue these things. For in doing so, you will save both yourself and those who listen to you.",
+                "textLa": "Attende tibi, et doctrinæ: insta in illis. Hoc enim faciens, et teipsum salvum facies, et eos qui te audiunt.",
+                "notes": "The phrase ‘insta in illis’ could also be rendered as: ‘be urgent in these things,’ or ‘press on in these things,’ or ‘keep these things close by.’"
+            }
+        ]
+    },
+    {
+        "chapter": 5,
+        "verses": [
+            {
+                "chapter": 5,
+                "verse": 1,
+                "textEn": "You should not rebuke an old man, but rather plead with him, as if he were your father; with young men, like brothers;",
+                "textLa": "Seniorem ne increpaveris, sed obsecra ut patrem: iuvenes, ut fratres:",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 2,
+                "textEn": "with old women, like mothers; with young women, in all chastity, like sisters.",
+                "textLa": "anus, ut matres: iuvenculas, ut sorores in omni castitate:",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 3,
+                "textEn": "Honor those widows who are true widows.",
+                "textLa": "Viduas honora, quæ vere viduæ sunt.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 4,
+                "textEn": "But if any widow has children or grandchildren, let her first learn to manage her own household, and to fulfill, in turn, her own obligation to her parents; for this is acceptable before God.",
+                "textLa": "Si qua autem vidua filios, aut nepotes habet: discat primum domum suam regere, et mutuam vicem reddere parentibus: hoc enim acceptum est coram Deo.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 5,
+                "textEn": "But she who is truly a widow and is destitute, let her hope in God, and let her be urgent in supplications and prayers, night and day.",
+                "textLa": "Quæ autem vere vidua est, et desolata, speret in Deum, et instet obsecrationibus, et orationibus nocte ac die.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 6,
+                "textEn": "For she who is living in pleasures is dead, while living.",
+                "textLa": "Nam quæ in deliciis est, vivens mortua est.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 7,
+                "textEn": "And give instruction in this, so that they may be beyond reproach.",
+                "textLa": "Et hoc præcipe ut irreprehensibiles sint.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 8,
+                "textEn": "But if anyone has no concern for his own, and especially for those of his own household, he has denied the faith, and he is worse than an unbeliever.",
+                "textLa": "Si quis autem suorum, et maxime domesticorum curam non habet, fidem negavit, et est infideli deterior.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 9,
+                "textEn": "Let a widow be chosen who is no less than sixty years of age, who was the wife of one husband,",
+                "textLa": "Vidua eligatur non minus sexaginta annorum, quæ fuerit unius viri uxor,",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 10,
+                "textEn": "who has testimony of her good works: whether she has educated children, or has provided hospitality, or has washed the feet of the saints, or has ministered to those suffering tribulation, or has pursued any kind of good work.",
+                "textLa": "in operibus bonis testimonium habens, si filios educavit, si hospitio recepit, si sanctorum pedes lavit, si tribulationem patientibus subministravit, si omne opus bonum subsecuta est.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 11,
+                "textEn": "But avoid the younger widows. For once they have flourished in Christ, they will want to marry,",
+                "textLa": "Adolescentiores autem viduas devita: Cum enim luxuriatæ fuerint in Christo, nubere volunt:",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 12,
+                "textEn": "resulting in damnation, because they have disregarded the primacy of faith.",
+                "textLa": "habentes damnationem, quia primam fidem irritam fecerunt.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 13,
+                "textEn": "And being at the same time also idle, they learn to go from house to house, being not only idle, but also talkative and curious, speaking of things which do not concern them.",
+                "textLa": "Simul autem et otiosæ discunt circuire domos: non solum otiosæ, sed et verbosæ, et curiosæ, loquentes quæ non oportet.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 14,
+                "textEn": "Therefore, I want the younger women to marry, to procreate children, to be mothers of families, to provide no ready opportunity for the adversary to speak evil.",
+                "textLa": "Volo ergo iuniores nubere, filios procreare, matresfamilias esse, nullam occasionem dare adversario maledicti gratia.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 15,
+                "textEn": "For certain ones have already been turned back to Satan.",
+                "textLa": "Iam enim quædam conversæ sunt retro Satanam.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 16,
+                "textEn": "If any among the faithful have widows, let him minister to them and not burden the Church, so that there may be enough for those who are true widows.",
+                "textLa": "Si quis fidelis habet viduas, subministret illis, et non gravetur Ecclesia: ut iis, quæ vere viduæ sunt, sufficiat.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 17,
+                "textEn": "Let priests who lead well be held worthy of twice the honor, especially those who labor in the Word and in doctrine.",
+                "textLa": "Qui bene præsunt presbyteri, duplici honore digni habeantur: maxime qui laborant in verbo et doctrina.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 18,
+                "textEn": "For Scripture says: “You shall not muzzle an ox as it is treading out the grain,” and, “The worker is worthy of his pay.”",
+                "textLa": "Dicit enim Scriptura: Non alligabis os bovi trituranti. Et: Dignus est operarius mercede sua.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 19,
+                "textEn": "Do not be willing to accept an accusation against a priest, except under two or three witnesses.",
+                "textLa": "Adversus presbyterum accusationem noli recipere, nisi sub duobus aut tribus testibus.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 20,
+                "textEn": "Reprove sinners in the sight of everyone, so that the others may have fear.",
+                "textLa": "Peccantes coram omnibus argue: ut et ceteri timorem habeant.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 21,
+                "textEn": "I testify before God and Christ Jesus and the elect Angels, that you should observe these things without prejudgment, doing nothing which shows favoritism to either side.",
+                "textLa": "Testor coram Deo et Christo Iesu, et electis Angelis, ut hæc custodias sine præiudicio, nihil faciens in alteram partem declinando.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 22,
+                "textEn": "You should not be quick to impose hands on anyone, nor should you take part in the sins of outsiders. Keep yourself chaste.",
+                "textLa": "Manus cito nemini imposueris, neque communicaveris peccatis alienis. Teipsum castum custodi.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 23,
+                "textEn": "Do not continue to drink only water, but make use of a little wine, for the sake of your stomach and your frequent infirmities.",
+                "textLa": "Noli adhuc aquam bibere, sed modico vino utere propter stomachum tuum, et frequentes tuas infirmitates.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 24,
+                "textEn": "The sins of some men have been made manifest, preceding them to judgment, but those of others are manifested later.",
+                "textLa": "Quorundam hominum peccata manifesta sunt, præcedentia ad iudicium: quosdam autem et subsequuntur.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 25,
+                "textEn": "Similarly, too, good deeds have been made manifest, but even when they are not, they cannot remain hidden.",
+                "textLa": "Similiter et facta bona manifesta sunt: et quæ aliter se habent, abscondi non possunt.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 6,
+        "verses": [
+            {
+                "chapter": 6,
+                "verse": 1,
+                "textEn": "Whoever are servants under the yoke, let them consider their masters to be worthy of every honor, lest the name and doctrine of the Lord be blasphemed.",
+                "textLa": "Quicumque sunt sub iugo servi, dominos suos omni honore dignos arbitrentur, ne nomen Domini et doctrina blasphemetur.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 2,
+                "textEn": "But those who have believing masters, let them not despise them because they are brothers, but rather serve them all the more because they are believing and beloved, participants of the same service. Teach and exhort these things.",
+                "textLa": "Qui autem fideles habent dominos, non contemnant, quia fratres sunt: sed magis serviant, quia fideles sunt et dilecti, qui beneficii participes sunt. Hæc doce, et exhortare.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 3,
+                "textEn": "If anyone teaches otherwise, and does not consent to the sound words of our Lord Jesus Christ, and to that doctrine which is in accord with piety,",
+                "textLa": "Si quis aliter docet, et non acquiescit sanis sermonibus Domini nostri Iesu Christi, et ei, quæ secundum pietatem est, doctrinæ:",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 4,
+                "textEn": "then he is arrogant, knowing nothing, yet languishing amid the questions and quarrels of words. From these arise envy, contention, blasphemy, evil suspicions:",
+                "textLa": "superbus est, nihil sciens, sed languens circa quæstiones, et pugnas verborum: ex quibus oriuntur invidiæ, contentiones, blasphemiæ, suspiciones malæ,",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 5,
+                "textEn": "the conflicts of men who have been corrupted in mind and deprived of truth, who consider profit to be piety.",
+                "textLa": "conflictationes hominum mente corruptorum, et qui veritate privati sunt, existimantium quæstum esse pietatem.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 6,
+                "textEn": "But piety with sufficiency is great gain.",
+                "textLa": "Est autem quæstus magnus pietas cum sufficentia.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 7,
+                "textEn": "For we brought nothing into this world, and there is no doubt that we can take nothing away.",
+                "textLa": "Nihil enim intulimus in hunc mundum: haud dubium quod nec auferre quid possumus.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 8,
+                "textEn": "But, having nourishment and some kind of covering, we should be content with these.",
+                "textLa": "Habentes autem alimenta, et quibus tegamur, his contenti simus.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 9,
+                "textEn": "For those who want to become rich fall into temptation and into the snare of the devil and into many useless and harmful desires, which submerge men in destruction and in perdition.",
+                "textLa": "Nam qui volunt divites fieri, incidunt in tentationem, et in laqueum diaboli, et desideria multa inutilia, et nociva, quæ mergunt homines in interitum et perditionem.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 10,
+                "textEn": "For desire is the root of all evils. Some persons, hungering in this way, have strayed from the faith and have entangled themselves in many sorrows.",
+                "textLa": "Radix enim omnium malorum est cupiditas: quam quidam appetentes erraverunt a fide, et inseruerunt se doloribus multis.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 11,
+                "textEn": "But you, O man of God, flee from these things, and truly pursue justice, piety, faith, charity, patience, meekness.",
+                "textLa": "Tu autem, o homo Dei hæc fuge: sectare vero iustitiam, pietatem, fidem, charitatem, patientiam, mansuetudinem.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 12,
+                "textEn": "Fight the good fight of faith. Take hold of the eternal life to which you have been called, and make a good profession of faith in the sight of many witnesses.",
+                "textLa": "Certa bonum certamen fidei, apprehende vitam æternam, in qua vocatus es, et confessus bonam confessionem coram multis testibus.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 13,
+                "textEn": "I charge you, in the sight of God, who enlivens all things, and in the sight of Christ Jesus, who gave the testimony of a good profession under Pontius Pilate,",
+                "textLa": "Præcipio tibi coram Deo, qui vivificat omnia, et Christo Iesu, qui testimonium reddidit sub Pontio Pilato, bonam confessionem:",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 14,
+                "textEn": "to observe the commandment, immaculately, irreproachably, unto the return of our Lord Jesus Christ.",
+                "textLa": "ut serves mandatum sine macula, irreprehensibile usque in adventum Domini nostri Iesu Christi,",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 15,
+                "textEn": "For at the proper time, he shall reveal the blessed and only Power, the King of kings and the Lord of lords,",
+                "textLa": "quem suis temporibus ostendet beatus et solus potens, Rex regum, et Dominus dominantium:",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 16,
+                "textEn": "who alone holds immortality, and who inhabits the inaccessible light, whom no man has seen, nor even is able to see, to whom is honor and everlasting dominion. Amen.",
+                "textLa": "qui solus habet immortalitatem, et lucem inhabitat inaccessibilem: quem nullus hominum vidit, sed nec videre potest: cui honor, et imperium sempiternum: Amen.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 17,
+                "textEn": "Instruct the wealthy of this age not to have a superior attitude, nor to hope in the uncertainty of riches, but in the living God, who offers us everything in abundance to enjoy,",
+                "textLa": "Divitibus huius sæculi præcipe non sublime sapere, neque sperare in incerto divitiarum, sed in Deo vivo (qui præstat nobis omnia abunde ad fruendum)",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 18,
+                "textEn": "and to do good, to become rich in good works, to donate readily, to share,",
+                "textLa": "bene agere, divites fieri in bonis operibus, facile tribuere, communicare,",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 19,
+                "textEn": "to gather for themselves the treasure of a good foundation for the future, so that they may obtain true life.",
+                "textLa": "thesaurizare sibi fundamentum bonum in futurum, ut apprehendant veram vitam.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 20,
+                "textEn": "O Timothy, guard what has been deposited with you, avoiding the voice of profane novelties and of opposing ideas, which are falsely called knowledge.",
+                "textLa": "O Timothee, depositum custodi, devitans profanas vocum novitates, et oppositiones falsi nominis scientiæ,",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 21,
+                "textEn": "Certain persons, promising these things, have perished from the faith. May grace be with you. Amen.",
+                "textLa": "quam quidam promittentes, circa fidem exciderunt. Gratia tecum. Amen.",
+                "notes": null
+            }
+        ]
+    }
+]

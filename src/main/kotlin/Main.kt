@@ -1,9 +1,8 @@
-import scrape.scrape
+import kotlinx.coroutines.runBlocking
+import scrape.latinVulgateEnglishStudyBible
 
 /**
  * Entry point to the scraper.
  */
 
-fun main() {
-    scrape()
-}
+fun main() = runBlocking { latinVulgateEnglishStudyBible() }

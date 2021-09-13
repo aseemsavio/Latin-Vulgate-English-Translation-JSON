@@ -15,8 +15,8 @@ fun Verse(collector: VerseCollector): Verse =
     Verse(collector.chapter, collector.verse, collector.textEn, collector.textLa, collector.notes)
 
 data class VerseCollector(
-    var chapter: Int = 0,
-    var verse: Int = 0,
+    var chapter: Int = -1,
+    var verse: Int = -1,
     var textEn: String = "",
     var textLa: String = "",
     var notes: String? = null

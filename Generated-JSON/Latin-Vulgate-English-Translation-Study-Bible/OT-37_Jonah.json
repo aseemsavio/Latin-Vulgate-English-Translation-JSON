@@ -1,0 +1,358 @@
+[
+    {
+        "chapter": 1,
+        "verses": [
+            {
+                "chapter": 1,
+                "verse": 1,
+                "textEn": "And the word of the Lord came to Jonah the son of Amittai, saying:",
+                "textLa": "Et factum est verbum Domini ad Ionam filium Amathi, dicens:",
+                "notes": "Or, ‘And the word of the Lord happened to Jonah the son of Amittai....’"
+            },
+            {
+                "chapter": 1,
+                "verse": 2,
+                "textEn": "Rise and go to Nineveh, the great city, and preach in it. For its malice has ascended before my eyes.",
+                "textLa": "Surge, et vade in Niniven civitatem grandem, et prædica in ea: quia ascendit malitia eius coram me.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 3,
+                "textEn": "And Jonah rose in order to flee from the face of the Lord to Tarshish. And he went down to Joppa and found a ship bound for Tarshish. And he paid its fare, and he went down into it, in order to go with them to Tarshish from the face of the Lord.",
+                "textLa": "Et surrexit Ionas, ut fugeret in Tharsis a facie Domini, et descendit in Ioppen, et invenit navem euntem in Tharsis: et dedit naulum eius, et descendit in eam ut iret cum eis in Tharsis a facie Domini.",
+                "notes": "Why is the word ‘and’ found so frequently in the Bible? One answer is that the Latin lanuage, in Biblical times, was written with no punctuation, no spaces between the words, and no difference between capital and small letters. So the word ‘and’ (in Latin ‘et’) as well as other words (e.g. ‘for,’ ‘which,’ etc.) had much the same function as punctuation. Repeated use of the word ‘and’ allowed the reader to more easily locate the individual words."
+            },
+            {
+                "chapter": 1,
+                "verse": 4,
+                "textEn": "But the Lord sent a great wind into the sea. And a great tempest took place in the sea, and the ship was in danger of being crushed.",
+                "textLa": "Dominus autem misit ventum magnum in mare: et facta est tempestas magna in mari, et navis periclitabatur conteri.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 5,
+                "textEn": "And the mariners were afraid, and the men cried out to their god. And they threw the containers that were in the ship into the sea in order to lighten it of them. And Jonah went down into the interior of the ship, and he fell into a painful deep sleep.",
+                "textLa": "Et timuerunt nautæ, et clamaverunt viri ad deum suum: et miserunt vasa, quæ erant in navi, in mare, ut alleviaretur ab eis: et Ionas descendit ad interiora navis, et dormiebat sopore gravi.",
+                "notes": "This last phrase is difficult to translate literally: ‘dormiebat’ means to sleep, but ‘sopore’ is an adverb meaning sleepy. The two words together emphasize that it was a deep sleep. But adding ‘gravi’ makes qualifies this deep sleep even further, in that it was painful or grave or heavy."
+            },
+            {
+                "chapter": 1,
+                "verse": 6,
+                "textEn": "And the helmsman approached him, and he said to him, “Why are you weighed down with sleep? Rise, call upon your God, so perhaps God will be mindful of us and we might not perish.”",
+                "textLa": "Et accessit ad eum gubernator, et dixit ei: Quid tu sopore deprimeris? surge, invoca Deum tuum, si forte recogitet Deus de nobis, et non pereamus.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 7,
+                "textEn": "And a man said to his shipmate, “Come, and let us cast lots, so that we may know why this disaster is upon us.” And they cast lots, and the lot fell upon Jonah.",
+                "textLa": "Et dixit vir ad collegam suum: Venite, et mittamus sortes, et sciamus quare hoc malum sit nobis. Et miserunt sortes: et cecidit sors super Ionam.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 8,
+                "textEn": "And they said to him: “Explain to us what is the reason that this disaster is upon us. What is your work? Which is your country? And where are you going? Or which people are you from?”",
+                "textLa": "Et dixerunt ad eum: Indica nobis cuius causa malum istud sit nobis: quod est opus tuum? quæ terra tua? et quo vadis? vel ex quo populo es tu?",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 9,
+                "textEn": "And he said to them, “I am Hebrew, and I fear the Lord God of heaven, who made the sea and the dry land.”",
+                "textLa": "Et dixit ad eos: Hebræus ego sum, et Dominum Deum cæli ego timeo, qui fecit mare et aridam.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 10,
+                "textEn": "And the men were greatly afraid, and they said to him, “Why have you done this?” (For the men knew that he was fleeing from the face of the Lord, because he had told them.)",
+                "textLa": "Et timuerunt viri timore magno, et dixerunt ad eum: Quid hoc fecisti? (Cognoverunt enim viri quod a facie Domini fugeret, quia indicaverat eis.)",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 11,
+                "textEn": "And they said to him, “What are we to do with you, so that the sea will cease for us?” For the sea flowed and swelled.",
+                "textLa": "Et dixerunt ad eum: Quid faciemus tibi, et cessabit mare a nobis? quia mare ibat, et intumescebat.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 12,
+                "textEn": "And he said to them, “Take me, and cast me into the sea, and the sea will cease for you. For I know that it is because of me that this great tempest has come upon you.”",
+                "textLa": "Et dixit ad eos: Tollite me, et mittite in mare, et cessabit mare a vobis: scio enim ego quoniam propter me tempestas hæc grandis venit super vos.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 13,
+                "textEn": "And the men were rowing, so as to return to dry land, but they did not succeed. For the sea flowed and swelled against them.",
+                "textLa": "Et remigabant viri ut reverterentur ad aridam, et non valebant: quia mare ibat, et intumescebat super eos.",
+                "notes": "The men of this ship are repeatedly referred to as ‘viri,’ not merely as ‘homines.’ The word ‘vir’ is rather like the English word ‘gentleman’ in that it implies something about the man other than that he is an adult male. The root of the word ‘viri’ is a word meaning virtue or strength. The men of this ship were not bad men, yet they threw Jonah overboard, in accordance with God’s will.\n Also, though the Douay-Rheims translates this as ‘rowed hard,’ the word ‘hard’ is not justified by the Latin text. However, the very fact that they were rowing shows the extraordinary effort that they went to, since this was certainly a sailing vessel, with oars only for exceptional circumstances."
+            },
+            {
+                "chapter": 1,
+                "verse": 14,
+                "textEn": "And they cried out to the Lord, and they said, “We beseech you, Lord, do not let us perish for this man’s life, and do not attribute to us innocent blood. For you, Lord, have done just as it pleased you.”",
+                "textLa": "Et clamaverunt ad Dominum, et dixerunt: Quæsumus Domine, ne pereamus in anima viri istius, et ne des super nos sanguinem innocentem: quia tu Domine, sicut voluisti, fecisti.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 15,
+                "textEn": "And they took Jonah and cast him into the sea. And the sea was stilled from its fury.",
+                "textLa": "Et tulerunt Ionam, et miserunt in mare: et stetit mare a fervore suo.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 16,
+                "textEn": "And the men feared the Lord greatly, and they sacrificed victims to the Lord, and they made vows.",
+                "textLa": "Et timuerunt viri timore magno Dominum, et immolaverunt hostias Domino, et voverunt vota.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 2,
+        "verses": [
+            {
+                "chapter": 2,
+                "verse": 1,
+                "textEn": "And the Lord prepared a great fish to swallow Jonah. And Jonah was in the belly of the fish for three days and three nights.",
+                "textLa": "Et præparavit Dominus piscem grandem ut deglutiret Ionam: et erat Ionas in ventre piscis tribus diebus, et tribus noctibus.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 2,
+                "textEn": "And Jonah prayed to the Lord, his God, from the belly of the fish.",
+                "textLa": "Et oravit Ionas ad Dominum Deum suum de ventre piscis.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 3,
+                "textEn": "And he said: “I cried out to the Lord from my tribulation, and he heeded me. From the belly of hell, I cried out, and you heeded my voice.",
+                "textLa": "Et dixit: Clamavi de tribulatione mea ad Dominum, et exaudivit me: de ventre inferi clamavi, et exaudisti vocem meam.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 4,
+                "textEn": "And you have thrown me into the deep, in the heart of the sea, and a flood has encircled me. All your whirlpools and your waves have passed over me.",
+                "textLa": "Et proiecisti me in profundum in corde maris, et flumen circumdedit me: omnes gurgites tui, et fluctus tui super me transierunt.",
+                "notes": "The word ‘gurgites’ is somewhat obscure. It seems to refer to any type of rough or dangerous water, including whirlpools, eddies and strong currents, and rough water. If the context were a river, ‘gurgites’ might be translated as ‘white water’ or ‘rapids.’"
+            },
+            {
+                "chapter": 2,
+                "verse": 5,
+                "textEn": "And I said: I am expelled from the sight of your eyes. Yet, truly, I will see your holy temple again.",
+                "textLa": "Et ego dixi: Abiectus sum a conspectu oculorum tuorum: verumtamen rursus videbo templum sanctum tuum.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 6,
+                "textEn": "The waters surrounded me, even to the soul. The abyss has walled me in. The ocean has covered my head.",
+                "textLa": "Circumdederunt me aquæ usque ad animam: abyssus vallavit me, pelagus operuit caput meum.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 7,
+                "textEn": "I descended to the base of the mountains. The bars of the earth have enclosed me forever. And you will raise up my life from corruption, Lord, my God.",
+                "textLa": "Ad extrema montium descendi: terræ vectes concluserunt me in æternum: et sublevabis de corruptione vitam meam, Domine Deus meus.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 8,
+                "textEn": "When my soul was in anguish within me, I called to mind the Lord, so that my prayer might come to you, to your holy temple.",
+                "textLa": "Cum angustiaretur in me anima mea, Domini recordatus sum: ut veniat ad te oratio mea ad templum sanctum tuum.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 9,
+                "textEn": "Those who in vain observe vanities, abandon their own mercy.",
+                "textLa": "Qui custodiunt vanitates frustra, misericordiam suam derelinquunt.",
+                "notes": "Or, ‘Those who for nothing practice emptiness, abandon their own mercy.’"
+            },
+            {
+                "chapter": 2,
+                "verse": 10,
+                "textEn": "But I, with a voice of praise, will sacrifice to you. I will repay whatever I have vowed to the Lord, because of my salvation.”",
+                "textLa": "Ego autem in voce laudis immolabo tibi: quæcumque vovi, reddam pro salute Domino.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 11,
+                "textEn": "And the Lord spoke to the fish, and it vomited Jonah onto dry land.",
+                "textLa": "Et dixit Dominus pisci: et evomuit Ionam in aridam.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 3,
+        "verses": [
+            {
+                "chapter": 3,
+                "verse": 1,
+                "textEn": "And the word of the Lord came to Jonah a second time, saying:",
+                "textLa": "Et factum est verbum Domini ad Ionam secundo, dicens:",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 2,
+                "textEn": "Rise, and go to Nineveh, the great city. And preach in it the preaching that I say to you.",
+                "textLa": "Surge, et vade in Niniven civitatem magnam: et prædica in ea prædicationem, quam ego loquor ad te.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 3,
+                "textEn": "And Jonah rose, and he went to Nineveh in accordance with the word of the Lord. And Nineveh was a great city of three days’ journey.",
+                "textLa": "Et surrexit Ionas, et abiit in Niniven iuxta verbum Domini: et Ninive erat civitas magna itinere trium dierum.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 4,
+                "textEn": "And Jonah began to enter into the city one day’s journey. And he cried out and said, “Forty days more and Nineveh shall be destroyed.”",
+                "textLa": "Et cœpit Ionas introire in civitatem itinere diei unius: et clamavit, et dixit: Adhuc quadraginta dies, et Ninive subvertetur.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 5,
+                "textEn": "And the men of Nineveh believed in God. And they proclaimed a fast, and they put on sackcloth, from the greatest all the way to the least.",
+                "textLa": "Et crediderunt viri Ninivitæ in Deum: et prædicaverunt ieiunium, et vestiti sunt saccis a maiore usque ad minorem.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 6,
+                "textEn": "And word reached the king of Nineveh. And he rose from his throne, and he threw off his robe from himself and was clothed in sackcloth, and he sat in ashes.",
+                "textLa": "Et pervenit verbum ad regem Ninive: et surrexit de solio suo, et abiecit vestimentum suum a se, et indutus est sacco, et sedit in cinere.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 7,
+                "textEn": "And he cried out and spoke: “In Nineveh, from the mouth of the king and of his princes, let it be said: Men and beasts and oxen and sheep may not taste anything. Neither shall they feed or drink water.",
+                "textLa": "Et clamavit, et dixit: In Ninive ex ore regis et principum eius, dicens: Homines, et iumenta, et boves, et pecora non gustent quidquam: nec pascantur, et aquam non bibant.",
+                "notes": "The first part of this verse seems redundant. He cried out and said (dixit) . . . saying (dicens).... It seems that the second use of this verb is part of the decree itself. Therefore, it is rendered loosely as ‘let it be said,’ rather than as ‘saying,’ because the context is a formal decree."
+            },
+            {
+                "chapter": 3,
+                "verse": 8,
+                "textEn": "And let men and beasts be covered with sackcloth, and let them cry out to the Lord with strength, and may man be converted from his evil way, and from the iniquity that is in their hands.",
+                "textLa": "Et operiantur saccis homines, et iumenta, et clament ad Dominum in fortitudine, et convertatur vir a via sua mala, et ab iniquitate, quæ est in manibus eorum.",
+                "notes": "Here is an unusual example of the use of ‘vir’ in the singular to refer to a group of persons, similar to the use of Man to signify mankind in English. The man who must convert from his evil way is mankind. This becomes clear with the use of the plural in the last part of the verse."
+            },
+            {
+                "chapter": 3,
+                "verse": 9,
+                "textEn": "Who knows if God may turn and forgive, and may turn away from his furious wrath, so that we might not perish?”",
+                "textLa": "Quis scit si convertatur, et ignoscat Deus: et revertatur a furore iræ suæ, et non peribimus?",
+                "notes": "This verse has a question mark, but it is more of a statement than a question. The question mark is probably not necessary in the English translation. Notice that ‘et non peribimus’ is translated as ‘so that we might not perish,’ instead of ‘and we might not perish.’ The word ‘et’ is not always equivalent to the English word ‘and.’"
+            },
+            {
+                "chapter": 3,
+                "verse": 10,
+                "textEn": "And God saw their works, that they had been converted from their evil way. And God took pity on them, concerning the harm that he had said he would do to them, and he did not do it.",
+                "textLa": "Et vidit Deus opera eorum, quia conversi sunt de via sua mala: et misertus est Deus super malitiam, quam locutus fuerat ut faceret eis, et non fecit.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 4,
+        "verses": [
+            {
+                "chapter": 4,
+                "verse": 1,
+                "textEn": "And Jonah was afflicted with a great affliction, and he was angry.",
+                "textLa": "Et afflictus est Ionas afflictione magna, et iratus est:",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 2,
+                "textEn": "And he prayed to the Lord, and he said, “I beg you, Lord, was this not my word, when I was still in my own land? Because of this, I knew beforehand to flee into Tarshish. For I know that you are a lenient and merciful God, patient and great in compassion, and forgiving despite ill will.",
+                "textLa": "et oravit ad Dominum, et dixit: Obsecro Domine, numquid non hoc est verbum meum, cum adhuc essem in terra mea? propter hoc præoccupavi ut fugerem in Tharsis. scio enim quia tu Deus clemens, et misericors es, patiens, et multæ miserationis, et ignoscens super malitia.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 3,
+                "textEn": "And now, Lord, I ask you to take my life from me. For it is better for me to die than to live.”",
+                "textLa": "Et nunc Domine tolle quæso animam meam a me: quia melior est mihi mors quam vita.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 4,
+                "textEn": "And the Lord said, “Do you really think you are right to be angry?”",
+                "textLa": "Et dixit Dominus: Putasne bene irasceris tu?",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 5,
+                "textEn": "And Jonah went out of the city, and he sat opposite the east of the city. And he made himself a shelter there, and he was sitting under it in the shadow, until he might see what would befall the city.",
+                "textLa": "Et egressus est Ionas de civitate, et sedit contra Orientem civitatis: et fecit sibimet umbraculum ibi, et sedebat subter illud in umbra, donec videret quid accideret civitati.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 6,
+                "textEn": "And the Lord God prepared an ivy, and it ascended over the head of Jonah so as to be a shadow over his head, and to protect him (for he had labored hard). And Jonah rejoiced because of the ivy, with great rejoicing.",
+                "textLa": "Et præparavit Dominus Deus hederam, et ascendit super caput Ionæ, ut esset umbra super caput eius, et protegeret eum: laboraverat enim: et lætatus est Ionas super hedera, lætitia magna.",
+                "notes": "Literally, ‘laboraverat enim’ means ‘for he had labored,’ but the context makes it clear that he had labored hard."
+            },
+            {
+                "chapter": 4,
+                "verse": 7,
+                "textEn": "And God prepared a worm, when dawn approached on the next day, and it struck the ivy, and it dried up.",
+                "textLa": "Et paravit Deus vermen ascensu diluculi in crastinum: et percussit hederam, et exaruit.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 8,
+                "textEn": "And when the sun had risen, the Lord ordered a hot and burning wind. And the sun beat down on the head of Jonah, and he burned. And he petitioned for his soul that he might die, and he said, “It is better for me to die than to live.”",
+                "textLa": "Et cum ortus fuisset sol, præcepit Dominus vento calido, et urenti: et percussit sol super caput Ionæ, et æstuabat: et petivit animæ suæ ut moreretur, et dixit: Melius est mihi mori, quam vivere.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 9,
+                "textEn": "And the Lord said to Jonah, “Do you really think that you are right to be angry because of the ivy?” And he said, “I am right to be angry even unto death.”",
+                "textLa": "Et dixit Dominus ad Ionam: Putasne bene irasceris tu super hedera? Et dixit: Bene irascor ego usque ad mortem.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 10,
+                "textEn": "And the Lord said, “You grieve for the ivy, for which you have not labored and which you did not cause to grow, though it had been born during one night, and during one night perished.",
+                "textLa": "Et dixit Dominus: Tu doles super hederam, in qua non laborasti, neque fecisti ut cresceret. quæ sub una nocte nata est, et sub una nocte periit.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 11,
+                "textEn": "And shall I not spare Nineveh, the great city, in which there are more than one hundred and twenty thousand men, who do not know the difference between their right and their left, and many beasts?”",
+                "textLa": "Et ego non parcam Ninive civitati magnæ, in qua sunt plus quam centum viginti millia hominum, qui nesciunt quid sit inter dexteram et sinistram suam, et iumenta multa?",
+                "notes": null
+            }
+        ]
+    }
+]
