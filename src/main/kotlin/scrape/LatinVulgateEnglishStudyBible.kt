@@ -1,10 +1,10 @@
 package scrape
 
 import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.coroutineScope
 import kotlinx.coroutines.withContext
 import kotlinx.serialization.encodeToString
 import kotlinx.serialization.json.Json
+import model.Book
 import model.Chapter
 import model.Verse
 import model.VerseCollector
@@ -17,7 +17,7 @@ import java.io.File
  */
 private class LatinVulgateEnglishStudyBible {
 
-    suspend fun scrapeAndBuildJson(url: String) {
+    suspend fun scrapeAndBuildJson(url: String, bible: MutableList<Book>) {
 
         // read page content as a String
         val doc = connect(url).bodyAsString()
@@ -95,6 +95,15 @@ private class LatinVulgateEnglishStudyBible {
         val newFileName = "Generated-JSON/Latin-Vulgate-English-Translation-Study-Bible/$bookName.json"
         File(newFileName).createNewFile()
         File(newFileName).writeText(json)
+
+        bible.add(
+            Book(
+                bookNumber = bookName.substring(4, 6).toInt(),
+                book = bookName.substring(7),
+                testament = bookName.substring(1, 3),
+                chapters = result
+            )
+        )
         println("Scrapped $bookName successfully!")
     }
 
@@ -102,9 +111,21 @@ private class LatinVulgateEnglishStudyBible {
 
 }
 
-suspend fun latinVulgateEnglishStudyBible() = urls.forEach {
-    LatinVulgateEnglishStudyBible().scrapeAndBuildJson(it)
-}.also { println("Completed Scraping the Bible.") }
+suspend fun latinVulgateEnglishStudyBible() {
+    val books: MutableList<Book> = mutableListOf()
+    urls.forEach {
+        LatinVulgateEnglishStudyBible().scrapeAndBuildJson(it, books)
+    }
+
+    val format = Json { prettyPrint = true }
+    val json = format.encodeToString(books)
+
+    val newFileName = "Generated-JSON/Latin-Vulgate-English-Translation-Study-Bible/bible.json"
+    File(newFileName).createNewFile()
+    File(newFileName).writeText(json)
+
+    println("Parsing the Bible completed successfully!")
+}
 
 fun Document.bodyAsString() = this.select("body").toString()
 
@@ -190,4 +211,4 @@ private val books = setOf(
     "NT-26_Jude",
     "NT-27_Revelation",
 )
-private val urls = books.map { "${scrape.baseUrl}$it.htm" }
+private val urls = books.map { "$baseUrl$it.htm" }

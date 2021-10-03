@@ -32,3 +32,11 @@ data class Chapter(
 data class Chapters(
     val chapters: List<Chapter>
 )
+
+@Serializable
+data class Book(
+    val bookNumber: Int,
+    val book: String,
+    val testament: String,
+    val chapters: List<Chapter>
+)
