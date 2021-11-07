@@ -1,0 +1,1616 @@
+[
+    {
+        "chapter": 1,
+        "verses": [
+            {
+                "chapter": 1,
+                "verse": 1,
+                "textEn": "The words of Ecclesiastes, the son of David, the king of Jerusalem.",
+                "textLa": "Verba Ecclesiastæ, filii David, regis Ierusalem.",
+                "notes": "This book is attributed to king Solomon, being based on his words of wisdom from God. Solomon is called Ecclesiastes because he calls the people to an assembly (ecclesia), so as to teach them wisdom."
+            },
+            {
+                "chapter": 1,
+                "verse": 2,
+                "textEn": "Ecclesiastes said: Vanity of vanities! Vanity of vanities, and all is vanity!",
+                "textLa": "Vanitas vanitatum, dixit Ecclesiastes: vanitas vanitatum, et omnia vanitas.",
+                "notes": "Solomon is pointing out the emptiness of worldly things by themselves. The word ‘vanitas’ can also refer to emptiness."
+            },
+            {
+                "chapter": 1,
+                "verse": 3,
+                "textEn": "What more does a man have from all his labor, as he labors under the sun?",
+                "textLa": "Quid habet amplius homo de universo labore suo, quo laborat sub sole?",
+                "notes": "The repeated use of the phrase ‘under the sun’ indicates that this book is about this life, not about the next life in Heaven."
+            },
+            {
+                "chapter": 1,
+                "verse": 4,
+                "textEn": "A generation passes away, and a generation arrives. But the earth stands forever.",
+                "textLa": "Generatio præterit, et generatio advenit: terra autem in æternum stat.",
+                "notes": "Though Scripture says that heaven and earth shall pass away, Scripture also says that God will create a new heaven and a new earth. Then the new heaven, as well as the new earth, stand forever."
+            },
+            {
+                "chapter": 1,
+                "verse": 5,
+                "textEn": "The sun rises and sets; it returns to its place, and from there, being born again,",
+                "textLa": "Oritur sol, et occidit, et ad locum suum revertitur: ibique renascens,",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 6,
+                "textEn": "it circles through the south, and arcs toward the north. The spirit continues on, illuminating everything in its circuit, and turning again in its cycle.",
+                "textLa": "gyrat per Meridiem, et flectitur ad Aquilonem: lustrans universa in circuitu pergit spiritus, et in circulos suos revertitur.",
+                "notes": "The meridian is midday (i.e. the highest point that the sun reaches in the sky) or more generally the middle of the sky (i.e. neither horizon). The term meridian may also be translated as ‘south,’ referring to the fact that the sun is more to the south when viewed from locations in the northern hemisphere, such as Jerusalem. The sun then arcs more toward the north (but not actually north of due west); this is particularly evident in winter and at higher latitudes, where the sun is fairly low in the southern sky about midday, and then arcs more toward the north as it sets."
+            },
+            {
+                "chapter": 1,
+                "verse": 7,
+                "textEn": "All rivers enter into the sea, and the sea does not overflow. To the place from which the rivers go out, they return, so that they may flow again.",
+                "textLa": "Omnia flumina intrant in mare, et mare non redundat: ad locum, unde exeunt flumina, revertuntur ut iterum fluant.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 8,
+                "textEn": "Such things are difficult; man is not able to explain them with words. The eye is not satisfied by seeing, nor is the ear fulfilled by hearing.",
+                "textLa": "Cunctæ res difficiles: non potest eas homo explicare sermone. Non saturatur oculus visu, nec auris auditu impletur.",
+                "notes": "The word ‘cunctae’ is not as all inclusive as ‘universae,’ hence the translation ‘such things.’"
+            },
+            {
+                "chapter": 1,
+                "verse": 9,
+                "textEn": "What is it that has existed? The same shall exist in the future. What is it that has been done? The same shall continue to be done.",
+                "textLa": "Quid est quod fuit? Ipsum quod futurum est. Quid est quod factum est? Ipsum quod faciendum est.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 10,
+                "textEn": "There is nothing new under the sun. Neither is anyone able to say: “Behold, this is new!” For it has already been brought forth in the ages that were before us.",
+                "textLa": "Nihil sub sole novum, nec valet quisquam dicere: Ecce hoc recens est: iam enim præcessit in sæculis, quæ fuerunt ante nos.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 11,
+                "textEn": "There is no remembrance of the former things. Indeed, neither shall there be any record of past things in the future, for those who will exist at the very end.",
+                "textLa": "Non est priorum memoria: sed nec eorum quidem, quæ postea futura sunt, erit recordatio apud eos, qui futuri sunt in novissimo.",
+                "notes": "This verse prophetically indicates that, during the last days, the world will have a disdain for, and a rejection of, true historical information."
+            },
+            {
+                "chapter": 1,
+                "verse": 12,
+                "textEn": "I, Ecclesiastes, was king of Israel at Jerusalem.",
+                "textLa": "Ego Ecclesiastes fui rex Israel in Ierusalem,",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 13,
+                "textEn": "And I was determined in my mind to seek and to investigate wisely, concerning all that is done under the sun. God has given this very difficult task to the sons of men, so that they may be occupied by it.",
+                "textLa": "et proposui in animo meo quærere et investigare sapienter de omnibus, quæ fiunt sub sole. Hanc occupationem pessimam dedit Deus filiis hominum, ut occuparentur in ea.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 14,
+                "textEn": "I have seen all that is done under the sun, and behold: all is emptiness and an affliction of the spirit.",
+                "textLa": "Vidi cuncta, quæ fiunt sub sole, et ecce universa vanitas, et afflictio spiritus.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 15,
+                "textEn": "The perverse are unwilling to be corrected, and the number of the foolish is boundless.",
+                "textLa": "Perversi difficile corriguntur, et stultorum infinitus est numerus.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 16,
+                "textEn": "I have spoken in my heart, saying: “Behold, I have achieved greatness, and I have surpassed all the wise who were before me in Jerusalem.” And my mind has contemplated many things wisely, and I have learned.",
+                "textLa": "Locutus sum in corde meo, dicens: Ecce magnus effectus sum, et præcessi omnes sapientia, qui fuerunt ante me in Ierusalem: et mens mea contemplata est multa sapienter, et didici.",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 17,
+                "textEn": "And I have dedicated my heart, so that I may know prudence and doctrine, and also error and foolishness. Yet I recognize that, in these things also, there is hardship, and affliction of the spirit.",
+                "textLa": "Dedique cor meum ut scirem prudentiam, atque doctrinam, erroresque et stultitiam: et agnovi quod in his quoque esset labor, et afflictio spiritus,",
+                "notes": null
+            },
+            {
+                "chapter": 1,
+                "verse": 18,
+                "textEn": "Because of this, with much wisdom there is also much anger. And whoever adds knowledge, also adds hardship.",
+                "textLa": "eo quod in multa sapientia multa sit indignatio: et qui addit scientiam, addit et laborem.",
+                "notes": "The wiser one becomes, the more one realizes how much foolishness is in the world, resulting in a righteous anger or indignation; this is a burden to those who attain wisdom."
+            }
+        ]
+    },
+    {
+        "chapter": 2,
+        "verses": [
+            {
+                "chapter": 2,
+                "verse": 1,
+                "textEn": "I said in my heart: “I will go forth and overflow with delights, and I will enjoy good things.” And I saw that this, too, is emptiness.",
+                "textLa": "Dixi ego in corde meo: Vadam, et affluam deliciis, et fruar bonis. Et vidi quod hoc quoque esset vanitas.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 2,
+                "textEn": "Laughter, I considered an error. And to rejoicing, I said: “Why are you being deceived, to no purpose?”",
+                "textLa": "Risum reputavi errorem: et gaudio dixi: Quid frustra deciperis?",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 3,
+                "textEn": "I decided in my heart to withdraw my flesh from wine, so that I might bring my mind to wisdom, and turn away from foolishness, until I see what is useful for the sons of men, and what they ought to do under the sun, during the number of the days of their life.",
+                "textLa": "Cogitavi in corde meo abstrahere a vino carnem meam, ut animam meam transferrem ad sapientiam, devitaremque stultitiam, donec viderem quid esset utile filiis hominum: quo facto opus est sub sole numero dierum vitæ suæ.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 4,
+                "textEn": "I magnified my works. I built houses for myself, and I planted vineyards.",
+                "textLa": "Magnificavi opera mea, ædificavi mihi domos, et plantavi vineas,",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 5,
+                "textEn": "I made gardens and orchards. And I planted them with trees of every kind.",
+                "textLa": "feci hortos, et pomaria, et consevi ea cuncti generis arboribus,",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 6,
+                "textEn": "And I dug out fishponds of water, so that I might irrigate the forest of growing trees.",
+                "textLa": "et extruxi mihi piscinas aquarum, ut irrigarem silvam lignorum germinantium,",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 7,
+                "textEn": "I obtained men and women servants, and I had a great family, as well as herds of cattle and great flocks of sheep, beyond all who were before me in Jerusalem.",
+                "textLa": "possedi servos et ancillas, multamque familiam habui: armenta quoque, et magnos ovium greges ultra omnes qui fuerunt ante me in Ierusalem:",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 8,
+                "textEn": "I amassed for myself silver and gold, and the wealth of kings and governors. I chose men and women singers, and the delights of the sons of men, bowls and pitchers for the purpose of pouring wine.",
+                "textLa": "coacervavi mihi argentum, et aurum, et substantias regum, ac provinciarum: feci mihi cantores, et cantatrices, et delicias filiorum hominum, scyphos, et urceos in ministerio ad vina fundenda:",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 9,
+                "textEn": "And I surpassed in opulence all who were before me in Jerusalem. My wisdom also persevered with me.",
+                "textLa": "et supergressus sum opibus omnes, qui ante me fuerunt in Ierusalem: sapientia quoque perseveravit mecum.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 10,
+                "textEn": "And all that my eyes desired, I did not refuse them. Neither did I prohibit my heart from enjoying every pleasure, and from amusing itself in the things that I had prepared. And I regarded this as my share, as if I were making use of my own labors.",
+                "textLa": "Et omnia, quæ desideraverunt oculi mei, non negavi eis: nec prohibui cor meum quin omni voluptate frueretur, et oblectaret se in his, quæ præparaveram: et hanc ratus sum partem meam, si uterer labore meo.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 11,
+                "textEn": "But when I turned myself toward all the works that my hands had made, and to the labors in which I had perspired to no purpose, I saw emptiness and affliction of the soul in all things, and that nothing is permanent under the sun.",
+                "textLa": "Cumque me convertissem ad universa opera, quæ fecerant manus meæ, et ad labores, in quibus frustra sudaveram, vidi in omnibus vanitatem et afflictionem animi, et nihil permanere sub sole.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 12,
+                "textEn": "I continued on, so as to contemplate wisdom, as well as error and foolishness. “What is man,” I said, “that he would be able to follow his Maker, the King?”",
+                "textLa": "Transivi ad contemplandam sapientiam, erroresque et stultitiam (quid est, inquam, homo, ut sequi possit regem Factorem suum?)",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 13,
+                "textEn": "And I saw that wisdom surpasses foolishness, so much so that they differ as much as light from darkness.",
+                "textLa": "et vidi quod tantum præcederet sapientia stultitiam, quantum differt lux a tenebris.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 14,
+                "textEn": "The eyes of a wise man are in his head. A foolish man walks in darkness. Yet I learned that one would pass away like the other.",
+                "textLa": "Sapientis oculi in capite eius: stultus in tenebris ambulat: et didici quod unus utriusque esset interitus.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 15,
+                "textEn": "And I said in my heart: “If the death of both the foolish and myself will be one, how does it benefit me, if I have given myself more thoroughly to the work of wisdom?” And as I was speaking within my own mind, I perceived that this, too, is emptiness.",
+                "textLa": "Et dixi in corde meo: Si unus et stulti et meus occasus erit, quid mihi prodest quod maiorem sapientiæ dedi operam? Locutusque cum mente mea, animadverti quod hoc quoque esset vanitas.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 16,
+                "textEn": "For there will not be a remembrance in perpetuity of the wise, nor of the foolish. And the future times will cover everything together, with oblivion. The learned die in a manner similar to the unlearned.",
+                "textLa": "Non enim erit memoria sapientis similiter ut stulti in perpetuum, et futura tempora oblivione cuncta pariter operient: moritur doctus similiter ut indoctus.",
+                "notes": "The lack of remembrance of the wise pertains to the world, not to heaven and the kingdom of God. Those immersed in the world choose to forget the past and its lessons, lest they be corrected and have to give up the sins that they love. This verse is also prophetic; in the last days, the world will forget, or cover over, or teach falsehoods about various events in the past which would have corrected their errors. They will cover past truths with the oblivion of their sinfulness."
+            },
+            {
+                "chapter": 2,
+                "verse": 17,
+                "textEn": "And, because of this, my life wearied me, since I saw that everything under the sun is evil, and everything is empty and an affliction of the spirit.",
+                "textLa": "Et idcirco tæduit me vitæ meæ videntem mala universa esse sub sole, et cuncta vanitatem et afflictionem spiritus.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 18,
+                "textEn": "Again, I detested all my efforts, by which I had earnestly labored under the sun, to be taken up by an heir after me,",
+                "textLa": "Rursus detestatus sum omnem industriam meam, qua sub sole studiosissime laboravi, habiturus heredem post me,",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 19,
+                "textEn": "though I know not whether he will be wise or foolish. And yet he will have power over my labors, in which I have toiled and been anxious. And is there anything else so empty?",
+                "textLa": "quem ignoro, utrum sapiens an stultus futurus sit, et dominabitur in laboribus meis, quibus desudavi et solicitus fui. Et est quidquam tam vanum?",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 20,
+                "textEn": "Therefore, I ceased, and my heart renounced further laboring under the sun.",
+                "textLa": "Unde cessavi, renunciavitque cor meum ultra laborare sub sole.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 21,
+                "textEn": "For when someone labors in wisdom, and doctrine, and prudence, he leaves behind what he has obtained to one who is idle. So this, too, is emptiness and a great burden.",
+                "textLa": "Nam cum alius laboret in sapientia, et doctrina, et solicitudine, homini otioso quæsita dimittit: et hoc ergo, vanitas, et magnum malum.",
+                "notes": "The word ‘malum’ does not always mean ‘evil;’ it also refers to things that are very difficult or burdensome, and to things that are harmful."
+            },
+            {
+                "chapter": 2,
+                "verse": 22,
+                "textEn": "For how can a man benefit from all his labor and affliction of spirit, by which he has been tormented under the sun?",
+                "textLa": "Quid enim proderit homini de universo labore suo, et afflictione spiritus, qua sub sole cruciatus est?",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 23,
+                "textEn": "All his days have been filled with sorrows and hardships; neither does he rest his mind, even in the night. And is this not emptiness?",
+                "textLa": "Cuncti dies eius doloribus et ærumnis pleni sunt, nec per noctem mente requiescit: et hoc nonne vanitas est?",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 24,
+                "textEn": "Is it not better to eat and drink, and to show his soul the good things of his labors? And this is from the hand of God.",
+                "textLa": "Nonne melius est comedere et bibere, et ostendere animæ suæ bona de laboribus suis? Et hoc de manu Dei est.",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 25,
+                "textEn": "So who will feast and overflow with delights as much as I have?",
+                "textLa": "Quis ita devorabit, et deliciis affluet ut ego?",
+                "notes": null
+            },
+            {
+                "chapter": 2,
+                "verse": 26,
+                "textEn": "God has given, to the man who is good in his sight, wisdom, and knowledge, and rejoicing. But to the sinner, he has given affliction and needless worrying, so as to add, and to gather, and to deliver, to him who has pleased God. But this, too, is emptiness and a hollow worrying of the mind.",
+                "textLa": "Homini bono in conspectu suo dedit Deus sapientiam, et scientiam, et lætitiam: peccatori autem dedit afflictionem, et curam superfluam, ut addat, et congreget, et tradat ei qui placuit Deo: sed et hoc vanitas est, et cassa solicitudo mentis.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 3,
+        "verses": [
+            {
+                "chapter": 3,
+                "verse": 1,
+                "textEn": "All things have their time, and all things under heaven continue during their interval.",
+                "textLa": "Omnia tempus habent, et suis spatiis transeunt universa sub cælo.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 2,
+                "textEn": "A time to be born, and a time to die. A time to plant, and a time to pull up what was planted.",
+                "textLa": "Tempus nascendi, et tempus moriendi. Tempus plantandi, et tempus evellendi quod plantatum est.",
+                "notes": "The pulling up of what was planted is not so much harvesting, as it is rooting out or removing the entire plant, as one might do for weeds or for plants that are no longer useful."
+            },
+            {
+                "chapter": 3,
+                "verse": 3,
+                "textEn": "A time to kill, and a time to heal. A time to tear down, and a time to build up.",
+                "textLa": "Tempus occidendi, et tempus sanandi. Tempus destruendi, et tempus ædificandi.",
+                "notes": "Literally: ‘a time to be killing and a time to be healing.’ The verb ‘occidendi’ is a future passive participle, like the other verbs in this passage."
+            },
+            {
+                "chapter": 3,
+                "verse": 4,
+                "textEn": "A time to weep, and a time to laugh. A time to mourn, and a time to dance.",
+                "textLa": "Tempus flendi, et tempus ridendi. Tempus plangendi, et tempus saltandi.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 5,
+                "textEn": "A time to scatter stones, and a time to gather. A time to embrace, and a time to be far from embraces.",
+                "textLa": "Tempus spargendi lapides, et tempus colligendi. Tempus amplexandi, et tempus longe fieri ab amplexibus.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 6,
+                "textEn": "A time to gain, and a time to lose. A time to keep, and a time to cast away.",
+                "textLa": "Tempus acquirendi, et tempus perdendi. Tempus custodiendi, et tempus abiiciendi.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 7,
+                "textEn": "A time to rend, and a time to sew. A time to be silent, and a time to speak.",
+                "textLa": "Tempus scindendi, et tempus consuendi. Tempus tacendi, et tempus loquendi.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 8,
+                "textEn": "A time of love, and a time of hatred. A time of war, and a time of peace.",
+                "textLa": "Tempus dilectionis, et tempus odii. Tempus belli, et tempus pacis.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 9,
+                "textEn": "What more does a man have from his labor?",
+                "textLa": "Quid habet amplius homo de labore suo?",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 10,
+                "textEn": "I have seen the affliction that God has given to the sons of men, in order that they may be occupied by it.",
+                "textLa": "Vidi afflictionem, quam dedit Deus filiis hominum, ut distendantur in ea.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 11,
+                "textEn": "He has made all things good in their time, and he has handed over the world to their disputes, so that man may not discover the work which God made from the beginning, even until the end.",
+                "textLa": "Cuncta fecit bona in tempore suo, et mundum tradidit disputationi eorum, ut non inveniat homo opus, quod operatus est Deus ab initio usque ad finem.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 12,
+                "textEn": "And I realize that there is nothing better than to rejoice, and to do well in this life.",
+                "textLa": "Et cognovi quod non esset melius nisi lætari, et facere bene in vita sua.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 13,
+                "textEn": "For this is a gift from God: when each man eats and drinks, and sees the good results of his labor.",
+                "textLa": "Omnis enim homo, qui comedit et bibit, et videt bonum de labore suo, hoc donum Dei est.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 14,
+                "textEn": "I have learned that all the works which God has made continue on, in perpetuity. We are not able to add anything, nor to take anything away, from those things which God has made in order that he may be feared.",
+                "textLa": "Didici quod omnia opera, quæ fecit Deus, perseverent in perpetuum: non possumus eis quidquam addere, nec auferre, quæ fecit Deus ut timeatur.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 15,
+                "textEn": "What has been made, the same continues. What is in the future, has already existed. And God restores what has passed away.",
+                "textLa": "Quod factum est, ipsum permanet: quæ futura sunt, iam fuerunt: et Deus instaurat quod abiit.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 16,
+                "textEn": "I saw under the sun: instead of judgment, impiety, and instead of justice, iniquity.",
+                "textLa": "Vidi sub sole in loco iudicii impietatem, et in loco iustitiæ iniquitatem.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 17,
+                "textEn": "And I said in my heart: “God will judge the just and the impious, and then the time for each matter shall be.”",
+                "textLa": "Et dixi in corde meo: Iustum, et impium iudicabit Deus, et tempus omnis rei tunc erit.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 18,
+                "textEn": "I said in my heart, about the sons of men, that God would test them, and reveal them to be like wild animals.",
+                "textLa": "Dixi in corde meo de filiis hominum, ut probaret eos Deus, et ostenderet similes esse bestiis.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 19,
+                "textEn": "For this reason, the passing away of man and of beasts is one, and the condition of both is equal. For as a man dies, so also do they die. All things breathe similarly, and man has nothing more than beast; for all these are subject to vanity.",
+                "textLa": "Idcirco unus interitus est hominis, et iumentorum, et æqua utriusque conditio: sicut moritur homo, sic et illa moriuntur: similiter spirant omnia, et nihil habet homo iumento amplius: cuncta subiacent vanitati,",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 20,
+                "textEn": "And all things continue on to one place; for from the earth they were made, and unto the earth they shall return together.",
+                "textLa": "et omnia pergunt ad unum locum: de terra facta sunt, et in terram pariter revertuntur.",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 21,
+                "textEn": "Who knows if the spirit of the sons of Adam ascend upward, and if the spirit of the beasts descend downward?",
+                "textLa": "Quis novit si spiritus filiorum Adam ascendat sursum, et si spiritus iumentorum descendat deorsum?",
+                "notes": null
+            },
+            {
+                "chapter": 3,
+                "verse": 22,
+                "textEn": "And I have discovered nothing to be better than for a man to rejoice in his work: for this is his portion. And who shall add to him, so that he may know the things that will occur after him?",
+                "textLa": "Et deprehendi nihil esse melius quam lætari hominem in opere suo, et hanc esse partem illius. Quis enim eum adducet, ut post se futura cognoscat?",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 4,
+        "verses": [
+            {
+                "chapter": 4,
+                "verse": 1,
+                "textEn": "I turned myself to other things, and I saw the false accusations which are carried out under the sun, and the tears of the innocent, and that there was no one to console them; and that they were not able to withstand their violence, being destitute of all help.",
+                "textLa": "Verti me ad alia, et vidi calumnias, quæ sub sole geruntur, et lacrymas innocentium, et neminem consolatorem: nec posse resistere eorum violentiæ, cunctorum auxilio destitutos.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 2,
+                "textEn": "And so, I praised the dead more than the living.",
+                "textLa": "Et laudavi magis mortuos, quam viventes:",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 3,
+                "textEn": "And happier than both of these, I judged him to be, who has not yet been born, and who has not yet seen the evils which are done under the sun.",
+                "textLa": "et feliciorem utroque iudicavi, qui necdum natus est, nec vidit mala quæ sub sole fiunt.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 4,
+                "textEn": "Again, I was contemplating all the labors of men. And I took notice that their endeavors are open to the envy of their neighbor. And so, in this, too, there is emptiness and superfluous anxiety.",
+                "textLa": "Rursum contemplatus sum omnes labores hominum, et industrias animadverti patere invidiæ proximi: et in hoc ergo vanitas, et cura superflua est.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 5,
+                "textEn": "The foolish man folds his hands together, and he consumes his own flesh, saying:",
+                "textLa": "Stultus complicat manus suas, et comedit carnes suas, dicens:",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 6,
+                "textEn": "“A handful with rest is better than both hands filled with labors and with affliction of the soul.”",
+                "textLa": "Melior est pugillus cum requie, quam plena utraque manus cum labore, et afflictione animi.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 7,
+                "textEn": "While considering this, I also discovered another vanity under the sun.",
+                "textLa": "Considerans reperi et aliam vanitatem sub sole:",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 8,
+                "textEn": "He is one, and he does not have a second: no son, no brother. And yet he does not cease to labor, nor are his eyes satisfied with wealth, nor does he reflect, saying: “For whom do I labor and cheat my soul of good things?” In this, too, is emptiness and a most burdensome affliction.",
+                "textLa": "unus est, et secundum non habet, non filium, non fratrem, et tamen laborare non cessat, nec satiantur oculi eius divitiis: nec recogitat, dicens: Cui laboro, et fraudo animam meam bonis? In hoc quoque vanitas est, et afflictio pessima.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 9,
+                "textEn": "Therefore, it is better for two to be together, than for one to be alone. For they have the advantage of their companionship.",
+                "textLa": "Melius est ergo duos esse simul, quam unum: habent enim emolumentum societatis suæ:",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 10,
+                "textEn": "If one falls, he shall be supported by the other. Woe to one who is alone. For when he falls, he has no one to lift him up.",
+                "textLa": "si unus ceciderit, ab altero fulcietur. Væ soli: quia cum ceciderit, non habet sublevantem se.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 11,
+                "textEn": "And if two are sleeping, they warm one another. How can one person alone be warmed?",
+                "textLa": "Et si dormierint duo, fovebuntur mutuo: unus quomodo calefiet?",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 12,
+                "textEn": "And if a man can prevail against one, two may withstand him, and a threefold cord is broken with difficulty.",
+                "textLa": "Et si quispiam prævaluerit contra unum, duo resistunt ei: funiculus triplex difficile rumpitur.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 13,
+                "textEn": "Better is a boy, poor and wise, than a king, old and foolish, who does not know to look ahead for the sake of posterity.",
+                "textLa": "Melior est puer pauper et sapiens, rege sene et stulto, qui nescit prævidere in posterum.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 14,
+                "textEn": "For sometimes, one goes forth from prison and chains, to a kingdom, while another, born to kingly power, is consumed by need.",
+                "textLa": "Quod de carcere, catenisque interdum quis egrediatur ad regnum: et alius natus in regno, inopia consumatur.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 15,
+                "textEn": "I saw all the living who are walking under the sun, and I saw the next generation, who shall rise up in their places.",
+                "textLa": "Vidi cunctos viventes, qui ambulant sub sole cum adolescente secundo, qui consurget pro eo.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 16,
+                "textEn": "The number of people, out of all who existed before these, is boundless. And those who will exist afterwards shall not rejoice in them. But this, too, is emptiness and an affliction of the spirit.",
+                "textLa": "Infinitus numerus est populi omnium, qui fuerunt ante eum: et qui postea futuri sunt, non lætabuntur in eo. Sed et hoc, vanitas et afflictio spiritus.",
+                "notes": null
+            },
+            {
+                "chapter": 4,
+                "verse": 17,
+                "textEn": "Guard your foot, when you step into the house of God, and draw near, so that you may listen. For obedience is much better than the sacrifices of the foolish, who do not know the evil that they are doing.",
+                "textLa": "Custodi pedem tuum ingrediens domum Dei, et appropinqua ut audias. Multo enim melior est obedientia, quam stultorum victimæ, qui nesciunt quid faciunt mali.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 5,
+        "verses": [
+            {
+                "chapter": 5,
+                "verse": 1,
+                "textEn": "You should not speak anything rashly, nor should your heart be hasty to present a word before God. For God is in heaven, and you are on earth. For this reason, let your words be few.",
+                "textLa": "Ne temere quid loquaris, neque cor tuum sit velox ad proferendum sermonem coram Deo. Deus enim in cælo, et tu super terram: idcirco sint pauci sermones tui.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 2,
+                "textEn": "Dreams follow many worries, and in many words foolishness will be found.",
+                "textLa": "Multas curas sequuntur somnia, et in multis sermonibus invenietur stultitia.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 3,
+                "textEn": "If you have vowed anything to God, you should not delay to repay it. And whatever you have vowed, render it. But an unfaithful and foolish promise displeases him.",
+                "textLa": "Si quid vovisti Deo, ne moreris reddere: displicet enim ei infidelis et stulta promissio. Sed quodcumque voveris, redde:",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 4,
+                "textEn": "And it is much better not to make a vow, than, after a vow, not to fulfill what was promised.",
+                "textLa": "multoque melius est non vovere, quam post votum promissa non reddere.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 5,
+                "textEn": "You should not use your mouth so as to cause your flesh to sin. And you should not say, in the sight of an Angel, “There is no Providence.” For God, being angry at your words, may scatter all the works of your hands.",
+                "textLa": "Ne dederis os tuum ut peccare facias carnem tuam: neque dicas coram Angelo: Non est Providentia: ne forte iratus Deus contra sermones tuos, dissipet cuncta opera manuum tuarum.",
+                "notes": "Angels are the ministers of God’s Providence, and the Virgin Mary is Queen of God’s Providence and of His Angels."
+            },
+            {
+                "chapter": 5,
+                "verse": 6,
+                "textEn": "Where there are many dreams, there are many vanities and innumerable words. Yet truly, you must fear God.",
+                "textLa": "Ubi multa sunt somnia, plurimæ sunt vanitates, et sermones innumeri: tu vero Deum time.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 7,
+                "textEn": "If you see false accusations against the indigent, and violent judgments, and subverted justice in the government, do not be surprised over this situation. For those in high places have others who are higher, and there are still others, more eminent, over these.",
+                "textLa": "Si videris calumnias egenorum, et violenta iudicia, et subverti iustitiam in provincia, non mireris super hoc negotio: quia excelso excelsior est alius, et super hos quoque eminentiores sunt alii,",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 8,
+                "textEn": "But finally, there is the King who rules over the entire earth, which is subject to him.",
+                "textLa": "et insuper universæ terræ Rex imperat servienti.",
+                "notes": "The King who rules over the entire earth is God. During the time that this book was written, Solomon was not the only king; there was no one king over all the earth except God."
+            },
+            {
+                "chapter": 5,
+                "verse": 9,
+                "textEn": "A greedy man will not be satisfied by money. And whoever loves wealth will reap no fruit from it. Therefore, this, too, is emptiness.",
+                "textLa": "Avarus non implebitur pecunia: et qui amat divitias, fructum non capiet ex eis: et hoc ergo vanitas.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 10,
+                "textEn": "Where there are many riches, there will also be many to consume these things. And how does it benefit the one who possesses, except that he discerns the wealth with his own eyes?",
+                "textLa": "Ubi multæ sunt opes, multi et qui comedunt eas. Et quid prodest possessori, nisi quod cernit divitias oculis suis?",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 11,
+                "textEn": "Sleep is sweet to one who works, whether he consumes little or much. But the satiation of a wealthy man will not permit him to sleep.",
+                "textLa": "Dulcis est somnus operanti, sive parum, sive multum comedat: saturitas autem divitis non sinit eum dormire.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 12,
+                "textEn": "There is even another most burdensome infirmity, which I have seen under the sun: wealth kept to the harm of the owner.",
+                "textLa": "Est et alia infirmitas pessima, quam vidi sub sole: divitiæ conservatæ in malum domini sui.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 13,
+                "textEn": "For they are lost in a most grievous affliction. He has produced a son, who will be in the utmost destitution.",
+                "textLa": "Pereunt enim in afflictione pessima: generavit filium, qui in summa egestate erit.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 14,
+                "textEn": "Just as he went forth naked from his mother’s womb, so shall he return, and he shall take nothing with him from his labors.",
+                "textLa": "Sicut egressus est nudus de utero matris suæ, sic revertetur, et nihil auferet secum de labore suo.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 15,
+                "textEn": "It is an utterly miserable infirmity that, in the same manner as he has arrived, so shall he return. How then does it benefit him, since he has labored for the wind?",
+                "textLa": "Miserabilis prorsus infirmitas: quo modo venit, sic revertetur. Quid ergo prodest ei quod laboravit in ventum?",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 16,
+                "textEn": "All the days of his life he consumes: in darkness, and with many worries, and in distress as well as sadness.",
+                "textLa": "Cunctis diebus vitæ suæ comedit in tenebris et in curis multis, et in ærumna atque tristitia.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 17,
+                "textEn": "And so, this has seemed good to me: that a person should eat and drink, and should enjoy the fruits of his labor, in which he has toiled under the sun, for the number of the days of his life that God has given him. For this is his portion.",
+                "textLa": "Hoc itaque visum est mihi bonum ut comedat quis, et bibat, et fruatur lætitia ex labore suo, quo laboravit ipse sub sole numero dierum vitæ suæ, quos dedit ei Deus, et hæc est pars illius.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 18,
+                "textEn": "And this is a gift from God: that every man to whom God has given wealth and resources, and to whom he has granted the ability to consume these, may enjoy his portion, and may find joy in his labors.",
+                "textLa": "Et omni homini, cui dedit Deus divitias, atque substantiam, potestatemque ei tribuit ut comedat ex eis, et fruatur parte sua, et lætetur de labore suo: hoc est donum Dei.",
+                "notes": null
+            },
+            {
+                "chapter": 5,
+                "verse": 19,
+                "textEn": "And then he will not fully remember the days of his life, because God occupies his heart with delights.",
+                "textLa": "Non enim satis recordabitur dierum vitæ suæ, eo quod Deus occupet deliciis cor eius.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 6,
+        "verses": [
+            {
+                "chapter": 6,
+                "verse": 1,
+                "textEn": "There is also another evil, which I have seen under the sun, and, indeed, it is frequent among men.",
+                "textLa": "Est et aliud malum, quod vidi sub sole, et quidem frequens apud homines:",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 2,
+                "textEn": "It is a man to whom God has given wealth, and resources, and honor; and out of all that he desires, nothing is lacking to his life; yet God does not grant him the ability to consume these things, but instead a man who is a stranger will devour them. This is emptiness and a great misfortune.",
+                "textLa": "Vir, cui dedit Deus divitias, et substantiam, et honorem, et nihil deest animæ suæ ex omnibus, quæ desiderat: nec tribuit ei potestatem Deus ut comedat ex eo, sed homo extraneus vorabit illud. Hoc vanitas, et miseria magna est.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 3,
+                "textEn": "If a man were to produce one hundred children, and to live for many years, and to attain to an age of many days, and if his soul were to make no use of the goods of his resources, and if he were lacking even a burial: concerning such a man, I declare that a miscarried child is better than he.",
+                "textLa": "Si genuerit quispiam centum liberos, et vixerit multos annos, et plures dies ætatis habuerit, et anima illius non utatur bonis substantiæ suæ, sepulturaque careat: de hoc ergo pronuncio quod melior illo sit abortivus.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 4,
+                "textEn": "For he arrives without a purpose and he continues on into darkness, and his name shall be wiped away, into oblivion.",
+                "textLa": "Frustra enim venit, et pergit ad tenebras, et oblivione delebitur nomen eius.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 5,
+                "textEn": "He has not seen the sun, nor recognized the difference between good and evil.",
+                "textLa": "Non vidit solem, neque cognovit distantiam boni et mali:",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 6,
+                "textEn": "Even if he were to live for two thousand years, and yet not thoroughly enjoy what is good, does not each one hurry on to the same place?",
+                "textLa": "etiam si duobus millibus annis vixerit, et non fuerit perfruitus bonis: nonne ad unum locum properant omnia?",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 7,
+                "textEn": "Every labor of man is for his mouth, but his soul will not be filled.",
+                "textLa": "Omnis labor hominis in ore eius: sed anima eius non implebitur.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 8,
+                "textEn": "What do the wise have which is more than the foolish? And what does the pauper have, except to continue on to that place, where there is life?",
+                "textLa": "Quid habet amplius sapiens a stulto? Et quid pauper nisi ut pergat illuc, ubi est vita?",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 9,
+                "textEn": "It is better to see what you desire, than to desire what you cannot know. But this, too, is emptiness and a presumption of spirit.",
+                "textLa": "Melius est videre quod cupias, quam desiderare quod nescias. Sed et hoc vanitas est, et præsumptio spiritus.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 10,
+                "textEn": "Whoever shall be in the future, his name has already been called. And it is known that he is a man and that he is not able to contend in judgment against one who is stronger than himself.",
+                "textLa": "Qui futurus est, iam vocatum est nomen eius: et scitur quod homo sit, et non possit contra fortiorem se in iudicio contendere.",
+                "notes": null
+            },
+            {
+                "chapter": 6,
+                "verse": 11,
+                "textEn": "There are many words, and many of these, in disputes, hold much emptiness.",
+                "textLa": "Verba sunt plurima, multamque in disputando habentia vanitatem.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 7,
+        "verses": [
+            {
+                "chapter": 7,
+                "verse": 1,
+                "textEn": "Why is it necessary for a man to seek things that are greater than himself, when he does not know what is advantageous for himself in his life, during the number of the days of his sojourn, and while time passes by like a shadow? Or who will be able to tell him what will be in the future after him under the sun?",
+                "textLa": "Quid necesse est homini maiora se quærere, cum ignoret quid conducat sibi in vita sua numero dierum peregrinationis suæ, et tempore, quod velut umbra præterit? Aut quis ei poterit indicare quod post eum futurum sub sole sit?",
+                "notes": "This verse in the Latin occurs at the end of chapter 6 in other editions."
+            },
+            {
+                "chapter": 7,
+                "verse": 2,
+                "textEn": "A good name is better than precious ointments, and a day of death is better than a day of birth.",
+                "textLa": "Melius est nomen bonum, quam unguenta pretiosa: et dies mortis die nativitatis.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 3,
+                "textEn": "It is better to go to a house of mourning, than to a house of feasting. For in the former, we are admonished about the end of all things, so that the living consider what may be in the future.",
+                "textLa": "Melius est ire ad domum luctus, quam ad domum convivii: in illa enim finis cunctorum admonetur hominum, et vivens cogitat quid futurum sit.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 4,
+                "textEn": "Anger is better than laughter. For through the sadness of the countenance, the soul of one who offends may be corrected.",
+                "textLa": "Melior est ira risu: quia per tristitiam vultus, corrigitur animus delinquentis.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 5,
+                "textEn": "The heart of the wise is a place of mourning, and the heart of the foolish is a place of rejoicing.",
+                "textLa": "Cor sapientium ubi tristitia est, et cor stultorum ubi lætitia.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 6,
+                "textEn": "It is better to be corrected by a wise man, than to be deceived by the false praise of the foolish.",
+                "textLa": "Melius est a sapiente corripi, quam stultorum adulatione decipi.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 7,
+                "textEn": "For, like the crackling of thorns burning under a pot, so is the laughter of the foolish. But this, too, is emptiness.",
+                "textLa": "Quia sicut sonitus spinarum ardentium sub olla, sic risus stulti: sed et hoc vanitas.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 8,
+                "textEn": "A false accusation troubles the wise man and saps the strength of his heart.",
+                "textLa": "Calumnia conturbat sapientem, et perdet robur cordis illius.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 9,
+                "textEn": "The end of a speech is better than the beginning. Patience is better than arrogance.",
+                "textLa": "Melior est finis orationis, quam principium. Melior est patiens arrogante.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 10,
+                "textEn": "Do not be quickly moved to anger. For anger resides in the sinews of the foolish.",
+                "textLa": "Ne sis velox ad irascendum: quia ira in sinu stulti requiescit.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 11,
+                "textEn": "You should not say: “What do you think is the reason that the former times were better than they are now?” For this type of question is foolish.",
+                "textLa": "Ne dicas: Quid putas causæ est quod priora tempora meliora fuere quam nunc sunt? Stulta enim est huiuscemodi interrogatio.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 12,
+                "textEn": "Wisdom with riches is more useful and more advantageous, for those who see the sun.",
+                "textLa": "Utilior est sapientia cum divitiis, et magis prodest videntibus solem.",
+                "notes": "The phrase ‘for those who see the sun’ means ‘in this life’. The saying applies to worldly affairs, but not to obtaining eternal life."
+            },
+            {
+                "chapter": 7,
+                "verse": 13,
+                "textEn": "For as wisdom protects, so also does money protect. But learning and wisdom have this much more: that they grant life to one who possesses them.",
+                "textLa": "Sicut enim protegit sapientia, sic protegit pecunia. Hoc autem plus habet eruditio et sapientia, quod vitam tribuunt possessori suo.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 14,
+                "textEn": "Consider the works of God, that no one is able to correct whomever he has despised.",
+                "textLa": "Considera opera Dei, quod nemo possit corrigere quem ille despexerit.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 15,
+                "textEn": "In good times, enjoy good things, but beware of an evil time. For just as God has established the one, so also the other, in order that man may not find any just complaint against him.",
+                "textLa": "In die bona fruere bonis, et malam diem præcave. Sicut enim hanc, sic et illam fecit Deus, ut non inveniat homo contra eum iustas querimonias.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 16,
+                "textEn": "I also saw this, in the days of my vanity: a just man perishing in his justice, and an impious man living a long time in his malice.",
+                "textLa": "Hæc quoque vidi in diebus vanitatis meæ: Iustus perit in iustitia sua, et impius multo vivit tempore in malitia sua.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 17,
+                "textEn": "Do not try to be overly just, and do not try to be more wise than is necessary, lest you become stupid.",
+                "textLa": "Noli esse iustus multum: neque plus sapias quam necesse est, ne obstupescas.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 18,
+                "textEn": "Do not act with great impiety, and do not choose to be foolish, lest you die before your time.",
+                "textLa": "Ne impie agas multum: et noli esse stultus, ne moriaris in tempore non tuo.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 19,
+                "textEn": "It is good for you to support a just man. Furthermore, you should not withdraw your hand from him, for whoever fears God, neglects nothing.",
+                "textLa": "Bonum est te sustentare iustum, sed et ab illo ne subtrahas manum tuam: quia qui timet Deum, nihil negligit.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 20,
+                "textEn": "Wisdom has strengthened the wise more than ten princes of a city.",
+                "textLa": "Sapientia confortavit sapientem super decem principes civitatis.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 21,
+                "textEn": "But there is no just man on earth, who does good and does not sin.",
+                "textLa": "Non est enim homo iustus in terra, qui faciat bonum, et non peccet.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 22,
+                "textEn": "So then, do not attach your heart to every word that is spoken, lest perhaps you may hear your servant speaking ill of you.",
+                "textLa": "Sed et cunctis sermonibus, qui dicuntur, ne accomodes cor tuum: ne forte audias servum tuum maledicentem tibi.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 23,
+                "textEn": "For your conscience knows that you, too, have repeatedly spoken evil of others.",
+                "textLa": "Scit enim conscientia tua, quia et tu crebro maledixisti aliis.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 24,
+                "textEn": "I have tested everything in wisdom. I have said: “I will be wise.” And wisdom withdrew farther from me,",
+                "textLa": "Cuncta tentavi in sapientia. Dixi: Sapiens efficiar: et ipsa longius recessit a me",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 25,
+                "textEn": "so much more than it was before. Wisdom is very profound, so who shall reveal her?",
+                "textLa": "multo magis quam erat: et alta profunditas, quis inveniet eam?",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 26,
+                "textEn": "I have examined all things in my soul, so that I may know, and consider, and seek out wisdom and reason, and so that I may recognize the impiety of the foolish, and the error of the imprudent.",
+                "textLa": "Lustravi universa animo meo, ut scirem, et considerarem, et quærerem sapientiam, et rationem: et ut cognoscerem impietatem stulti, et errorem imprudentium:",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 27,
+                "textEn": "And I have discovered a woman more bitter than death: she who is like the snare of a hunter, and whose heart is like a net, and whose hands are like chains. Whoever pleases God shall flee from her. But whoever is a sinner shall be seized by her.",
+                "textLa": "et inveni amariorem morte mulierem, quæ laqueus venatorum est, et sagena cor eius, vincula sunt manus illius. Qui placet Deo, effugiet illam: qui autem peccator est, capietur ab illa.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 28,
+                "textEn": "Behold, Ecclesiastes said, I have discovered these things, one after another, in order that I might discover the explanation",
+                "textLa": "Ecce hoc inveni, dixit Ecclesiastes, unum et alterum, ut invenirem rationem,",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 29,
+                "textEn": "which my soul still seeks and has not found. One man among a thousand, I have found; a woman among them all, I have not found.",
+                "textLa": "quam adhuc quærit anima mea, et non inveni. Virum de mille unum reperi, mulierem ex omnibus non inveni.",
+                "notes": null
+            },
+            {
+                "chapter": 7,
+                "verse": 30,
+                "textEn": "This alone have I discovered: that God made man righteous, and yet he has adulterated himself with innumerable questions. Who is so great as the wise? And who has understood the meaning of the word?",
+                "textLa": "Solummodo hoc inveni, quod fecerit Deus hominem rectum, et ipse se infinitis miscuerit quæstionibus. Quis talis ut sapiens est? Et quis cognovit solutionem verbi?",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 8,
+        "verses": [
+            {
+                "chapter": 8,
+                "verse": 1,
+                "textEn": "The wisdom of a man shines in his countenance, and even the expression of a most powerful man will change.",
+                "textLa": "Sapientia hominis lucet in vultu eius, et potentissimus faciem illius commutabit.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 2,
+                "textEn": "I heed the mouth of the king, and the commandment of an oath to God.",
+                "textLa": "Ego os regis observo, et præcepta iuramenti Dei.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 3,
+                "textEn": "You should not hastily withdraw from his presence, nor should you remain in an evil work. For all that pleases him, he will do.",
+                "textLa": "Ne festines recedere a facie eius, neque permaneas in opere malo: quia omne, quod voluerit, faciet:",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 4,
+                "textEn": "And his word is filled with authority. Neither is anyone able to say to him: “Why are you acting this way?”",
+                "textLa": "et sermo illius potestate plenus est: nec dicere ei quisquam potest: Quare ita facis?",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 5,
+                "textEn": "Whoever keeps the commandment will not experience evil. The heart of a wise man understands the time to respond.",
+                "textLa": "Qui custodit præceptum, non experietur quidquam mali. Tempus et responsionem cor sapientis intelligit.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 6,
+                "textEn": "For every matter, there is a time and an opportunity, as well as many difficulties, for man.",
+                "textLa": "Omni negotio tempus est, et opportunitas, et multa hominis afflictio:",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 7,
+                "textEn": "For he is ignorant of the past, and he is able to know nothing of the future by means of a messenger.",
+                "textLa": "quia ignorat præterita, et futura nullo scire potest nuncio.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 8,
+                "textEn": "It is not in the power of a man to prohibit the spirit, nor does he have authority over the day of death, nor is he permitted to rest when war breaks out, and neither will impiety save the impious.",
+                "textLa": "Non est in hominis potestate prohibere spiritum, nec habet potestatem in die mortis, nec sinitur quiescere ingruente bello, neque salvabit impietas impium.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 9,
+                "textEn": "I have considered all these things, and I have applied my heart to all the works which are being done under the sun. Sometimes one man rules over another to his own harm.",
+                "textLa": "Omnia hæc consideravi, et dedi cor meum in cunctis operibus, quæ fiunt sub sole. Interdum dominatur homo homini in malum suum.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 10,
+                "textEn": "I have seen the impious buried. These same, while they were still living, were in the holy place, and they were praised in the city as workers of justice. But this, too, is emptiness.",
+                "textLa": "Vidi impios sepultos: qui etiam cum adhuc viverent, in loco sancto erant, et laudabantur in civitate quasi iustorum operum. Sed et hoc vanitas est.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 11,
+                "textEn": "For the sons of men perpetrate evils without any fear, because judgment is not pronounced quickly against the evil.",
+                "textLa": "Etenim quia non profertur cito contra malos sententia, absque timore ullo filii hominum perpetrant mala.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 12,
+                "textEn": "But although a sinner may do evil of himself one hundred times, and by patience still endure, I realize that it will be well with those who fear God, who revere his face.",
+                "textLa": "At tamen peccator ex eo quod centies facit malum, et per patientiam sustentatur, ego cognovi quod erit bonum timentibus Deum, qui verentur faciem eius.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 13,
+                "textEn": "So, may it not go well with the impious, and may his days not be prolonged. And let those who do not fear the face of the Lord pass away like a shadow.",
+                "textLa": "Non sit bonum impio, nec prolongentur dies eius, sed quasi umbra transeant qui non timent faciem Domini.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 14,
+                "textEn": "There is also another vanity, which is done upon the earth. There are the just, to whom evils happen, as though they had done the works of the impious. And there are the impious, who are very secure, as though they possess the deeds of the just. But this, too, I judge to be a very great vanity.",
+                "textLa": "Est et alia vanitas, quæ fit super terram. Sunt iusti, quibus mala proveniunt, quasi opera egerint impiorum: et sunt impii, qui ita securi sunt, quasi iustorum facta habeant. Sed et hoc vanissimum iudico.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 15,
+                "textEn": "And so, I praised rejoicing, because there was no good for a man under the sun, except to eat and drink, and to be cheerful, and because he may take nothing with him from his labor in the days of his life, which God has given to him under the sun.",
+                "textLa": "Laudavi igitur lætitiam quod non esset homini bonum sub sole, nisi quod comederet, et biberet, atque gauderet: et hoc solum secum auferret de labore suo in diebus vitæ suæ, quos dedit ei Deus sub sole.",
+                "notes": null
+            },
+            {
+                "chapter": 8,
+                "verse": 16,
+                "textEn": "And I applied my heart, so that I might know wisdom, and so that I might understand a disturbance that turns upon the earth: it is a man, who takes no sleep with his eyes, day and night.",
+                "textLa": "Et apposui cor meum ut scirem sapientiam, et intelligerem distentionem, quæ versatur in terra: est homo, qui diebus et noctibus somnum non capit oculis.",
+                "notes": "This verse refers prophetically to the Antichrist."
+            },
+            {
+                "chapter": 8,
+                "verse": 17,
+                "textEn": "And I understood that man is able to find no explanation for all those works of God which are done under the sun. And so, the more that he labors to seek, so much the less does he find. Yes, even if a wise man were to claim that he knows, he would not be able to discover it.",
+                "textLa": "Et intellexi quod omnium operum Dei nullam possit homo invenire rationem eorum, quæ fiunt sub sole: et quanto plus laboraverit ad quærendum, tanto minus inveniat: etiam si dixerit sapiens se nosse, non poterit reperire.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 9,
+        "verses": [
+            {
+                "chapter": 9,
+                "verse": 1,
+                "textEn": "I have drawn all these things through my heart, so that I might carefully understand. There are just men as well as wise men, and their works are in the hand of God. And yet a man does not know so much as whether he is worthy of love or of hatred.",
+                "textLa": "Omnia hæc tractavi in corde meo, ut curiose intelligerem: Sunt iusti atque sapientes, et opera eorum in manu Dei: et tamen nescit homo utrum amore, an odio dignus sit:",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 2,
+                "textEn": "But all things in the future remain uncertain, because all things happen equally to the just and to the impious, to the good and to the bad, to the pure and to the impure, to those who offer sacrifices and to those who despise sacrifices. As the good are, so also are sinners. As those who commit perjury are, so also are those who swear to the truth.",
+                "textLa": "sed omnia in futurum servantur incerta, eo quod universa æque eveniant iusto et impio, bono et malo, mundo et immundo, immolanti victimas, et sacrificia contemnenti. Sicut bonus, sic et peccator: ut periurus, ita et ille qui verum deierat.",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 3,
+                "textEn": "This is a very great burden among all things that are done under the sun: that the same things happen to everyone. And when the hearts of the sons of men are filled with malice and contempt in their lives, afterwards they shall be dragged down to hell.",
+                "textLa": "Hoc est pessimum inter omnia, quæ sub sole fiunt, quia eadem cunctis eveniunt. Unde et corda filiorum hominum implentur malitia, et contemptu in vita sua, et post hæc ad inferos deducentur.",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 4,
+                "textEn": "There is no one who lives forever, or who even has confidence in this regard. A living dog is better than a dead lion.",
+                "textLa": "Nemo est qui semper vivat, et qui huius rei habeat fiduciam: melior est canis vivus leone mortuo.",
+                "notes": "This phrase, ‘qui huius rei habeat fiduciam,’ means that no one even thinks that he will live forever in this life. This is not to deny the resurrection, or eternal life. The sacred writer is here referring to an earthly life."
+            },
+            {
+                "chapter": 9,
+                "verse": 5,
+                "textEn": "For the living know that they themselves will die, yet truly the dead know nothing anymore, nor do they have any recompense. For the memory of them is forgotten.",
+                "textLa": "Viventes enim sciunt se esse morituros, mortui vero nihil noverunt amplius, nec habent ultra mercedem: quia oblivioni tradita est memoria eorum.",
+                "notes": "Again, this is to be understood as referring to this life, not to the rewards of eternal life."
+            },
+            {
+                "chapter": 9,
+                "verse": 6,
+                "textEn": "Likewise, love and hatred and envy have all perished together, nor have they any place in this age and in the work which is done under the sun.",
+                "textLa": "Amor quoque, et odium, et invidiæ simul perierunt, nec habent partem in hoc sæculo, et in opere, quod sub sole geritur.",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 7,
+                "textEn": "So then, go and eat your bread with rejoicing, and drink your wine with gladness. For your works are pleasing to God.",
+                "textLa": "Vade ergo et comede in lætitia panem tuum, et bibe cum gaudio vinum tuum: quia Deo placent opera tua.",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 8,
+                "textEn": "Let your garments be white at all times, and let not oil be absent from your head.",
+                "textLa": "Omni tempore sint vestimenta tua candida, et oleum de capite tuo non deficiat.",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 9,
+                "textEn": "Enjoy life with the wife whom you love, all the days of your uncertain life which have been given to you under the sun, during all the time of your vanity. For this is your portion in life and in your labor, with which you labor under the sun.",
+                "textLa": "Perfruere vita cum uxore, quam diligis, cunctis diebus vitæ instabilitatis tuæ, qui dati sunt tibi sub sole omni tempore vanitatis tuæ: hæc est enim pars in vita, et in labore tuo, quo laboras sub sole.",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 10,
+                "textEn": "Whatever your hand is able to do, do it earnestly. For neither work, nor reason, nor wisdom, nor knowledge will exist in death, toward which you are hurrying.",
+                "textLa": "Quodcumque facere potest manus tua, instanter operare: quia nec opus, nec ratio, nec sapientia, nec scientia erunt apud inferos, quo tu properas.",
+                "notes": "The term ‘infernos’ has a broader meaning that the word ‘hell.’ In some contexts, it can refer to Hell, but it can also refer, in other contexts, to death, especially death as a misfortune contrasted with the good of life."
+            },
+            {
+                "chapter": 9,
+                "verse": 11,
+                "textEn": "I turned myself toward another thing, and I saw that under the sun, the race is not to the swift, nor the battle to the strong, nor bread to the wise, nor wealth to the learned, nor grace to the skillful: but there is a time and an end for all these things.",
+                "textLa": "Verti me ad aliud, et vidi sub sole, nec velocium esse cursum, nec fortium bellum, nec sapientium panem, nec doctorum divitias, nec artificum gratiam: sed tempus, casumque in omnibus.",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 12,
+                "textEn": "Man does not know his own end. But, just as fish are caught with a hook, and birds are captured with a snare, so are men seized in the evil time, when it will suddenly overwhelm them.",
+                "textLa": "Nescit homo finem suum: sed sicut pisces capiuntur hamo, et sicut aves laqueo comprehenduntur, sic capiuntur homines in tempore malo, cum eis extemplo supervenerit.",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 13,
+                "textEn": "This wisdom, likewise, I have seen under the sun, and I have examined it intensely.",
+                "textLa": "Hanc quoque sub sole vidi sapientiam, et probavi maximam:",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 14,
+                "textEn": "There was a small city, with a few men in it. There came against it a great king, who surrounded it, and built fortifications all around it, and the blockade was completed.",
+                "textLa": "Civitas parva, et pauci in ea viri: venit contra eam rex magnus, et vallavit eam, extruxitque munitiones per gyrum, et perfecta est obsidio.",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 15,
+                "textEn": "And there was found within it, a poor and wise man, and he freed the city through his wisdom, and nothing was recorded afterward of that poor man.",
+                "textLa": "Inventusque est in ea vir pauper et sapiens, et liberavit urbem per sapientiam suam, et nullus deinceps recordatus est hominis illius pauperis.",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 16,
+                "textEn": "And so, I declared that wisdom is better than strength. But how is it, then, that the wisdom of the poor man is treated with contempt, and his words are not heeded?",
+                "textLa": "Et dicebam ego, meliorem esse sapientiam fortitudine: quomodo ergo sapientia pauperis contempta est, et verba eius non sunt audita?",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 17,
+                "textEn": "The words of the wise are heard in silence, more so than the outcry of a prince among the foolish.",
+                "textLa": "Verba sapientium audiuntur in silentio plus quam clamor principis inter stultos.",
+                "notes": null
+            },
+            {
+                "chapter": 9,
+                "verse": 18,
+                "textEn": "Wisdom is better than weapons of war. And whoever offends in one thing, shall lose many good things.",
+                "textLa": "Melior est sapientia, quam arma bellica: et qui in uno peccaverit, multa bona perdet.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 10,
+        "verses": [
+            {
+                "chapter": 10,
+                "verse": 1,
+                "textEn": "Dying flies ruin the sweetness of the ointment. Wisdom and glory is more precious than a brief and limited foolishness.",
+                "textLa": "Muscæ morientes perdunt suavitatem unguenti. Pretiosior est sapientia et gloria, parva et ad tempus stultitia.",
+                "notes": "The phrase ‘ad tempus’ means ‘to a time’ or ‘to a point,’ indicating not so much brevity, but the definitiveness of the ending."
+            },
+            {
+                "chapter": 10,
+                "verse": 2,
+                "textEn": "The heart of a wise man is in his right hand, and the heart of a foolish man is in his left hand.",
+                "textLa": "Cor sapientis in dextera eius, et cor stulti in sinistra illius.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 3,
+                "textEn": "Moreover, as a foolish man is walking along the way, even though he himself is unwise, he considers everyone to be foolish.",
+                "textLa": "Sed et in via stultus ambulans, cum ipse insipiens sit, omnes stultos æstimat.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 4,
+                "textEn": "If the spirit of one who holds authority rises over you, do not leave your place, because attentiveness will cause the greatest sins to cease.",
+                "textLa": "Si spiritus potestatem habentis ascenderit super te, locum tuum ne demiseris: quia curatio faciet cessare peccata maxima.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 5,
+                "textEn": "There is an evil which I have seen under the sun, proceeding from the presence of a prince, as if by mistake:",
+                "textLa": "Est malum quod vidi sub sole, quasi per errorem egrediens a facie principis:",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 6,
+                "textEn": "a foolish man appointed to a high dignity, and the rich sitting beneath him.",
+                "textLa": "positum stultum in dignitate sublimi, et divites sedere deorsum.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 7,
+                "textEn": "I have seen servants on horses, and princes walking on the ground like servants.",
+                "textLa": "Vidi servos in equis: et principes ambulantes super terram quasi servos.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 8,
+                "textEn": "Whoever digs a pit will fall into it. And whoever tears apart a hedge, a snake will bite him.",
+                "textLa": "Qui fodit foveam, incidet in eam: et qui dissipat sepem, mordebit eum coluber.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 9,
+                "textEn": "Whoever carries away stones will be harmed by them. And whoever cuts down trees will be wounded by them.",
+                "textLa": "Qui transfert lapides, affligetur in eis: et qui scindit ligna, vulnerabitur ab eis.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 10,
+                "textEn": "If the iron is dull, and if it was not that way before, but has been made dull by much labor, then it will be sharpened. And wisdom will follow after diligence.",
+                "textLa": "Si retusum fuerit ferrum, et hoc non ut prius, sed hebetatum fuerit multo labore, exacuetur, et post industriam sequetur sapientia.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 11,
+                "textEn": "Whoever slanders in secret is nothing less than a snake that bites silently.",
+                "textLa": "Si mordeat serpens in silentio, nihil eo minus habet qui occulte detrahit.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 12,
+                "textEn": "Words from the mouth of a wise man are graceful, but the lips of a foolish man will throw him down with violence.",
+                "textLa": "Verba oris sapientis gratia: et labia insipientis præcipitabunt eum:",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 13,
+                "textEn": "At the beginning of his words is foolishness, and at the end of his talk is a most grievous error.",
+                "textLa": "Initium verborum eius stultitia, et novissimum oris illius error pessimus.",
+                "notes": "These verses about the foolish man may be taken to refer, to some extent, to the Antichrist."
+            },
+            {
+                "chapter": 10,
+                "verse": 14,
+                "textEn": "The fool multiplies his words. A man does not know what has been before him, and who is able to reveal to him what will be in the future after him?",
+                "textLa": "Stultus verba multiplicat. Ignorat homo quid ante se fuerit: et quid post se futurum sit, quis ei poterit indicare?",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 15,
+                "textEn": "The hardship of the foolish will afflict those who do not know to go into the city.",
+                "textLa": "Labor stultorum affliget eos, qui nesciunt in urbem pergere.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 16,
+                "textEn": "Woe to you, the land whose king is a boy, and whose princes consume in the morning.",
+                "textLa": "Væ tibi terra, cuius rex puer est, et cuius principes mane comedunt.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 17,
+                "textEn": "Blessed is the land whose king is noble, and whose princes eat at the proper time, for refreshment and not for self-indulgence.",
+                "textLa": "Beata terra, cuius rex nobilis est, et cuius principes vescuntur in tempore suo ad reficiendum, et non ad luxuriam.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 18,
+                "textEn": "By laziness, a framework shall be brought down, and by the weakness of hands, a house shall collapse through.",
+                "textLa": "In pigritiis humiliabitur contignatio, et in infirmitate manuum perstillabit domus.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 19,
+                "textEn": "While laughing, they make bread and wine, so that the living may feast. And all things are obedient to money.",
+                "textLa": "In risum faciunt panem, et vinum ut epulentur viventes: et pecuniæ obediunt omnia.",
+                "notes": null
+            },
+            {
+                "chapter": 10,
+                "verse": 20,
+                "textEn": "You should not slander the king, even in your thoughts, and you should not speak evil of a wealthy man, even in your private chamber. For even the birds of the air will carry your voice, and whatever has wings will announce your opinion.",
+                "textLa": "In cogitatione tua regi ne detrahas, et in secreto cubiculi tui ne maledixeris diviti: quia et aves cæli portabunt vocem tuam, et qui habet pennas annunciabit sententiam.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 11,
+        "verses": [
+            {
+                "chapter": 11,
+                "verse": 1,
+                "textEn": "Cast your bread over running waters. For, after a long time, you shall find it again.",
+                "textLa": "Mitte panem tuum super transeuntes aquas: quia post tempora multa invenies illum.",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 2,
+                "textEn": "Give a portion to seven, and indeed even to eight. For you do not know what evil may be upon the earth in the future.",
+                "textLa": "Da partem septem, necnon et octo: quia ignoras quid futurum sit mali super terram.",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 3,
+                "textEn": "If the clouds have been filled, they will pour forth rain upon the earth. If a tree falls to the south, or to the north, or to whatever direction it may fall, there it shall remain.",
+                "textLa": "Si repletæ fuerint nubes, imbrem super terram effundent. Si ceciderit lignum ad Austrum, aut ad Aquilonem, in quocumque loco ceciderit, ibi erit.",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 4,
+                "textEn": "Whoever heeds the wind will not sow. And whoever considers the clouds will never reap.",
+                "textLa": "Qui observat ventum, non seminat: et qui considerat nubes, numquam metet.",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 5,
+                "textEn": "In the same manner that you do not know the way of the spirit, nor the way that bones are joined together in the womb of a pregnant woman, so you do not know the works of God, who is the Maker of all.",
+                "textLa": "Quomodo ignoras quæ sit via spiritus, et qua ratione compingantur ossa in ventre prægnantis; sic nescis opera Dei, qui Fabricator est omnium.",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 6,
+                "textEn": "In the morning, sow your seed, and in the evening, do not let your hand cease. For you do not know which of these may rise up, the one or the other. But if both rise up together, so much the better.",
+                "textLa": "Mane semina semen tuum, et vespere ne cesset manus tua: quia nescis quid magis oriatur, hoc aut illud: et si utrumque simul, melius erit.",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 7,
+                "textEn": "Light is pleasant, and it is delightful for the eyes to see the sun.",
+                "textLa": "Dulce lumen, et delectabile est oculis videre solem.",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 8,
+                "textEn": "If a man lives for many years, and if he has rejoiced in all of these, he must remember the many days of the dark times, which, when they will have arrived, will accuse the past of vanity.",
+                "textLa": "Si annis multis vixerit homo, et in his omnibus lætatus fuerit, meminisse debet tenebrosi temporis, et dierum multorum: qui cum venerint, vanitatis arguentur præterita.",
+                "notes": "This and other verses about a dark time or an evil time refer to the time of the tribulation, especially the second part of the tribulation."
+            },
+            {
+                "chapter": 11,
+                "verse": 9,
+                "textEn": "So then, rejoice, O young man, in your youth, and let your heart remain in what is good during the days of your youth. And walk in the ways of your heart, and with the perception of your eyes. And know that, concerning all these things, God will bring you to judgment.",
+                "textLa": "Lætare ergo iuvenis in adolescentia tua, et in bono sit cor tuum in diebus iuventutis tuæ, et ambula in viis cordis tui, et in intuitu oculorum tuorum: et scito quod pro omnibus his adducet te Deus in iudicium.",
+                "notes": null
+            },
+            {
+                "chapter": 11,
+                "verse": 10,
+                "textEn": "Remove anger from your heart, and set aside evil from your flesh. For youth and pleasure are empty.",
+                "textLa": "Aufer iram a corde tuo, et amove malitiam a carne tua. Adolescentia enim et voluptas vana sunt.",
+                "notes": null
+            }
+        ]
+    },
+    {
+        "chapter": 12,
+        "verses": [
+            {
+                "chapter": 12,
+                "verse": 1,
+                "textEn": "Remember your Creator in the days of your youth, before the time of affliction arrives and the years draw near, about which you will say, “These do not please me.”",
+                "textLa": "Memento Creatoris tui in diebus iuventutis tuæ, antequam veniat tempus afflictionis, et appropinquent anni, de quibus dicas: Non mihi placent,",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 2,
+                "textEn": "Before the sun, and the light, and the moon, and the stars are darkened and the clouds return after the rain,",
+                "textLa": "antequam tenebrescat sol, et lumen, et luna, et stellæ, et revertantur nubes post pluviam:",
+                "notes": "This verse refers to the three days of darkness and to the afflictions which precede it."
+            },
+            {
+                "chapter": 12,
+                "verse": 3,
+                "textEn": "when the guardians of the house will tremble, and the strongest men will waver, and those who grind grain will be idle, except for a small number, and those who look through the keyholes will be darkened.",
+                "textLa": "quando commovebuntur custodes domus, et nutabunt viri fortissimi, et otiosæ erunt molentes in minuto numero, et tenebrescent videntes per foramina:",
+                "notes": "This verse refers to the tribulation, when the guardians of the beliefs and practices of the Church will tremble, and even those strongest in the faith will waver, and those who say Mass, consecrating the pure grain of the Eucharist, will be idle, except for a small number, and when those who prophecy about the future (looking, as it were, through the keyhole) will have nothing more to say."
+            },
+            {
+                "chapter": 12,
+                "verse": 4,
+                "textEn": "And they will close the doors to the street, when the voice of he who grinds the grain will be humbled, and they will be disturbed at the sound of a flying thing, and all the daughters of song shall become deaf.",
+                "textLa": "et claudent ostia in platea, in humilitate vocis molentis, et consurgent ad vocem volucris, et obsurdescent omnes filiæ carminis.",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 5,
+                "textEn": "Likewise, they will fear the things above them, and they will dread the way. The almond tree will flourish; the locust will be fattened; and the caper plant will be scattered, because man shall go into the house of his eternity, and the mourners shall wander around in the street.",
+                "textLa": "Excelsa quoque timebunt, et formidabunt in via, florebit amygdalus, impinguabitur locusta, et dissipabitur capparis: quoniam ibit homo in domum æternitatis suæ, et circuibunt in platea plangentes.",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 6,
+                "textEn": "Before the silver cord is broken, and the golden band pulls away, and the pitcher is crushed over the fountain, and the wheel is broken above the cistern,",
+                "textLa": "Antequam rumpatur funiculus argenteus, et recurrat vitta aurea, et conteratur hydria super fontem, et confringatur rota super cisternam,",
+                "notes": "I realize that verses 2 and 6 are not complete sentences in English, but the alternative is to make the whole passage one extremely long sentence, or to repeat the phrase ‘Remember your Creator in the days of your youth, before…’ The Bible does not always follow modern rules of grammar and composition, so neither should a translator."
+            },
+            {
+                "chapter": 12,
+                "verse": 7,
+                "textEn": "and the dust returns to its earth, from which it was, and the spirit returns to God, who granted it.",
+                "textLa": "et revertatur pulvis in terram suam unde erat, et spiritus redeat ad Deum, qui dedit illum.",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 8,
+                "textEn": "Vanity of vanities, said Ecclesiastes, and all is vanity!",
+                "textLa": "Vanitas vanitatum, dixit Ecclesiastes, et omnia vanitas.",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 9,
+                "textEn": "And since Ecclesiastes was very wise, he taught the people, and he described what he had accomplished. And while searching, he composed many parables.",
+                "textLa": "Cumque esset sapientissimus Ecclesiastes, docuit populum, et enarravit quæ fecerat: et investigans composuit parabolas multas.",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 10,
+                "textEn": "He sought useful words, and he wrote most righteous words, which were full of truth.",
+                "textLa": "Quæsivit verba utilia, et conscripsit sermones rectissimos, ac veritate plenos.",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 11,
+                "textEn": "The words of the wise are like a goad, and like nails deeply fastened, which, through the counsel of teachers, are set forth by one pastor.",
+                "textLa": "Verba sapientium sicut stimuli, et quasi clavi in altum defixi, quæ per magistrorum consilium data sunt a pastore uno.",
+                "notes": "This verse refers to the wisdom of the Magisterium and especially the teaching of the Supreme Pastor of Souls, the Pope."
+            },
+            {
+                "chapter": 12,
+                "verse": 12,
+                "textEn": "You should require no more than this, my son. For there is no end to the making of many books. And excessive study is an affliction to the flesh.",
+                "textLa": "His amplius fili mi ne requiras. Faciendi plures libros nullus est finis: frequensque meditatio, carnis afflictio est.",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 13,
+                "textEn": "Let us all listen together to the end of the discourse. Fear God, and observe his commandments. This is everything for man.",
+                "textLa": "Finem loquendi pariter omnes audiamus. Deum time, et mandata eius observa: hoc est enim omnis homo:",
+                "notes": null
+            },
+            {
+                "chapter": 12,
+                "verse": 14,
+                "textEn": "And so, for all that is done and for each error, God will bring judgment: whether it was good or evil.",
+                "textLa": "et cuncta, quæ fiunt, adducet Deus in iudicium pro omni errato, sive bonum, sive malum illud sit.",
+                "notes": null
+            }
+        ]
+    }
+]

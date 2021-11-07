@@ -4,10 +4,7 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import kotlinx.serialization.encodeToString
 import kotlinx.serialization.json.Json
-import model.Book
-import model.Chapter
-import model.Verse
-import model.VerseCollector
+import model.*
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
 import java.io.File
@@ -17,7 +14,7 @@ import java.io.File
  */
 private class LatinVulgateEnglishStudyBible {
 
-    suspend fun scrapeAndBuildJson(url: String, bible: MutableList<Book>) {
+    suspend fun scrapeAndBuildJson(url: String, bible: MutableList<MultiLingualBook>, english: MutableList<Book>, latin: MutableList<Book>) {
 
         // read page content as a String
         val doc = connect(url).bodyAsString()
@@ -29,9 +26,9 @@ private class LatinVulgateEnglishStudyBible {
             .toMutableList()
 
         var prevIdStr = ""
-        val verses = mutableSetOf<Verse>()
+        val verses = mutableSetOf<MultiLingualVerse>()
         var verseCollector = VerseCollector()
-        var previousVerse = Verse(VerseCollector())
+        var previousVerse = multiLingualVerse(VerseCollector())
 
         var current = 0
         while (current < usefulBits.size) {
@@ -43,7 +40,7 @@ private class LatinVulgateEnglishStudyBible {
                     val english = it.substring(endOfId + 1).trim()
                     verseCollector.textEn = english
                     if (verseCollector.chapter != -1 && verseCollector.verse != -1) {
-                        val verse = Verse(verseCollector)
+                        val verse = multiLingualVerse(verseCollector)
                         verses += verse
                         previousVerse = verse
                     }
@@ -67,7 +64,7 @@ private class LatinVulgateEnglishStudyBible {
 
                     verseCollector.notes = notes
                     if (verseCollector.chapter != -1 && verseCollector.verse != -1) {
-                        val verse = Verse(verseCollector)
+                        val verse = multiLingualVerse(verseCollector)
                         verses += verse
                         if (previousVerse.chapter == verse.chapter && previousVerse.verse == verse.verse) {
                             verses -= previousVerse
@@ -78,9 +75,40 @@ private class LatinVulgateEnglishStudyBible {
             ++current
         }
         val list = verses.toList()
+
+        //
+        val eng: MutableList<Verse> = mutableListOf()
+        val lat: MutableList<Verse> = mutableListOf()
+
+        list.forEach {
+            eng += EnglishVerse(it)
+            lat += LatinVerse(it)
+        }
+
+        val englishChapters = eng.distinctBy { it.chapter }
+        val latinChapters = lat.distinctBy { it.chapter }
+
+        val engResult: List<Chapter> =
+            englishChapters.map { it.chapter }.map { chapNum -> Chapter(chapNum, eng.filter { it.chapter == chapNum }) }
+
+        val latResult: List<Chapter> =
+            latinChapters.map { it.chapter }.map { chapNum -> Chapter(chapNum, lat.filter { it.chapter == chapNum }) }
+/*
+        val jsonFormat = Json { prettyPrint = true }
+        val jsonOutEng = jsonFormat.encodeToString(engResult)
+        val jsonOutLat = jsonFormat.encodeToString(latResult)
+
+        val folderr = File("Generated-JSON")
+        if (!folderr.exists()) folderr.mkdir()
+
+        val subFolderr = File("Generated-JSON/Bibles")
+        if (!subFolderr.exists()) subFolderr.mkdir()*/
+
+        //
+
         val chapters = list.distinctBy { it.chapter }
-        val result: List<Chapter> =
-            chapters.map { it.chapter }.map { chapNum -> Chapter(chapNum, list.filter { it.chapter == chapNum }) }
+        val result: List<MultiLingualChapter> =
+            chapters.map { it.chapter }.map { chapNum -> MultiLingualChapter(chapNum, list.filter { it.chapter == chapNum }) }
 
         val format = Json { prettyPrint = true }
         val json = format.encodeToString(result)
@@ -97,13 +125,32 @@ private class LatinVulgateEnglishStudyBible {
         File(newFileName).writeText(json)
 
         bible.add(
-            Book(
+            MultiLingualBook(
                 bookNumber = bookName.substring(4, 6).toInt(),
                 book = bookName.substring(7),
                 testament = bookName.substring(1, 3),
                 chapters = result
             )
         )
+
+        english.add(
+            Book(
+                bookNumber = bookName.substring(4, 6).toInt(),
+                book = bookName.substring(7),
+                testament = bookName.substring(1, 3),
+                chapters = engResult
+            )
+        )
+
+        latin.add(
+            Book(
+                bookNumber = bookName.substring(4, 6).toInt(),
+                book = bookName.substring(7),
+                testament = bookName.substring(1, 3),
+                chapters = latResult
+            )
+        )
+
         println("Scrapped $bookName successfully!")
     }
 
@@ -112,17 +159,33 @@ private class LatinVulgateEnglishStudyBible {
 }
 
 suspend fun latinVulgateEnglishStudyBible() {
-    val books: MutableList<Book> = mutableListOf()
+    val books: MutableList<MultiLingualBook> = mutableListOf()
+    val english: MutableList<Book> = mutableListOf()
+    val latin: MutableList<Book> = mutableListOf()
     urls.forEach {
-        LatinVulgateEnglishStudyBible().scrapeAndBuildJson(it, books)
+        LatinVulgateEnglishStudyBible().scrapeAndBuildJson(it, books, english, latin)
     }
 
     val format = Json { prettyPrint = true }
     val json = format.encodeToString(books)
 
+    val engJson = format.encodeToString(english)
+    val latJson = format.encodeToString(latin)
+
     val newFileName = "Generated-JSON/Latin-Vulgate-English-Translation-Study-Bible/bible.json"
     File(newFileName).createNewFile()
     File(newFileName).writeText(json)
+
+    val subFolder = File("Generated-JSON/Bibles")
+    if (!subFolder.exists()) subFolder.mkdir()
+
+    val engFileName = "Generated-JSON/Bibles/cpdv.json"
+    File(engFileName).createNewFile()
+    File(engFileName).writeText(engJson)
+
+    val latFileName = "Generated-JSON/Bibles/vulgate.json"
+    File(latFileName).createNewFile()
+    File(latFileName).writeText(latJson)
 
     println("Parsing the Bible completed successfully!")
 }
